@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-28T10:53:31.109Z",
+ "updated_at": "2026-10-28T13:03:03.505Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3074156844,
+   "guid": "https://www.motorsport.com/f1/news/oliver-bearman-explains-why-haas-2026-f1-car-is-hitting-its-ceiling/10868899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Oliver Bearman explains why Haas’ 2026 F1 car is ‘hitting its ceiling’",
+   "summary": "Oliver Bearman believes Haas cannot extract much more performance from its 2026 Formula 1 car, following the United States Grand Prix. Bearman displayed encouraging Friday pace at the Circuit of The Americas, with 11th and 10th in the opening two free practice sessions, before slipping down the order – to the extent that he qualified just 16th.",
+   "link": "https://www.motorsport.com/f1/news/oliver-bearman-explains-why-haas-2026-f1-car-is-hitting-its-ceiling/10868899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T12:57:38.000Z"
+  },
+  {
+   "id": 1542618717,
+   "guid": "https://www.motorsport.com/f1/news/yet-another-dnf-for-cadillacs-valtteri-bottas-sometimes-we-dont-quite-understand-it/10868669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Yet another DNF for Cadillac’s Valtteri Bottas: ‘Sometimes we don’t quite understand it’",
+   "summary": "Valtteri Bottas described the Cadillac Formula 1 team as struggling to understand its issues, after he retired from Sunday’s United States Grand Prix. Bottas suffered his ninth retirement of the season at the Circuit of The Americas, a surprisingly high number for a driver whose pre-2026 DNF rate was 11%.",
+   "link": "https://www.motorsport.com/f1/news/yet-another-dnf-for-cadillacs-valtteri-bottas-sometimes-we-dont-quite-understand-it/10868669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T11:33:56.000Z"
+  },
   {
    "id": 2024037873,
    "guid": "https://www.motorsport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Austin's Formula 1 race was no instant classic, which was somewhat unfortunate because a lot of the ingredients were there. Four teams were relatively closely matched, and all three tyre compounds were in play to prompt a battle between different strategies.",
    "link": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-united-states-grand-prix/10868465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-26T01:48:25.000Z"
-  },
-  {
-   "id": 603324273,
-   "guid": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
-   "summary": "Red Bull team principal Laurent Mekies has admitted that the issue the team has faced at the start of races won't be fixed until next season. This comes after Isack Hadjar called for the clutch to be redesigned following a difficult start to his United States Grand Prix.",
-   "link": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T00:54:02.000Z"
-  },
-  {
-   "id": 1242189991,
-   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli reveals biggest mistakes of 2026 as Max Verstappen takes playful dig",
-   "summary": "Current Formula 1 championship leader Kimi Antonelli has listed the mistakes he wants to learn from this season as he closes in on the title, prompting a playful dig from Max Verstappen. The Mercedes driver won the United States Grand Prix at the Circuit of the Americas from pole position, claiming his ninth grand prix victory of the season.",
-   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T00:29:03.000Z"
   }
  ]
 }
