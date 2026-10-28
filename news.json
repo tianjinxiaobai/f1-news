@@ -1,6 +1,247 @@
 {
- "updated_at": "",
+ "updated_at": "2026-10-28T08:24:08.876Z",
  "source": "motorsport",
- "count": 0,
- "items": []
+ "count": 30,
+ "items": [
+  {
+   "id": 2190997881,
+   "guid": "https://www.motorsport.com/f1/news/fia-partners-with-aws-to-help-drive-future-f1-regulations/10868911/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "FIA partners with AWS to help drive future F1 regulations",
+   "summary": "The FIA has announced a wide-ranging partnership with Amazon Web Services as it aims to upgrade its digital capabilities. AWS will join as its Official AI and Cloud Computing Partner, as the governing body will use AWS's suite of AI tools to improve its capability to produce future technical regulations.",
+   "link": "https://www.motorsport.com/f1/news/fia-partners-with-aws-to-help-drive-future-f1-regulations/10868911/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T08:00:03.000Z"
+  },
+  {
+   "id": 18880111,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-admits-red-bull-was-just-a-little-average-in-austin/10868963/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen admits Red Bull was “just a little average” in Austin",
+   "summary": "Despite finishing on the podium, Max Verstappen was disappointed after the United States Grand Prix. Talking after the race, the Dutchman said his Red Bull team was \"just a little average\" as he faced the wrong tyre choice, power unit problems as well as radio issues.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-admits-red-bull-was-just-a-little-average-in-austin/10868963/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T02:50:03.000Z"
+  },
+  {
+   "id": 1441804376,
+   "guid": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-williams-surprise-victory-helped-him-secure-mercedes-role/10868959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Toto Wolff reveals how Williams' surprise victory helped him secure Mercedes role",
+   "summary": "Mercedes chief Toto Wolff revealed a jibe at Pastor Maldonado that helped him get his place on the team, as the Austrian businessman gave a comparison between the star Mercedes drivers and the then-Williams driver. Wolff was a shareholder and executive at Williams in 2012, when Maldonado took a surprising victory in the Spanish Grand Prix.",
+   "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-williams-surprise-victory-helped-him-secure-mercedes-role/10868959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T01:40:02.000Z"
+  },
+  {
+   "id": 1560592282,
+   "guid": "https://www.motorsport.com/f1/news/george-russell-f1-title-chances-defended-by-toto-wolff-after-helmut-marko-comments/10868961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "George Russell F1 title chances defended by Toto Wolff after Helmut Marko comments",
+   "summary": "Mercedes Formula 1 team chief Toto Wolff has rejected former Red Bull motorsport adviser Helmut Marko's claim that George Russell will never get another shot at the F1 title. Russell currently sits 123 points behind his team-mate and current championship leader Kimi Antonelli in the drivers' standings.",
+   "link": "https://www.motorsport.com/f1/news/george-russell-f1-title-chances-defended-by-toto-wolff-after-helmut-marko-comments/10868961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T00:51:35.000Z"
+  },
+  {
+   "id": 3264307110,
+   "guid": "https://www.motorsport.com/f1/news/helmut-marko-invests-in-ai-start-up-after-red-bull-f1-exit/10868955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
+   "summary": "Former Red Bull motorsport adviser Helmut Marko has become an investor in an Austrian artificial intelligence start-up that lets people leave personal messages to be delivered to loved ones after they die.",
+   "link": "https://www.motorsport.com/f1/news/helmut-marko-invests-in-ai-start-up-after-red-bull-f1-exit/10868955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T00:26:33.000Z"
+  },
+  {
+   "id": 1314244932,
+   "guid": "https://www.motorsport.com/f1/news/red-bull-responds-to-aston-martin-f1-power-unit-rumours/10868957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Red Bull responds to Aston Martin F1 power unit rumours",
+   "summary": "Red Bull team principal Laurent Mekies has confirmed that the team is not in \"serious conversations\" when it comes to supplying another Formula 1 team with power units. This includes Aston Martin. The Silverstone-based team has struggled with its power unit performance all season as its works partnership with Honda has been strained.",
+   "link": "https://www.motorsport.com/f1/news/red-bull-responds-to-aston-martin-f1-power-unit-rumours/10868957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T00:24:29.000Z"
+  },
+  {
+   "id": 3857483607,
+   "guid": "https://www.motorsport.com/f1/news/wolff-admits-its-painful-watching-george-russell-struggle-while-kimi-antonelli-walks-on-water/10868566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Toto Wolff takes blame for George Russell's US GP struggles",
+   "summary": "If you looked at the two sides of the Mercedes garage after Sunday's United States Grand Prix, you would assume they were running completely different machinery. On one side, sensation Andrea Kimi Antonelli was celebrating a miraculous, dominant race victory.",
+   "link": "https://www.motorsport.com/f1/news/wolff-admits-its-painful-watching-george-russell-struggle-while-kimi-antonelli-walks-on-water/10868566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-27T17:58:01.000Z"
+  },
+  {
+   "id": 598230173,
+   "guid": "https://www.motorsport.com/f1/news/valtteri-bottas-denies-he-might-lose-his-cadillac-seat-for-f1-2027/10868664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Valtteri Bottas denies he might lose his Cadillac seat for F1 2027",
+   "summary": "Valtteri Bottas insists Cadillac is happy with him and his contract is “all OK” for 2027, amid recent rumours about his Formula 1 future. Bottas’ recent lack of both qualifying and race pace has led to speculation on the driver market.",
+   "link": "https://www.motorsport.com/f1/news/valtteri-bottas-denies-he-might-lose-his-cadillac-seat-for-f1-2027/10868664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-27T17:29:14.000Z"
+  },
+  {
+   "id": 2281601397,
+   "guid": "https://www.motorsport.com/f1/news/franco-colapinto-george-russell-to-sit-out-fp1-at-f1-mexico-gp/10868889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Franco Colapinto, George Russell to sit out FP1 at F1 Mexico GP",
+   "summary": "Gabriele Mini is set to make his Formula 1 race weekend debut, driving Franco Colapinto’s Alpine in Free Practice 1 at the Mexico Grand Prix.",
+   "link": "https://www.motorsport.com/f1/news/franco-colapinto-george-russell-to-sit-out-fp1-at-f1-mexico-gp/10868889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-27T15:50:28.000Z"
+  },
+  {
+   "id": 3775016999,
+   "guid": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "The mistakes that cost Lewis Hamilton a podium at F1’s US GP",
+   "summary": "Lewis Hamilton has explained the reasons why the podium narrowly eluded him in Formula 1’s United States Grand Prix. The Ferrari driver started from fifth on the grid and jumped Isack Hadjar for fourth at lights out, despite being the only driver on used (soft) tyres for the opening stint.",
+   "link": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-27T15:01:07.000Z"
+  },
+  {
+   "id": 345410291,
+   "guid": "https://www.motorsport.com/f1/news/mclaren-boss-claims-the-mcl40-had-podium-pace-despite-a-disappointing-5th-and-7th/10868598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "McLaren boss claims the MCL40 had podium pace despite a “disappointing” P5 and P7",
+   "summary": "In modern Formula 1, raw race pace means absolutely nothing if you completely bottle your qualifying laps on Saturday afternoon. Without track position, you are simply burning up your tyres in dirty air while the race leaders cruise off into the distance. That is the reality McLaren faced at the United States Grand Prix.",
+   "link": "https://www.motorsport.com/f1/news/mclaren-boss-claims-the-mcl40-had-podium-pace-despite-a-disappointing-5th-and-7th/10868598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-27T14:27:14.000Z"
+  },
+  {
+   "id": 3965209190,
+   "guid": "https://www.motorsport.com/f1/news/i-just-couldnt-disappear-oliver-bearman-rues-crazy-10s-penalty-for-pierre-gasly-clash/10868777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "“I couldn’t disappear” – Oliver Bearman rues “crazy” penalty for Pierre Gasly clash",
+   "summary": "Oliver Bearman says he was “pretty shocked” to land a 10-second penalty for his collision with Pierre Gasly in Formula 1’s United States Grand Prix. Bearman gained two spots on the opening lap of the Austin race and made a move on 10th-placed Gasly on the next tour, down the inside in Turn 13.",
+   "link": "https://www.motorsport.com/f1/news/i-just-couldnt-disappear-oliver-bearman-rues-crazy-10s-penalty-for-pierre-gasly-clash/10868777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-27T13:51:23.000Z"
+  },
+  {
+   "id": 3130519935,
+   "guid": "https://www.motorsport.com/f1/news/toto-wolff-dismisses-helmut-marko--george-russell-theory/10868811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Toto Wolff dismisses Helmut Marko's Russell theory: \"He still has what it takes\"",
+   "summary": "Mercedes F1 boss Toto Wolff has dismissed suggestions from former Red Bull advisor Helmut Marko that there's no coming back for George Russell from being beaten to the world title by Kimi Antonelli. Antonelli is set to be crowned in the upcoming Mexico City Grand Prix barring exceptional circumstances delaying his coronation by one week.",
+   "link": "https://www.motorsport.com/f1/news/toto-wolff-dismisses-helmut-marko--george-russell-theory/10868811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-27T12:22:44.000Z"
+  },
+  {
+   "id": 411944475,
+   "guid": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
+   "summary": "The United States Grand Prix was a wildly successful weekend for Ferrari, if you strictly go off the timing sheets. The newly upgraded car possessed blazing-fast race pace, tyre degradation was fully under control, and Charles Leclerc dragged his machine to a brilliant second-place finish behind Mercedes’ Kimi Antonelli.",
+   "link": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T21:37:48.000Z"
+  },
+  {
+   "id": 2274654220,
+   "guid": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Red Bull reveals damage behind Max Verstappen's US GP struggles",
+   "summary": "When your star driver gets out of the car after grabbing a podium and immediately tells the global broadcast that the pitstops, tyres, and engine braking were all complete garbage, it is up to the team principal to jump on the nearest microphone and put out the fire.",
+   "link": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T21:16:47.000Z"
+  },
+  {
+   "id": 3793506330,
+   "guid": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "David Coulthard rejects F1 regulation excuses with Ayrton Senna and Michael Schumacher comparison",
+   "summary": "Former Formula 1 driver David Coulthard has dismissed the narrative that drivers can blame poor performance on the championship's new 2026 regulations, insisting the all-time greats successfully adapt to any machinery. F1 introduced a major regulation change in 2026.",
+   "link": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T18:48:29.000Z"
+  },
+  {
+   "id": 1920520072,
+   "guid": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "George Russell's Mercedes F1 future discussed amid Kimi Antonelli's success",
+   "summary": "George Russell's long-term future at Mercedes has been questioned following the United States Grand Prix. Russell entered the 2026 Formula 1 season as one of the favourites for the title. But after winning the season-opening Australian Grand Prix and the Chinese sprint race, the Briton watched as his team-mate Kimi Antonelli became the youngest driver to lead the championship.",
+   "link": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T17:16:28.000Z"
+  },
+  {
+   "id": 2764797549,
+   "guid": "https://www.motorsport.com/f1/news/why-mclaren-oscar-piastri-team-order-us-gp/10868686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why McLaren gave team order to Oscar Piastri in F1 US GP",
+   "summary": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix. Piastri and Norris locked out the fourth row of the grid at the Circuit of The Americas, having failed to challenge the Mercedes, Red Bulls and Ferraris in Q3.",
+   "link": "https://www.motorsport.com/f1/news/why-mclaren-oscar-piastri-team-order-us-gp/10868686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T17:15:33.000Z"
+  },
+  {
+   "id": 550008375,
+   "guid": "https://www.motorsport.com/f1/news/why-monza-win-from-19th-still-isnt-the-best-of-kimi-antonellis-dominant-f1-2026-season/10868448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why Monza win from 19th still isn't the best of Kimi Antonelli's dominant F1 2026 season",
+   "summary": "Kimi Antonelli pulled off a sensational victory from 19th at the Italian Grand Prix, but Formula 1’s champion-elect reckons his dominant performance from pole in Austin was even better. The Mercedes driver was forced into a back row start at Monza in September due to a change of power unit, yet the rapid Italian still scythed through the field to take victory.",
+   "link": "https://www.motorsport.com/f1/news/why-monza-win-from-19th-still-isnt-the-best-of-kimi-antonellis-dominant-f1-2026-season/10868448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T13:29:54.000Z"
+  },
+  {
+   "id": 3390936566,
+   "guid": "https://www.motorsport.com/f1/news/franco-colapinto-responds-to-jeremy-clarksons-controversial-comment-about-him/10868562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Franco Colapinto responds to Jeremy Clarkson’s controversial comment about him",
+   "summary": "Franco Colapinto has responded to Jeremy Clarkson’s comment that he would give the Alpine Formula 1 driver a grid penalty for being Argentinian. Clarkson was a guest of Alpine’s at the United States Grand Prix and gave an interview to Sky Sports F1 on Saturday, in which he joked: “Franco’s got a grid penalty for being Argentinian. Probably. Well, I’d give him one for that.",
+   "link": "https://www.motorsport.com/f1/news/franco-colapinto-responds-to-jeremy-clarksons-controversial-comment-about-him/10868562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T11:35:03.000Z"
+  },
+  {
+   "id": 783547589,
+   "guid": "https://www.motorsport.com/f1/news/juan-pablo-montoya-questions-george-russells-f1-united-states-gp-penalty/10868603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Juan Pablo Montoya questions George Russell's F1 United States GP penalty",
+   "summary": "Former Formula 1 driver Juan Pablo Montoya was \"surprised\" by George Russell's penalty at the United States Grand Prix, claiming the Mercedes driver did not gain an advantage from the incident. Russell was handed a five-second penalty for leaving the track at Turn 12 and rejoining ahead of McLaren's Oscar Piastri on the opening lap at the Circuit of the Americas.",
+   "link": "https://www.motorsport.com/f1/news/juan-pablo-montoya-questions-george-russells-f1-united-states-gp-penalty/10868603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T11:25:23.000Z"
+  },
+  {
+   "id": 3915611092,
+   "guid": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-lando-norris-10868577/10868577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Who slept worst last night: Lando Norris",
+   "summary": "Amid all the admiration for Kimi Antonelli, whose world championship celebrations in Austin on Sunday evening had to be put on ice until Mexico, one rather significant development in the 2026 Formula 1 season almost slipped under the radar: the first major verdict has been delivered. George Russell and Lewis Hamilton may still be in the title race, at least mathematically.",
+   "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-lando-norris-10868577/10868577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T10:40:11.000Z"
+  },
+  {
+   "id": 1623702463,
+   "guid": "https://www.motorsport.com/f1/news/who-slept-best-last-night-liam-lawson-10868533/10868533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Who slept best last night: Liam Lawson",
+   "summary": "Jolyon Palmer wasn't trying to be creative when he asked Liam Lawson about his future during F1 TV's live post-race coverage. It was simply a question anyone would ask – perhaps even Lawson himself. The sort of question you ask without really expecting an answer, more out of wonderment as to why the answer isn't already an obvious yes.",
+   "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-liam-lawson-10868533/10868533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T08:35:20.000Z"
+  },
+  {
+   "id": 3987105585,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen pinpoints two recurring Red Bull problems: \"We should use sign language!\"",
+   "summary": "Max Verstappen secured his tenth podium finish of the 2026 Formula 1 season in Austin, his sixth in succession since his crash at Zandvoort. It is an impressive statistic, although it did little to satisfy him at the Circuit of the Americas.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T06:55:30.000Z"
+  },
+  {
+   "id": 2224466321,
+   "guid": "https://www.motorsport.com/f1/news/fernando-alonso-blasts-driving-standards-of-bottom-half-of-f1-grid/10868467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Fernando Alonso blasts driving standards of bottom half of F1 grid",
+   "summary": "Fernando Alonso let rip at Williams' Alex Albon after contact between their cars on the opening lap of the Formula 1 United States Grand Prix. It cost the Aston Martin driver four places in Austin and left him with floor damage, which compromised the AMR26 for the rest of the race.",
+   "link": "https://www.motorsport.com/f1/news/fernando-alonso-blasts-driving-standards-of-bottom-half-of-f1-grid/10868467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T06:10:52.000Z"
+  },
+  {
+   "id": 272067872,
+   "guid": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-united-states-grand-prix/10868465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Winners and losers from F1's United States Grand Prix",
+   "summary": "Austin's Formula 1 race was no instant classic, which was somewhat unfortunate because a lot of the ingredients were there. Four teams were relatively closely matched, and all three tyre compounds were in play to prompt a battle between different strategies.",
+   "link": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-united-states-grand-prix/10868465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T01:48:25.000Z"
+  },
+  {
+   "id": 603324273,
+   "guid": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
+   "summary": "Red Bull team principal Laurent Mekies has admitted that the issue the team has faced at the start of races won't be fixed until next season. This comes after Isack Hadjar called for the clutch to be redesigned following a difficult start to his United States Grand Prix.",
+   "link": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T00:54:02.000Z"
+  },
+  {
+   "id": 1242189991,
+   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Kimi Antonelli reveals biggest mistakes of 2026 as Max Verstappen takes playful dig",
+   "summary": "Current Formula 1 championship leader Kimi Antonelli has listed the mistakes he wants to learn from this season as he closes in on the title, prompting a playful dig from Max Verstappen. The Mercedes driver won the United States Grand Prix at the Circuit of the Americas from pole position, claiming his ninth grand prix victory of the season.",
+   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T00:29:03.000Z"
+  },
+  {
+   "id": 1387350933,
+   "guid": "https://www.motorsport.com/f1/news/lando-norris-delivers-harsh-reality-check-as-mclarens-f1-struggles-continue/10868450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
+   "summary": "Reigning champion Lando Norris has admitted it's \"pretty obvious\" that McLaren has slipped from championship leaders to being the fourth-fastest team in Formula 1 after he finished fifth at the United States Grand Prix.",
+   "link": "https://www.motorsport.com/f1/news/lando-norris-delivers-harsh-reality-check-as-mclarens-f1-struggles-continue/10868450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T00:24:29.000Z"
+  },
+  {
+   "id": 216552723,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-jokes-red-bull-should-abandon-radios-after-united-states-gp-struggles/10868443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen jokes Red Bull should abandon radios after United States GP struggles",
+   "summary": "Max Verstappen has complained about Red Bull's repeated radio issues, calling them \"a disaster\" and joking that they should start communicating in sign language instead. The four-time champion finished third behind winner Kimi Antonelli and Charles Leclerc at the United States Grand Prix after what was a frustrating and issue-ridden race.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-jokes-red-bull-should-abandon-radios-after-united-states-gp-struggles/10868443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-26T00:05:32.000Z"
+  }
+ ]
 }
