@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-28T08:24:08.876Z",
+ "updated_at": "2026-10-28T10:53:31.109Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2024037873,
+   "guid": "https://www.motorsport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why Aston Martin and Red Bull were asked about an unlikely F1 engine partnership",
+   "summary": "One of the most remarkable moments on Sunday in Austin did not take place on the track itself, but rather in the Formula 1 paddock after the US Grand Prix. During the usual post-race media sessions, both Aston Martin and Red Bull’s representatives were asked about a subject that had very little to do with the race at the Circuit of the Americas – quite the opposite, in fact.",
+   "link": "https://www.motorsport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T09:39:24.000Z"
+  },
+  {
+   "id": 4160581928,
+   "guid": "https://www.motorsport.com/f1/news/audi-f1-power-unit-division-brings-back-ceo-role/10869006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Audi F1 power unit division brings back CEO role",
+   "summary": "Audi has announced Thomas Fuhr will become CEO of Audi Formula Racing GmbH, the Neuburg-based division developing its F1 power units. Fuhr will sit at the head of the Neuburg plant as an addition to the current team, which Audi says will allow chief technical director Stefan Dreyer to \"focus fully on leading the technical development of Audi’s Formula 1 power unit\".",
+   "link": "https://www.motorsport.com/f1/news/audi-f1-power-unit-division-brings-back-ceo-role/10869006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T08:54:54.000Z"
+  },
   {
    "id": 2190997881,
    "guid": "https://www.motorsport.com/f1/news/fia-partners-with-aws-to-help-drive-future-f1-regulations/10868911/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Current Formula 1 championship leader Kimi Antonelli has listed the mistakes he wants to learn from this season as he closes in on the title, prompting a playful dig from Max Verstappen. The Mercedes driver won the United States Grand Prix at the Circuit of the Americas from pole position, claiming his ninth grand prix victory of the season.",
    "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-26T00:29:03.000Z"
-  },
-  {
-   "id": 1387350933,
-   "guid": "https://www.motorsport.com/f1/news/lando-norris-delivers-harsh-reality-check-as-mclarens-f1-struggles-continue/10868450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
-   "summary": "Reigning champion Lando Norris has admitted it's \"pretty obvious\" that McLaren has slipped from championship leaders to being the fourth-fastest team in Formula 1 after he finished fifth at the United States Grand Prix.",
-   "link": "https://www.motorsport.com/f1/news/lando-norris-delivers-harsh-reality-check-as-mclarens-f1-struggles-continue/10868450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T00:24:29.000Z"
-  },
-  {
-   "id": 216552723,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-jokes-red-bull-should-abandon-radios-after-united-states-gp-struggles/10868443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen jokes Red Bull should abandon radios after United States GP struggles",
-   "summary": "Max Verstappen has complained about Red Bull's repeated radio issues, calling them \"a disaster\" and joking that they should start communicating in sign language instead. The four-time champion finished third behind winner Kimi Antonelli and Charles Leclerc at the United States Grand Prix after what was a frustrating and issue-ridden race.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-jokes-red-bull-should-abandon-radios-after-united-states-gp-struggles/10868443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T00:05:32.000Z"
   }
  ]
 }
