@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-10-28T16:57:52.841Z",
+ "updated_at": "2026-10-28T18:56:31.272Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2910326180,
+   "guid": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Christian Horner reveals details of Red Bull exit in emotional interview",
+   "summary": "Ever since Red Bull unceremoniously dropped Christian Horner on 9 July 2025, the Formula 1 paddock has been buzzing with endless speculation about what actually triggered the guillotine. Was it the early-2024 allegations? Was it the fact that Red Bull only managed to win two grand prix races in the first half of 2025? Or was it Max Verstappen’s camp finally forcing a hard ultimatum?",
+   "link": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T18:30:18.000Z"
+  },
   {
    "id": 1752310580,
    "guid": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-mexico-gp/10868922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Former Formula 1 driver Juan Pablo Montoya was \"surprised\" by George Russell's penalty at the United States Grand Prix, claiming the Mercedes driver did not gain an advantage from the incident. Russell was handed a five-second penalty for leaving the track at Turn 12 and rejoining ahead of McLaren's Oscar Piastri on the opening lap at the Circuit of the Americas.",
    "link": "https://www.motorsport.com/f1/news/juan-pablo-montoya-questions-george-russells-f1-united-states-gp-penalty/10868603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-26T11:25:23.000Z"
-  },
-  {
-   "id": 3915611092,
-   "guid": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-lando-norris-10868577/10868577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Who slept worst last night: Lando Norris",
-   "summary": "Amid all the admiration for Kimi Antonelli, whose world championship celebrations in Austin on Sunday evening had to be put on ice until Mexico, one rather significant development in the 2026 Formula 1 season almost slipped under the radar: the first major verdict has been delivered. George Russell and Lewis Hamilton may still be in the title race, at least mathematically.",
-   "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-lando-norris-10868577/10868577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T10:40:11.000Z"
   }
  ]
 }
