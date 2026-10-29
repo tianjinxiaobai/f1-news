@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-10-29T04:54:14.240Z",
+ "updated_at": "2026-10-29T07:03:33.022Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 375385204,
+   "guid": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
+   "summary": "Red Bull Racing has a long, highly complicated history with Australian drivers. Mark Webber helped build the team's winning foundation during Sebastian Vettel's championship years, while Daniel Ricciardo took the baton and led the garage at the dawn of the turbo-hybrid era.",
+   "link": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T05:05:03.000Z"
+  },
   {
    "id": 228737808,
    "guid": "https://www.motorsport.com/f1/news/christian-horner-admits-netflix-hijacked-his-f1-reputation-i-was-the-villain/10869051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "When your star driver gets out of the car after grabbing a podium and immediately tells the global broadcast that the pitstops, tyres, and engine braking were all complete garbage, it is up to the team principal to jump on the nearest microphone and put out the fire.",
    "link": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-26T21:16:47.000Z"
-  },
-  {
-   "id": 3793506330,
-   "guid": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "David Coulthard rejects F1 regulation excuses with Ayrton Senna and Michael Schumacher comparison",
-   "summary": "Former Formula 1 driver David Coulthard has dismissed the narrative that drivers can blame poor performance on the championship's new 2026 regulations, insisting the all-time greats successfully adapt to any machinery. F1 introduced a major regulation change in 2026.",
-   "link": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T18:48:29.000Z"
   }
  ]
 }
