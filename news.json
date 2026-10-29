@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-29T15:03:51.792Z",
+ "updated_at": "2026-10-29T16:59:45.029Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1167853786,
+   "guid": "https://www.motorsport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why Daniel Ricciardo would consider a comeback at Le Mans",
+   "summary": "Last month marked two years since Daniel Ricciardo’s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 – but is his career over?",
+   "link": "https://www.motorsport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T16:00:04.000Z"
+  },
+  {
+   "id": 1522769351,
+   "guid": "https://www.motorsport.com/f1/news/the-10-key-moments-that-defined-sergio-perezs-f1-career/10869046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "The 10 key moments that defined Sergio Perez's F1 career",
+   "summary": "This weekend, Sergio Perez joins the exclusive club of drivers with at least 300 Formula 1 race starts, a milestone achieved by legends such as Michael Schumacher, Jenson Button, and Rubens Barrichello. Throughout this journey, the Mexican driver has experienced several key moments that shaped his history in motorsport... 1.",
+   "link": "https://www.motorsport.com/f1/news/the-10-key-moments-that-defined-sergio-perezs-f1-career/10869046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T15:00:03.000Z"
+  },
   {
    "id": 2115041641,
    "guid": "https://www.motorsport.com/f1/news/does-daniel-ricciardo-regret-leaving-red-bull-for-renault/10869294/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,7 +126,7 @@
   {
    "id": 2509623213,
    "guid": "https://www.motorsport.com/f1/news/max-verstappen-sits-out-for-red-bull-in-mexico-gp-fp1/10869125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen sits out for Red Bull in Mexico GP FP1",
+   "title": "Max Verstappen sits out Mexico GP FP1 for Red Bull",
    "summary": "Max Verstappen will step aside during first practice at the Mexico City Grand Prix as Red Bull continues to complete its quota of rookie runs in FP1 sessions.",
    "link": "https://www.motorsport.com/f1/news/max-verstappen-sits-out-for-red-bull-in-mexico-gp-fp1/10869125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-28T16:17:13.000Z"
@@ -226,22 +242,6 @@
    "summary": "Valtteri Bottas insists Cadillac is happy with him and his contract is “all OK” for 2027, amid recent rumours about his Formula 1 future. Bottas’ recent lack of both qualifying and race pace has led to speculation on the driver market.",
    "link": "https://www.motorsport.com/f1/news/valtteri-bottas-denies-he-might-lose-his-cadillac-seat-for-f1-2027/10868664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-27T17:29:14.000Z"
-  },
-  {
-   "id": 2281601397,
-   "guid": "https://www.motorsport.com/f1/news/franco-colapinto-george-russell-to-sit-out-fp1-at-f1-mexico-gp/10868889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Franco Colapinto, George Russell to sit out FP1 at F1 Mexico GP",
-   "summary": "Gabriele Mini is set to make his Formula 1 race weekend debut, driving Franco Colapinto’s Alpine in Free Practice 1 at the Mexico Grand Prix.",
-   "link": "https://www.motorsport.com/f1/news/franco-colapinto-george-russell-to-sit-out-fp1-at-f1-mexico-gp/10868889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-27T15:50:28.000Z"
-  },
-  {
-   "id": 3775016999,
-   "guid": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "The mistakes that cost Lewis Hamilton a podium at F1’s US GP",
-   "summary": "Lewis Hamilton has explained the reasons why the podium narrowly eluded him in Formula 1’s United States Grand Prix. The Ferrari driver started from fifth on the grid and jumped Isack Hadjar for fourth at lights out, despite being the only driver on used (soft) tyres for the opening stint.",
-   "link": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-27T15:01:07.000Z"
   }
  ]
 }
