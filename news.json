@@ -1,8 +1,40 @@
 {
- "updated_at": "2026-10-28T22:47:55.258Z",
+ "updated_at": "2026-10-29T01:03:39.659Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3452241959,
+   "guid": "https://www.motorsport.com/f1/news/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-at-le-mans/10869169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Daniel Ricciardo opens door to racing return with Max Verstappen at Le Mans",
+   "summary": "Former Formula 1 driver Daniel Ricciardo has revealed he would consider a one-off appearance at the Le Mans 24 Hours and named his former Red Bull team-mate Max Verstappen as his first choice to share a car with.",
+   "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-at-le-mans/10869169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T00:41:02.000Z"
+  },
+  {
+   "id": 1814256832,
+   "guid": "https://www.motorsport.com/f1/news/daniel-ricciardo-reveals-major-regret-over-2018-red-bull-departure/10869167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Daniel Ricciardo reveals major regret over 2018 Red Bull departure",
+   "summary": "Daniel Ricciardo has admitted he wishes he had stayed at the Red Bull Formula 1 team rather than leaving at the end of the 2018 season. The Australian won seven grands prix with Red Bull, but shocked everyone when he left the team and joined Renault for 2019, leaving Max Verstappen as the team’s undisputed lead driver.",
+   "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-reveals-major-regret-over-2018-red-bull-departure/10869167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T00:26:45.000Z"
+  },
+  {
+   "id": 878257926,
+   "guid": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "FIA to use AI to help shape future F1 regulations in new AWS partnership",
+   "summary": "The Fédération Internationale de l'Automobile (FIA) will use artificial intelligence from Amazon Web Services (AWS) to help draw up the rules for Formula 1's next era of cars, after signing a new global partnership with the tech giant.",
+   "link": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T00:16:47.000Z"
+  },
+  {
+   "id": 2783910616,
+   "guid": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Christian Horner addresses past misconduct allegations in new interview",
+   "summary": "The allegations surrounding Christian Horner's final months at Red Bull Racing still draw questions from fans despite him being cleared of any wrongdoing. Now, 15 months after his exit from the team, Horner has finally broken his silence on that time. Sitting down with 60 Minutes Australia, the former team principal addressed the allegations with uncompromising defiance.",
+   "link": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-28T23:51:51.000Z"
+  },
   {
    "id": 2910326180,
    "guid": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -210,38 +242,6 @@
    "summary": "George Russell's long-term future at Mercedes has been questioned following the United States Grand Prix. Russell entered the 2026 Formula 1 season as one of the favourites for the title. But after winning the season-opening Australian Grand Prix and the Chinese sprint race, the Briton watched as his team-mate Kimi Antonelli became the youngest driver to lead the championship.",
    "link": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-26T17:16:28.000Z"
-  },
-  {
-   "id": 2764797549,
-   "guid": "https://www.motorsport.com/f1/news/why-mclaren-oscar-piastri-team-order-us-gp/10868686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Why McLaren gave team order to Oscar Piastri in F1 US GP",
-   "summary": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix. Piastri and Norris locked out the fourth row of the grid at the Circuit of The Americas, having failed to challenge the Mercedes, Red Bulls and Ferraris in Q3.",
-   "link": "https://www.motorsport.com/f1/news/why-mclaren-oscar-piastri-team-order-us-gp/10868686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T17:15:33.000Z"
-  },
-  {
-   "id": 550008375,
-   "guid": "https://www.motorsport.com/f1/news/why-monza-win-from-19th-still-isnt-the-best-of-kimi-antonellis-dominant-f1-2026-season/10868448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Why Monza win from 19th still isn't the best of Kimi Antonelli's dominant F1 2026 season",
-   "summary": "Kimi Antonelli pulled off a sensational victory from 19th at the Italian Grand Prix, but Formula 1’s champion-elect reckons his dominant performance from pole in Austin was even better. The Mercedes driver was forced into a back row start at Monza in September due to a change of power unit, yet the rapid Italian still scythed through the field to take victory.",
-   "link": "https://www.motorsport.com/f1/news/why-monza-win-from-19th-still-isnt-the-best-of-kimi-antonellis-dominant-f1-2026-season/10868448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T13:29:54.000Z"
-  },
-  {
-   "id": 3390936566,
-   "guid": "https://www.motorsport.com/f1/news/franco-colapinto-responds-to-jeremy-clarksons-controversial-comment-about-him/10868562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Franco Colapinto responds to Jeremy Clarkson’s controversial comment about him",
-   "summary": "Franco Colapinto has responded to Jeremy Clarkson’s comment that he would give the Alpine Formula 1 driver a grid penalty for being Argentinian. Clarkson was a guest of Alpine’s at the United States Grand Prix and gave an interview to Sky Sports F1 on Saturday, in which he joked: “Franco’s got a grid penalty for being Argentinian. Probably. Well, I’d give him one for that.",
-   "link": "https://www.motorsport.com/f1/news/franco-colapinto-responds-to-jeremy-clarksons-controversial-comment-about-him/10868562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T11:35:03.000Z"
-  },
-  {
-   "id": 783547589,
-   "guid": "https://www.motorsport.com/f1/news/juan-pablo-montoya-questions-george-russells-f1-united-states-gp-penalty/10868603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Juan Pablo Montoya questions George Russell's F1 United States GP penalty",
-   "summary": "Former Formula 1 driver Juan Pablo Montoya was \"surprised\" by George Russell's penalty at the United States Grand Prix, claiming the Mercedes driver did not gain an advantage from the incident. Russell was handed a five-second penalty for leaving the track at Turn 12 and rejoining ahead of McLaren's Oscar Piastri on the opening lap at the Circuit of the Americas.",
-   "link": "https://www.motorsport.com/f1/news/juan-pablo-montoya-questions-george-russells-f1-united-states-gp-penalty/10868603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T11:25:23.000Z"
   }
  ]
 }
