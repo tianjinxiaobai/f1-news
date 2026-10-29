@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-10-29T07:03:33.022Z",
+ "updated_at": "2026-10-29T08:59:41.276Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2981812556,
+   "guid": "https://www.motorsport.com/f1/news/will-christian-horner-buy-his-own-f1-team-the-sacked-boss-speaks-out/10869059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Christian Horner admits he doesn't need F1 return after £67 million Red Bull payout",
+   "summary": "When a high-profile Formula 1 executive is shown the door, the rumour mill immediately shifts to where they will land next. But in the case of Christian Horner, his departure from Red Bull Racing in 2025 came with a golden parachute so immense that it completely rewrote his career trajectory.",
+   "link": "https://www.motorsport.com/f1/news/will-christian-horner-buy-his-own-f1-team-the-sacked-boss-speaks-out/10869059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T07:05:02.000Z"
+  },
   {
    "id": 375385204,
    "guid": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "The United States Grand Prix was a wildly successful weekend for Ferrari, if you strictly go off the timing sheets. The newly upgraded car possessed blazing-fast race pace, tyre degradation was fully under control, and Charles Leclerc dragged his machine to a brilliant second-place finish behind Mercedes’ Kimi Antonelli.",
    "link": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-26T21:37:48.000Z"
-  },
-  {
-   "id": 2274654220,
-   "guid": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Red Bull reveals damage behind Max Verstappen's US GP struggles",
-   "summary": "When your star driver gets out of the car after grabbing a podium and immediately tells the global broadcast that the pitstops, tyres, and engine braking were all complete garbage, it is up to the team principal to jump on the nearest microphone and put out the fire.",
-   "link": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T21:16:47.000Z"
   }
  ]
 }
