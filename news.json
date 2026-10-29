@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-10-29T02:54:27.780Z",
+ "updated_at": "2026-10-29T04:54:14.240Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 228737808,
+   "guid": "https://www.motorsport.com/f1/news/christian-horner-admits-netflix-hijacked-his-f1-reputation-i-was-the-villain/10869051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Christian Horner reveals why Netflix made him the villain of \"Drive to Survive\"",
+   "summary": "Before Netflix brought its cameras into the Formula 1 paddock, team principals were largely viewed as calculating, stoic directors operating quietly from the pitwall. By the time Christian Horner left, the role had evolved into something entirely different.",
+   "link": "https://www.motorsport.com/f1/news/christian-horner-admits-netflix-hijacked-his-f1-reputation-i-was-the-villain/10869051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T03:05:03.000Z"
+  },
   {
    "id": 3452241959,
    "guid": "https://www.motorsport.com/f1/news/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-at-le-mans/10869169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Former Formula 1 driver David Coulthard has dismissed the narrative that drivers can blame poor performance on the championship's new 2026 regulations, insisting the all-time greats successfully adapt to any machinery. F1 introduced a major regulation change in 2026.",
    "link": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-26T18:48:29.000Z"
-  },
-  {
-   "id": 1920520072,
-   "guid": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "George Russell's Mercedes F1 future discussed amid Kimi Antonelli's success",
-   "summary": "George Russell's long-term future at Mercedes has been questioned following the United States Grand Prix. Russell entered the 2026 Formula 1 season as one of the favourites for the title. But after winning the season-opening Australian Grand Prix and the Chinese sprint race, the Briton watched as his team-mate Kimi Antonelli became the youngest driver to lead the championship.",
-   "link": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-26T17:16:28.000Z"
   }
  ]
 }
