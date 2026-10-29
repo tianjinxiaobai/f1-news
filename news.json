@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-29T16:59:45.029Z",
+ "updated_at": "2026-10-29T18:58:30.141Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3394486021,
+   "guid": "https://www.motorsport.com/f1/news/f1-mexico-gp-friday-schedule-weather-forecast-and-how-to-watch/10869379/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 Mexico GP: Friday schedule, weather forecast and how to watch",
+   "summary": "Formula 1 heads to Mexico City this weekend with Kimi Antonelli on the verge of securing his first world championship after dominating the United States Grand Prix. The Mercedes driver claimed his ninth victory of the season in Austin and now leads team-mate George Russell by 123 points, with Lewis Hamilton a further point behind.",
+   "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-friday-schedule-weather-forecast-and-how-to-watch/10869379/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T18:31:21.000Z"
+  },
+  {
+   "id": 2066033096,
+   "guid": "https://www.motorsport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Unwell Kimi Antonelli skips F1 Mexico GP media day",
+   "summary": "Kimi Antonelli won’t attend Formula 1’s Mexico Grand Prix on Thursday due to feeling unwell, the Mercedes team has revealed. A spokesperson for the Anglo-German outfit told media that the championship leader was “feeling under the weather” due to a “viral illness” he has been recovering, with the FIA therefore excusing him from today’s media activities.",
+   "link": "https://www.motorsport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T17:05:45.000Z"
+  },
   {
    "id": 1167853786,
    "guid": "https://www.motorsport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Red Bull team principal Laurent Mekies has confirmed that the team is not in \"serious conversations\" when it comes to supplying another Formula 1 team with power units. This includes Aston Martin. The Silverstone-based team has struggled with its power unit performance all season as its works partnership with Honda has been strained.",
    "link": "https://www.motorsport.com/f1/news/red-bull-responds-to-aston-martin-f1-power-unit-rumours/10868957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-28T00:24:29.000Z"
-  },
-  {
-   "id": 3857483607,
-   "guid": "https://www.motorsport.com/f1/news/wolff-admits-its-painful-watching-george-russell-struggle-while-kimi-antonelli-walks-on-water/10868566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Toto Wolff takes blame for George Russell's US GP struggles",
-   "summary": "If you looked at the two sides of the Mercedes garage after Sunday's United States Grand Prix, you would assume they were running completely different machinery. On one side, sensation Andrea Kimi Antonelli was celebrating a miraculous, dominant race victory.",
-   "link": "https://www.motorsport.com/f1/news/wolff-admits-its-painful-watching-george-russell-struggle-while-kimi-antonelli-walks-on-water/10868566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-27T17:58:01.000Z"
-  },
-  {
-   "id": 598230173,
-   "guid": "https://www.motorsport.com/f1/news/valtteri-bottas-denies-he-might-lose-his-cadillac-seat-for-f1-2027/10868664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Valtteri Bottas denies he might lose his Cadillac seat for F1 2027",
-   "summary": "Valtteri Bottas insists Cadillac is happy with him and his contract is “all OK” for 2027, amid recent rumours about his Formula 1 future. Bottas’ recent lack of both qualifying and race pace has led to speculation on the driver market.",
-   "link": "https://www.motorsport.com/f1/news/valtteri-bottas-denies-he-might-lose-his-cadillac-seat-for-f1-2027/10868664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-27T17:29:14.000Z"
   }
  ]
 }
