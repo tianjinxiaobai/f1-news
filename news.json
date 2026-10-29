@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-29T10:55:36.504Z",
+ "updated_at": "2026-10-29T13:04:18.047Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1484189986,
+   "guid": "https://www.motorsport.com/f1/news/cadillac-honoured-to-have-sergio-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Cadillac 'honoured' to have Sergio Perez as special 300th race celebration planned for Mexico GP",
+   "summary": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.",
+   "link": "https://www.motorsport.com/f1/news/cadillac-honoured-to-have-sergio-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T13:00:03.000Z"
+  },
+  {
+   "id": 3541045584,
+   "guid": "https://www.motorsport.com/f1/news/sebastian-vettel-reveals-why-bmw-didnt-want-him-but-red-bull-did/10869300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Sebastian Vettel reveals why BMW didn't want him – but Red Bull did",
+   "summary": "Sebastian Vettel has opened up about his early years in Formula 1 in the new ARD documentary Being Sebastian Vettel – and how German manufacturer BMW initially supported him before ultimately letting him go. The four-time F1 world champion said: \"In the end, the whole BMW story didn't really work out as originally planned.",
+   "link": "https://www.motorsport.com/f1/news/sebastian-vettel-reveals-why-bmw-didnt-want-him-but-red-bull-did/10869300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T12:18:06.000Z"
+  },
   {
    "id": 4045038918,
    "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-to-build-a-racing-academy-and-team-up-with-his-dad-in-gt3/10869239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "In modern Formula 1, raw race pace means absolutely nothing if you completely bottle your qualifying laps on Saturday afternoon. Without track position, you are simply burning up your tyres in dirty air while the race leaders cruise off into the distance. That is the reality McLaren faced at the United States Grand Prix.",
    "link": "https://www.motorsport.com/f1/news/mclaren-boss-claims-the-mcl40-had-podium-pace-despite-a-disappointing-5th-and-7th/10868598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-27T14:27:14.000Z"
-  },
-  {
-   "id": 3965209190,
-   "guid": "https://www.motorsport.com/f1/news/i-just-couldnt-disappear-oliver-bearman-rues-crazy-10s-penalty-for-pierre-gasly-clash/10868777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "“I couldn’t disappear” – Oliver Bearman rues “crazy” penalty for Pierre Gasly clash",
-   "summary": "Oliver Bearman says he was “pretty shocked” to land a 10-second penalty for his collision with Pierre Gasly in Formula 1’s United States Grand Prix. Bearman gained two spots on the opening lap of the Austin race and made a move on 10th-placed Gasly on the next tour, down the inside in Turn 13.",
-   "link": "https://www.motorsport.com/f1/news/i-just-couldnt-disappear-oliver-bearman-rues-crazy-10s-penalty-for-pierre-gasly-clash/10868777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-27T13:51:23.000Z"
-  },
-  {
-   "id": 3130519935,
-   "guid": "https://www.motorsport.com/f1/news/toto-wolff-dismisses-helmut-marko--george-russell-theory/10868811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Toto Wolff dismisses Helmut Marko's Russell theory: \"He still has what it takes\"",
-   "summary": "Mercedes F1 boss Toto Wolff has dismissed suggestions from former Red Bull advisor Helmut Marko that there's no coming back for George Russell from being beaten to the world title by Kimi Antonelli. Antonelli is set to be crowned in the upcoming Mexico City Grand Prix barring exceptional circumstances delaying his coronation by one week.",
-   "link": "https://www.motorsport.com/f1/news/toto-wolff-dismisses-helmut-marko--george-russell-theory/10868811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-27T12:22:44.000Z"
   }
  ]
 }
