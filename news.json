@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-10-30T18:53:53.022Z",
+ "updated_at": "2026-10-30T20:49:03.861Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2800613756,
+   "guid": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 Mexico GP: Charles Leclerc beats Kimi Antonelli to top FP1",
+   "summary": "Charles Leclerc was comfortably fastest in opening practice for the Formula 1 Mexico Grand Prix, beating runner-up Kimi Antonelli in a session 10 rookies took part in. The Ferrari driver set a 1m18.128s that was six tenths faster than Formula 1’s champion-elect, whose Mercedes stablemate Frederik Vesti completed the top three with a 1m18.861s.",
+   "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T19:38:35.000Z"
+  },
   {
    "id": 1204682090,
    "guid": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Sebastian Vettel has opened up about his early years in Formula 1 in the new ARD documentary Being Sebastian Vettel – and how German manufacturer BMW initially supported him before ultimately letting him go. The four-time F1 world champion said: \"In the end, the whole BMW story didn't really work out as originally planned.",
    "link": "https://www.motorsport.com/f1/news/sebastian-vettel-reveals-why-bmw-didnt-want-him-but-red-bull-did/10869300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-29T12:18:06.000Z"
-  },
-  {
-   "id": 4045038918,
-   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-to-build-a-racing-academy-and-team-up-with-his-dad-in-gt3/10869239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli reveals plans to launch his own racing academy outside F1",
-   "summary": "At just 20 years old, Andrea Kimi Antonelli is currently busy making records on his second season of his Formula 1 career. But apparently, casually dominating the 2026 World Championship in a Mercedes isn't quite enough to keep the Italian phenom occupied.",
-   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-to-build-a-racing-academy-and-team-up-with-his-dad-in-gt3/10869239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T09:53:32.000Z"
   }
  ]
 }
