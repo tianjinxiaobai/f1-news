@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-10-29T22:50:10.005Z",
+ "updated_at": "2026-10-30T01:06:12.120Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 745366896,
+   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-im-built-differently-as-he-eyes-f1-career-into-2030s/10869464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Lewis Hamilton: “I’m built differently” as he eyes F1 career into 2030s",
+   "summary": "Seven-time Formula 1 world champion Lewis Hamilton insists he is “built differently” as he discusses the idea of extending his career long enough to race at the new African Grand Prix. F1 recently announced a 10-year deal with Rwanda to host a race at a new circuit near Kigali, with the event expected to join the calendar in the early 2030s.",
+   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-im-built-differently-as-he-eyes-f1-career-into-2030s/10869464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-29T22:52:21.000Z"
+  },
   {
    "id": 2487556697,
    "guid": "https://www.motorsport.com/f1/news/max-verstappen-discusses-hidden-toll-of-f1-calendar-after-two-drivers-fall-ill/10869459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Formula 1 is back again this weekend with the highly popular Mexico Grand Prix, which comes just seven days after Kimi Antonelli romped to victory in Austin. That was the Mercedes driver’s ninth win of the 2026 season after dominating from pole in a race largely defined by strategy with Antonelli nailing a one-stopper.",
    "link": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-mexico-gp/10868922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-28T16:51:15.000Z"
-  },
-  {
-   "id": 2509623213,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-sits-out-for-red-bull-in-mexico-gp-fp1/10869125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen sits out Mexico GP FP1 for Red Bull",
-   "summary": "Max Verstappen will step aside during first practice at the Mexico City Grand Prix as Red Bull continues to complete its quota of rookie runs in FP1 sessions.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-sits-out-for-red-bull-in-mexico-gp-fp1/10869125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-28T16:17:13.000Z"
   }
  ]
 }
