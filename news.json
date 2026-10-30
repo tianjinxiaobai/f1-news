@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-10-30T07:04:09.271Z",
+ "updated_at": "2026-10-30T09:00:01.164Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 662174842,
+   "guid": "https://www.motorsport.com/f1/news/george-russell-predicts-key-ferrari-advantage-at-f1-mexico-gp/10869473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "George Russell predicts key Ferrari \"advantage\" at F1 Mexican GP",
+   "summary": "Mercedes driver George Russell reckons Ferrari has \"quite an advantage\" at F1's Mexican Grand Prix with its turbo design, while Charles Leclerc still believes Mercedes has the best car \"wherever we go\". Mexico's capital megalopolis sits on a 2250m plateau, which gives the Autodromo Hermanos Rodriguez one of the most unique engineering challenges.",
+   "link": "https://www.motorsport.com/f1/news/george-russell-predicts-key-ferrari-advantage-at-f1-mexico-gp/10869473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T08:12:07.000Z"
+  },
   {
    "id": 745366896,
    "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-im-built-differently-as-he-eyes-f1-career-into-2030s/10869464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Ever since Red Bull unceremoniously dropped Christian Horner on 9 July 2025, the Formula 1 paddock has been buzzing with endless speculation about what actually triggered the guillotine. Was it the early-2024 allegations? Was it the fact that Red Bull only managed to win two grand prix races in the first half of 2025? Or was it Max Verstappen’s camp finally forcing a hard ultimatum?",
    "link": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-28T18:30:18.000Z"
-  },
-  {
-   "id": 1752310580,
-   "guid": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-mexico-gp/10868922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Five things to look out for at the F1 Mexico GP",
-   "summary": "Formula 1 is back again this weekend with the highly popular Mexico Grand Prix, which comes just seven days after Kimi Antonelli romped to victory in Austin. That was the Mercedes driver’s ninth win of the 2026 season after dominating from pole in a race largely defined by strategy with Antonelli nailing a one-stopper.",
-   "link": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-mexico-gp/10868922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-28T16:51:15.000Z"
   }
  ]
 }
