@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-30T20:49:03.861Z",
+ "updated_at": "2026-10-30T22:45:32.429Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1789188627,
+   "guid": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "What's behind \"absolute nonsense\" Oliver Bearman contract rumours",
+   "summary": "Formula 1's driver-contract season was thought to be long over, but a bizarre claim about one of the few remaining out-of-contract drivers has gained surprising traction in the run-up to the Mexico Grand Prix weekend.",
+   "link": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T22:12:06.000Z"
+  },
+  {
+   "id": 3121265846,
+   "guid": "https://www.motorsport.com/f1/news/red-bull-f1-boss-laurent-mekies-hits-back-at-christian-horners-lost-its-mojo-claim/10869825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Red Bull F1 boss Laurent Mekies hits back at Christian Horner's \"lost its mojo\" claim",
+   "summary": "Red Bull Racing CEO and team principal Laurent Mekies has rejected Christian Horner's claim that the Milton Keynes outfit has \"lost its mojo\" since his exit, insisting its spirit has driven a \"very remarkable\" turnaround. Horner, who left the team in July 2025 after two decades in charge, has been promoting his memoir Drive, which was published last week.",
+   "link": "https://www.motorsport.com/f1/news/red-bull-f1-boss-laurent-mekies-hits-back-at-christian-horners-lost-its-mojo-claim/10869825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T21:30:38.000Z"
+  },
   {
    "id": 2800613756,
    "guid": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Back in July 2018, Daniel Ricciardo was one of the most highly-rated drivers in the Formula 1 paddock. He had been in the Red Bull family for a decade, since his early junior single-seater career, and was now spearheading the brand’s effort in the world championship.",
    "link": "https://www.motorsport.com/f1/news/does-daniel-ricciardo-regret-leaving-red-bull-for-renault/10869294/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-29T14:03:04.000Z"
-  },
-  {
-   "id": 1484189986,
-   "guid": "https://www.motorsport.com/f1/news/cadillac-honoured-to-have-sergio-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Cadillac 'honoured' to have Sergio Perez as special 300th race celebration planned for Mexico GP",
-   "summary": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.",
-   "link": "https://www.motorsport.com/f1/news/cadillac-honoured-to-have-sergio-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T13:00:03.000Z"
-  },
-  {
-   "id": 3541045584,
-   "guid": "https://www.motorsport.com/f1/news/sebastian-vettel-reveals-why-bmw-didnt-want-him-but-red-bull-did/10869300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Sebastian Vettel reveals why BMW didn't want him – but Red Bull did",
-   "summary": "Sebastian Vettel has opened up about his early years in Formula 1 in the new ARD documentary Being Sebastian Vettel – and how German manufacturer BMW initially supported him before ultimately letting him go. The four-time F1 world champion said: \"In the end, the whole BMW story didn't really work out as originally planned.",
-   "link": "https://www.motorsport.com/f1/news/sebastian-vettel-reveals-why-bmw-didnt-want-him-but-red-bull-did/10869300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T12:18:06.000Z"
   }
  ]
 }
