@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-30T16:54:53.626Z",
+ "updated_at": "2026-10-30T18:53:53.022Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1204682090,
+   "guid": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "What Fernando Alonso is getting wrong about F1 driving standards",
+   "summary": "When Fernando Alonso declared \"the quality of the drivers in the lower third of the grid is very low\" in the aftermath of last weekend's United States Grand Prix in Austin, he inadvertently poked a hornets' nest. While Alonso doubled down on his criticism this week in Mexico, singling out Alex Albon, many other drivers have spoken up in the Williams driver's defence.",
+   "link": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T18:28:52.000Z"
+  },
+  {
+   "id": 4002334968,
+   "guid": "https://www.motorsport.com/f1/news/serio-perez-to-skip-f1-mexico-gp-fan-forum-due-to-illness/10869750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Sergio Perez to skip F1 Mexico GP fan forum due to illness",
+   "summary": "Sergio Perez will skip the fan forum for this weekend’s Mexico Grand Prix, but is still expected to contest both Friday practice sessions at Autodromo Hermanos Rodriguez. The Cadillac driver is confirmed to be feeling unwell ahead of his home race, and this also comes after team-mate Valtteri Bottas skipped Thursday’s media day due to illness.",
+   "link": "https://www.motorsport.com/f1/news/serio-perez-to-skip-f1-mexico-gp-fan-forum-due-to-illness/10869750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T17:10:40.000Z"
+  },
   {
    "id": 2498043273,
    "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "At just 20 years old, Andrea Kimi Antonelli is currently busy making records on his second season of his Formula 1 career. But apparently, casually dominating the 2026 World Championship in a Mercedes isn't quite enough to keep the Italian phenom occupied.",
    "link": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-to-build-a-racing-academy-and-team-up-with-his-dad-in-gt3/10869239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-29T09:53:32.000Z"
-  },
-  {
-   "id": 2981812556,
-   "guid": "https://www.motorsport.com/f1/news/will-christian-horner-buy-his-own-f1-team-the-sacked-boss-speaks-out/10869059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Christian Horner admits he doesn't need F1 return after £67 million Red Bull payout",
-   "summary": "When a high-profile Formula 1 executive is shown the door, the rumour mill immediately shifts to where they will land next. But in the case of Christian Horner, his departure from Red Bull Racing in 2025 came with a golden parachute so immense that it completely rewrote his career trajectory.",
-   "link": "https://www.motorsport.com/f1/news/will-christian-horner-buy-his-own-f1-team-the-sacked-boss-speaks-out/10869059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T07:05:02.000Z"
-  },
-  {
-   "id": 375385204,
-   "guid": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
-   "summary": "Red Bull Racing has a long, highly complicated history with Australian drivers. Mark Webber helped build the team's winning foundation during Sebastian Vettel's championship years, while Daniel Ricciardo took the baton and led the garage at the dawn of the turbo-hybrid era.",
-   "link": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T05:05:03.000Z"
   }
  ]
 }
