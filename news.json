@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-30T13:02:12.019Z",
+ "updated_at": "2026-10-30T15:02:00.256Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2644938186,
+   "guid": "https://www.motorsport.com/f1/news/sergio-perez-praises-colton-herta-impact-but-has-no-say-over-2027-cadillac-team-mate-choice/10869487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Sergio Perez praises Colton Herta impact - but has no say over 2027 Cadillac F1 team-mate choice",
+   "summary": "Sergio Perez has insisted he will have no say on his Cadillac Formula 1 team-mate for 2027 after signing a new contract ahead of the Mexican Grand Prix.",
+   "link": "https://www.motorsport.com/f1/news/sergio-perez-praises-colton-herta-impact-but-has-no-say-over-2027-cadillac-team-mate-choice/10869487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T14:30:02.000Z"
+  },
+  {
+   "id": 3786794581,
+   "guid": "https://www.motorsport.com/f1/news/why-ignorance-is-a-superpower-for-kimi-antonelli-according-to-daniel-ricciardo/10869339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why “ignorance is a superpower” for Kimi Antonelli, according to Daniel Ricciardo",
+   "summary": "Daniel Ricciardo believes Kimi Antonelli’s age and innocence is what has made him so successful in the 2026 Formula 1 season. Nine victories so far in his sophomore F1 campaign have taken Antonelli to the brink of his maiden world title. All the Mercedes driver needs to be crowned in Sunday’s Mexican Grand Prix is ninth place, or for neither George Russell nor Lewis Hamilton to win.",
+   "link": "https://www.motorsport.com/f1/news/why-ignorance-is-a-superpower-for-kimi-antonelli-according-to-daniel-ricciardo/10869339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T13:30:04.000Z"
+  },
   {
    "id": 1757223931,
    "guid": "https://www.motorsport.com/f1/news/isack-hadjar-admits-after-criticising-red-bull-theres-stuff-that-i-should-have-kept-for-myself/10869496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Former Formula 1 driver Daniel Ricciardo has revealed he would consider a one-off appearance at the Le Mans 24 Hours and named his former Red Bull team-mate Max Verstappen as his first choice to share a car with.",
    "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-at-le-mans/10869169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-29T00:41:02.000Z"
-  },
-  {
-   "id": 1814256832,
-   "guid": "https://www.motorsport.com/f1/news/daniel-ricciardo-reveals-major-regret-over-2018-red-bull-departure/10869167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Daniel Ricciardo reveals major regret over 2018 Red Bull departure",
-   "summary": "Daniel Ricciardo has admitted he wishes he had stayed at the Red Bull Formula 1 team rather than leaving at the end of the 2018 season. The Australian won seven grands prix with Red Bull, but shocked everyone when he left the team and joined Renault for 2019, leaving Max Verstappen as the team’s undisputed lead driver.",
-   "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-reveals-major-regret-over-2018-red-bull-departure/10869167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T00:26:45.000Z"
-  },
-  {
-   "id": 878257926,
-   "guid": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "FIA to use AI to help shape future F1 regulations in new AWS partnership",
-   "summary": "The Fédération Internationale de l'Automobile (FIA) will use artificial intelligence from Amazon Web Services (AWS) to help draw up the rules for Formula 1's next era of cars, after signing a new global partnership with the tech giant.",
-   "link": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T00:16:47.000Z"
   }
  ]
 }
