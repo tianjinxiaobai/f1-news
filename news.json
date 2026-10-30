@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-30T09:00:01.164Z",
+ "updated_at": "2026-10-30T10:54:01.975Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1757223931,
+   "guid": "https://www.motorsport.com/f1/news/isack-hadjar-admits-after-criticising-red-bull-theres-stuff-that-i-should-have-kept-for-myself/10869496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Isack Hadjar admits after criticising Red Bull: \"There's stuff that I should have kept for myself\"",
+   "summary": "After the United States Grand Prix, Isack Hadjar was critical of Red Bull's execution, as was Max Verstappen. Both drivers were unhappy with the strategy and, on top of that, were hampered by two problems that have been troubling the Formula 1 team for a long time: technical issues with the team radio and problematic starts. \"I have poor radio, I don't even know what's happening.",
+   "link": "https://www.motorsport.com/f1/news/isack-hadjar-admits-after-criticising-red-bull-theres-stuff-that-i-should-have-kept-for-myself/10869496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T10:47:31.000Z"
+  },
+  {
+   "id": 1997750860,
+   "guid": "https://www.motorsport.com/f1/news/why-f1s-new-regulations-make-the-mexican-gp-an-even-bigger-challenge/10869622/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why F1's new regulations make the Mexican GP an even bigger challenge",
+   "summary": "At 2,286 metres above sea level, the Autodromo Hermanos Rodriguez is by far the highest-altitude venue on the Formula 1 calendar. This naturally means thinner air, which presents a unique challenge at the Mexican Grand Prix for teams and manufacturers in two ways.",
+   "link": "https://www.motorsport.com/f1/news/why-f1s-new-regulations-make-the-mexican-gp-an-even-bigger-challenge/10869622/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-30T09:55:11.000Z"
+  },
   {
    "id": 662174842,
    "guid": "https://www.motorsport.com/f1/news/george-russell-predicts-key-ferrari-advantage-at-f1-mexico-gp/10869473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "The Fédération Internationale de l'Automobile (FIA) will use artificial intelligence from Amazon Web Services (AWS) to help draw up the rules for Formula 1's next era of cars, after signing a new global partnership with the tech giant.",
    "link": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-29T00:16:47.000Z"
-  },
-  {
-   "id": 2783910616,
-   "guid": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Christian Horner addresses past misconduct allegations in new interview",
-   "summary": "The allegations surrounding Christian Horner's final months at Red Bull Racing still draw questions from fans despite him being cleared of any wrongdoing. Now, 15 months after his exit from the team, Horner has finally broken his silence on that time. Sitting down with 60 Minutes Australia, the former team principal addressed the allegations with uncompromising defiance.",
-   "link": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-28T23:51:51.000Z"
-  },
-  {
-   "id": 2910326180,
-   "guid": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Christian Horner reveals details of Red Bull exit in emotional interview",
-   "summary": "Ever since Red Bull unceremoniously dropped Christian Horner on 9 July 2025, the Formula 1 paddock has been buzzing with endless speculation about what actually triggered the guillotine. Was it the early-2024 allegations? Was it the fact that Red Bull only managed to win two grand prix races in the first half of 2025? Or was it Max Verstappen’s camp finally forcing a hard ultimatum?",
-   "link": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-28T18:30:18.000Z"
   }
  ]
 }
