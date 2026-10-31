@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-31T14:44:10.442Z",
+ "updated_at": "2026-10-31T16:44:30.317Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1214764922,
+   "guid": "https://www.motorsport.com/f1/news/george-russell-mercedes-out-of-performance-window-at-mexico-gp/10870173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Mercedes out of performance window at Mexico GP - George Russell",
+   "summary": "George Russell is enduring further difficulties with the upgraded Mercedes Formula 1 car, as it was outside the optimum set-up in Friday practice at the Mexico Grand Prix. The championship-leading squad introduced an updated W17 for Malaysia this month, but it was easily beaten by Red Bull’s Max Verstappen before a similar story in Singapore.",
+   "link": "https://www.motorsport.com/f1/news/george-russell-mercedes-out-of-performance-window-at-mexico-gp/10870173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-31T15:52:10.000Z"
+  },
+  {
+   "id": 4145889536,
+   "guid": "https://www.motorsport.com/f1/news/haas-drops-esteban-ocon-for-f1-mexico-gp/10870158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Haas drops Esteban Ocon for F1 Mexico GP",
+   "summary": "The Haas Formula 1 team has made the shock decision to replace Esteban Ocon with reserve driver Ryo Hirakawa for the remainder of the Mexico Grand Prix weekend. Hirakawa will act as Oliver Bearman’s team-mate for final practice, qualifying and Sunday’s race, having also taken Ocon’s VF-26 on Friday morning as part of the rookie mandate for FP1 sessions.",
+   "link": "https://www.motorsport.com/f1/news/haas-drops-esteban-ocon-for-f1-mexico-gp/10870158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-31T14:52:55.000Z"
+  },
   {
    "id": 311116941,
    "guid": "https://www.motorsport.com/f1/news/fred-vasseur-downplays-expectations-for-f1-mexico-gp-despite-blistering-friday/10870125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Ferrari's Charles Leclerc says he is “not obsessed” with finishing second in the Formula 1 drivers’ championship, despite being just nine points off the position with five races to go. While Kimi Antonelli is expected to wrap up his championship campaign this weekend at the Mexican Grand Prix, the fight for second place is alive and well between a number of drivers.",
    "link": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-what-he-really-wants-from-final-five-f1-races-of-2026/10869431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-29T21:34:31.000Z"
-  },
-  {
-   "id": 3343587416,
-   "guid": "https://www.motorsport.com/f1/news/george-russell-defiant-difficult-f1-season-is-not-going-to-break-me/10869421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "George Russell makes defiant Mercedes statement as Kimi Antonelli nears world title",
-   "summary": "Mercedes Formula 1 driver George Russell has insisted that, despite an inconsistent 2026 season, he still has “a good 12 to 15 years” left in the championship. The Briton arrives in Mexico City second in the drivers' standings, albeit 123 points off his young team-mate Kimi Antonelli, who can take his first championship title this weekend.",
-   "link": "https://www.motorsport.com/f1/news/george-russell-defiant-difficult-f1-season-is-not-going-to-break-me/10869421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T21:10:51.000Z"
-  },
-  {
-   "id": 2822004479,
-   "guid": "https://www.motorsport.com/f1/news/george-russell-on-f1-title-loss-this-year-wont-break-me/10869417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "George Russell on F1 title loss: 'This year won't break me'",
-   "summary": "George Russell has insisted his career will 'not be defined' and he 'won't be broken' by failing to secure a maiden Formula 1 world title this season.",
-   "link": "https://www.motorsport.com/f1/news/george-russell-on-f1-title-loss-this-year-wont-break-me/10869417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T20:57:32.000Z"
   }
  ]
 }
