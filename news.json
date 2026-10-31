@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-10-31T10:43:40.553Z",
+ "updated_at": "2026-10-31T12:55:00.646Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1378066744,
+   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-praying-for-ferrari-power-unit-after-mexico-fp2-failure/10870069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Lewis Hamilton \"praying\" for Ferrari power unit after Mexico FP2 failure",
+   "summary": "Lewis Hamilton has been left “praying” for his Ferrari power unit after it caused an early retirement in second practice for the Formula 1 Mexico Grand Prix. The seven-time world champion suddenly lost power down the start-finish straight after 28 minutes, leading to him stopping at the exit of Turn 3 at Autodromo Hermanos Rodriguez.",
+   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-praying-for-ferrari-power-unit-after-mexico-fp2-failure/10870069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-31T10:41:19.000Z"
+  },
   {
    "id": 2744945899,
    "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-makes-confident-ferrari-statement-despite-mexican-gp-technical-problems/10869895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Charles Leclerc insists he will not miss a grand prix when his first child is born, but Ferrari has reportedly lined up a stand-in in case plans change. The Monegasque and his wife Alexandra are expecting their first baby during the last weeks of the 2026 Formula 1 season.",
    "link": "https://www.motorsport.com/f1/news/who-would-replace-charles-leclerc-at-ferrari-if-he-misses-a-race-for-his-babys-birth/10869393/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-29T19:22:52.000Z"
-  },
-  {
-   "id": 204401110,
-   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-backed-to-surpass-sebastian-vettels-four-f1-titles-by-guenther-steiner/10869391/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli backed to surpass Sebastian Vettel's four F1 titles by Guenther Steiner",
-   "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Kimi Antonelli will go on to have a more successful F1 career than four-time champion Sebastian Vettel. Antonelli is on the verge of winning his maiden F1 championship, and will be crowned at this weekend's Mexican Grand Prix if he finishes in the top nine.",
-   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-backed-to-surpass-sebastian-vettels-four-f1-titles-by-guenther-steiner/10869391/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T19:20:45.000Z"
   }
  ]
 }
