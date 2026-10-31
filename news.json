@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-10-31T16:44:30.317Z",
+ "updated_at": "2026-10-31T18:50:55.947Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2174091869,
+   "guid": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp3-report/10870217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 Mexico GP: Lando Norris tops final practice by 0.001s from Kimi Antonelli",
+   "summary": "Reigning world champion Lando Norris has topped third and final practice at Formula 1's Mexico Grand Prix, beating championship leader Kimi Antonelli in a tight session at the Autodromo Hermanos Rodriguez.",
+   "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp3-report/10870217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-10-31T18:42:30.000Z"
+  },
   {
    "id": 1214764922,
    "guid": "https://www.motorsport.com/f1/news/george-russell-mercedes-out-of-performance-window-at-mexico-gp/10870173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Ferrari Formula 1 driver Charles Leclerc has rejected Fernando Alonso's claim that the standard of driving at the back of the grid is low, insisting the level is \"very, very high\" across the field.",
    "link": "https://www.motorsport.com/f1/news/charles-leclerc-defends-alex-albon-after-fernando-alonsos-scathing-criticism/10869433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-29T21:40:35.000Z"
-  },
-  {
-   "id": 2033966225,
-   "guid": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-what-he-really-wants-from-final-five-f1-races-of-2026/10869431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Charles Leclerc reveals what he really wants from final five F1 races of 2026",
-   "summary": "Ferrari's Charles Leclerc says he is “not obsessed” with finishing second in the Formula 1 drivers’ championship, despite being just nine points off the position with five races to go. While Kimi Antonelli is expected to wrap up his championship campaign this weekend at the Mexican Grand Prix, the fight for second place is alive and well between a number of drivers.",
-   "link": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-what-he-really-wants-from-final-five-f1-races-of-2026/10869431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-29T21:34:31.000Z"
   }
  ]
 }
