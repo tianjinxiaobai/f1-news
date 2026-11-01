@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-01T01:16:02.251Z",
+ "updated_at": "2026-11-01T02:55:22.433Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 4138102497,
+   "guid": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Liam Lawson disqualified from F1 qualifying in Mexico – here's why",
+   "summary": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix. Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed to get both cars into Q3. The team subsequently emerged as the 'best of the rest' in eighth and ninth places, but Lawson now faces a recovery drive on Sunday.",
+   "link": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-01T01:54:02.000Z"
+  },
   {
    "id": 1783805000,
    "guid": "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Charles Leclerc was comfortably fastest in opening practice for the Formula 1 Mexico Grand Prix, beating runner-up Kimi Antonelli in a session 10 rookies took part in. The Ferrari driver set a 1m18.128s that was six tenths faster than Formula 1’s champion-elect, whose Mercedes stablemate Frederik Vesti completed the top three with a 1m18.861s.",
    "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-30T19:38:35.000Z"
-  },
-  {
-   "id": 1204682090,
-   "guid": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "What Fernando Alonso is getting wrong about F1 driving standards",
-   "summary": "When Fernando Alonso declared \"the quality of the drivers in the lower third of the grid is very low\" in the aftermath of last weekend's United States Grand Prix in Austin, he inadvertently poked a hornets' nest. While Alonso doubled down on his criticism this week in Mexico, singling out Alex Albon, many other drivers have spoken up in the Williams driver's defence.",
-   "link": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-30T18:28:52.000Z"
   }
  ]
 }
