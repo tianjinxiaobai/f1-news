@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-01T12:55:51.914Z",
+ "updated_at": "2026-11-01T14:45:14.927Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3984287443,
+   "guid": "https://www.motorsport.com/f1/news/fernando-alonso-beyond-frustration-after-engine-issue-in-f1-mexico-gp-qualifying/10870590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Fernando Alonso 'beyond frustration' after engine issue in F1 Mexico GP qualifying",
+   "summary": "Fernando Alonso stated that his “frustration is beyond imagination” after a power unit problem caused an early end to his qualifying for the Formula 1 Mexico Grand Prix. The Aston Martin driver took 18th with only one flying lap as his AMR26 ground to a halt through the stadium section of Autodromo Hermanos Rodriguez with 11 minutes left in Q1.",
+   "link": "https://www.motorsport.com/f1/news/fernando-alonso-beyond-frustration-after-engine-issue-in-f1-mexico-gp-qualifying/10870590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-01T13:42:12.000Z"
+  },
   {
    "id": 1851304399,
    "guid": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-mexico-gp/10870529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Charles Leclerc completed a perfect Friday at the Mexico Grand Prix after topping the second Formula 1 practice session, in spite of Ferrari team-mate Lewis Hamilton retiring. The Monegasque topped FP1 with a 1m18.128s before lowering that to a 1m17.827s in FP2 at Autodromo Hermanos Rodriguez, pipping McLaren’s Lando Norris in second.",
    "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp2-report-10869841/10869841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-30T23:07:33.000Z"
-  },
-  {
-   "id": 1789188627,
-   "guid": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "What's behind \"absolute nonsense\" Oliver Bearman contract rumours",
-   "summary": "Formula 1's driver-contract season was thought to be long over, but a bizarre claim about one of the few remaining out-of-contract drivers has gained surprising traction in the run-up to the Mexico Grand Prix weekend.",
-   "link": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-30T22:12:06.000Z"
   }
  ]
 }
