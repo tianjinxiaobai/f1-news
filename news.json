@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-01T08:53:54.561Z",
+ "updated_at": "2026-11-01T10:47:47.102Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1851304399,
+   "guid": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-mexico-gp/10870529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 2026 qualifying head-to-head: Mexico GP",
+   "summary": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles. This record is based exclusively on qualifying results so that grid penalties don't alter the statistics. When a driver can't put in a representative lap time due to a technical issue or an incident, this will be mentioned in the table.",
+   "link": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-mexico-gp/10870529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-01T10:03:04.000Z"
+  },
+  {
+   "id": 4260596779,
+   "guid": "https://www.motorsport.com/f1/news/red-bull-drivers-fear-mexico-start-max-verstappen-jokes-a-le-mans-start-would-be-just-as-quick/10870533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Red Bull drivers fear Mexico start, Max Verstappen jokes: “A Le Mans start would be just as quick”",
+   "summary": "Although Max Verstappen said he had the pace to take pole position in Mexico City, his final run was ruined by a lock-up at Turn 13 – according to the Red Bull driver, mainly caused by Lando Norris getting slightly in his way in the final sector.",
+   "link": "https://www.motorsport.com/f1/news/red-bull-drivers-fear-mexico-start-max-verstappen-jokes-a-le-mans-start-would-be-just-as-quick/10870533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-01T09:59:17.000Z"
+  },
   {
    "id": 4138102497,
    "guid": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Formula 1's driver-contract season was thought to be long over, but a bizarre claim about one of the few remaining out-of-contract drivers has gained surprising traction in the run-up to the Mexico Grand Prix weekend.",
    "link": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-30T22:12:06.000Z"
-  },
-  {
-   "id": 3121265846,
-   "guid": "https://www.motorsport.com/f1/news/red-bull-f1-boss-laurent-mekies-hits-back-at-christian-horners-lost-its-mojo-claim/10869825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Red Bull F1 boss Laurent Mekies hits back at Christian Horner's \"lost its mojo\" claim",
-   "summary": "Red Bull Racing CEO and team principal Laurent Mekies has rejected Christian Horner's claim that the Milton Keynes outfit has \"lost its mojo\" since his exit, insisting its spirit has driven a \"very remarkable\" turnaround. Horner, who left the team in July 2025 after two decades in charge, has been promoting his memoir Drive, which was published last week.",
-   "link": "https://www.motorsport.com/f1/news/red-bull-f1-boss-laurent-mekies-hits-back-at-christian-horners-lost-its-mojo-claim/10869825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-30T21:30:38.000Z"
-  },
-  {
-   "id": 2800613756,
-   "guid": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "F1 Mexico GP: Charles Leclerc beats Kimi Antonelli to top FP1",
-   "summary": "Charles Leclerc was comfortably fastest in opening practice for the Formula 1 Mexico Grand Prix, beating runner-up Kimi Antonelli in a session 10 rookies took part in. The Ferrari driver set a 1m18.128s that was six tenths faster than Formula 1’s champion-elect, whose Mercedes stablemate Frederik Vesti completed the top three with a 1m18.861s.",
-   "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-30T19:38:35.000Z"
   }
  ]
 }
