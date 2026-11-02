@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-02T13:16:08.300Z",
+ "updated_at": "2026-11-02T15:00:34.257Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1072516940,
+   "guid": "https://www.motorsport.com/f1/news/mercedes-fined-for-george-russell-skipping-f1-mexico-gp-media-duties/10871040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Mercedes fined for George Russell skipping F1 Mexico GP media duties",
+   "summary": "Mercedes was fined €5,000 following the Mexico Grand Prix after George Russell failed to attend his post-race Formula 1 media commitments. The Mercedes driver finished sixth at Autodromo Hermanos Rodriguez despite starting Sunday’s race in second, having dropped four positions on lap one due to a poor battery.",
+   "link": "https://www.motorsport.com/f1/news/mercedes-fined-for-george-russell-skipping-f1-mexico-gp-media-duties/10871040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-02T13:26:17.000Z"
+  },
   {
    "id": 549628320,
    "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-why-he-wont-take-number-1-for-the-2027-f1-season/10870915/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix. Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed to get both cars into Q3. The team subsequently emerged as the 'best of the rest' in eighth and ninth places, but Lawson now faces a recovery drive on Sunday.",
    "link": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-01T01:54:02.000Z"
-  },
-  {
-   "id": 1783805000,
-   "guid": "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Ferrari reveals luxury $4,300 fountain pen inspired by its bespoke supercars",
-   "summary": "You do not need to buy a Ferrari to spend serious money on the Prancing Horse. Montblanc’s latest collaboration with Maranello has come in the shape of a fountain pen, and it costs more than some used cars. The Meisterstuck Great Masters Ferrari Tailor Made Inedita Special Edition is for sale for $4,300 in the United States.",
-   "link": "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-01T00:28:32.000Z"
   }
  ]
 }
