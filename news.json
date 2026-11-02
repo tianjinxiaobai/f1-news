@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-02T09:11:36.289Z",
+ "updated_at": "2026-11-02T11:07:12.765Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3825136888,
+   "guid": "https://www.motorsport.com/f1/news/who-slept-best-last-night-kimi-antonelli-10870990/10870990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Who slept best last night: Kimi Antonelli",
+   "summary": "Where do you start when trying to digest Kimi Antonelli's championship? What do you say about it? Perhaps start with the numbers. This victory is historic. He's not just the youngest to win the F1 title; he's beaten the previous record by more than three years. He's done it with an almost perfect season, just his second in F1.",
+   "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-kimi-antonelli-10870990/10870990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-02T10:25:25.000Z"
+  },
   {
    "id": 3626646030,
    "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-special-photo-with-lewis-hamilton-and-max-verstappen-on-his-wall-after-f1-title/10870868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "George Russell believes an extra lap of fuel cost him pole position for the Mexican Grand Prix after he missed out to his former team-mate and seven-time champion Lewis Hamilton by just 0.009 seconds. The Mercedes driver will start alongside Hamilton on the front row, with Charles Leclerc in third.",
    "link": "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-01T00:03:37.000Z"
-  },
-  {
-   "id": 295727015,
-   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-first-ferrari-f1-pole-takes-me-back-to-watching-michael/10870368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lewis Hamilton: First Ferrari F1 pole “takes me back to watching Michael”",
-   "summary": "Lewis Hamilton can finally say he has scored pole position for three different teams after a blistering lap today gave him pole for tomorrow's Mexico City Grand Prix - his first grand prix pole for Ferrari. The seven-time champion says it took him back to watching Michael Schumacher dominate with the Italian team.",
-   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-first-ferrari-f1-pole-takes-me-back-to-watching-michael/10870368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-31T23:58:57.000Z"
   }
  ]
 }
