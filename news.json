@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-02T01:12:44.322Z",
+ "updated_at": "2026-11-02T02:58:07.140Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1344030789,
+   "guid": "https://www.motorsport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Penalty drops Oscar Piastri out of F1 Mexico GP points",
+   "summary": "Oscar Piastri’s tough Mexico Grand Prix weekend has ended in point-less fashion, after the McLaren Formula 1 driver copped a penalty for his collision with Arvid Lindblad. Piastri’s 60-strong streak of Q3 appearances (including sprints) ended at Autodromo Hermanos Rodriguez as he qualified a lowly 12th, which paved the way for his troubles in the midfield.",
+   "link": "https://www.motorsport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-02T02:17:39.000Z"
+  },
+  {
+   "id": 2794319069,
+   "guid": "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Fred Vasseur reacts to Lewis Hamilton, Charles Leclerc clash: “It’s a matter of respect”",
+   "summary": "“When you are 1-2 at Turn 4, you don't imagine that you won't win the race.” This statement says a lot about Ferrari team principal Fred Vasseur’s disappointment following Formula 1’s Mexico Grand Prix.",
+   "link": "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-02T01:08:54.000Z"
+  },
   {
    "id": 141647722,
    "guid": "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Formula 1 heads into Sunday in Mexico City with Lewis Hamilton on pole and Kimi Antonelli only one result away from becoming world champion. Hamilton leads George Russell and Ferrari team-mate Charles Leclerc on the grid, while Antonelli will start fourth after Max Verstappen one-place grid penalty.",
    "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-sunday-schedule-weather-forecast-and-how-to-watch/10870318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-31T23:23:34.000Z"
-  },
-  {
-   "id": 1715661129,
-   "guid": "https://www.motorsport.com/f1/news/up-there-for-pole-verstappen-rues-turn-13-traffic-in-f1-mexico-gp-qualifying/10870339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "\"Up there for pole\": Max Verstappen rues Turn 13 traffic in F1 Mexico GP qualifying",
-   "summary": "Max Verstappen rued being unable to log his final run of Mexico City Grand Prix qualifying, stating that his lap was \"up there for pole\" before encountering Lando Norris in the final sector.",
-   "link": "https://www.motorsport.com/f1/news/up-there-for-pole-verstappen-rues-turn-13-traffic-in-f1-mexico-gp-qualifying/10870339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-31T23:21:10.000Z"
-  },
-  {
-   "id": 443828652,
-   "guid": "https://www.motorsport.com/f1/news/esteban-ocon-issues-statement-after-haas-benching-denies-physical-altercation-rumours/10870336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Esteban Ocon issues statement after Haas benching, denies physical altercation rumours",
-   "summary": "Dropped Haas Formula 1 driver Esteban Ocon has denied French media rumours of a physical altercation with team boss Ayao Komatsu as he issued his response to missing this weekend's Mexico Grand Prix. Ocon was benched in Mexico, most likely connected to a public disagreement with his race engineer during free practice.",
-   "link": "https://www.motorsport.com/f1/news/esteban-ocon-issues-statement-after-haas-benching-denies-physical-altercation-rumours/10870336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-31T23:10:44.000Z"
   }
  ]
 }
