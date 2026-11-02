@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-02T05:08:25.406Z",
+ "updated_at": "2026-11-02T07:33:42.749Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3626646030,
+   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-special-photo-with-lewis-hamilton-and-max-verstappen-on-his-wall-after-f1-title/10870868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Kimi Antonelli wants special photo with Lewis Hamilton and Max Verstappen on his wall after F1 title",
+   "summary": "The 2026 Mexico City Grand Prix is one for the history books: Kimi Antonelli has been crowned the youngest world champion of all time, and partly because of the superlicence rules, that record will certainly not be an easy one to break.",
+   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-special-photo-with-lewis-hamilton-and-max-verstappen-on-his-wall-after-f1-title/10870868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-02T06:56:14.000Z"
+  },
+  {
+   "id": 1730381830,
+   "guid": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-frederic-vasseur-10870909/10870909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Who slept worst last night: Frederic Vasseur",
+   "summary": "There was at least one moment during Frederic Vasseur's post-Mexican Grand Prix media briefing when the Ferrari team principal burst into laughter. Motorsport Network journalist Ronald Vording had just asked him what felt like the umpteenth question about the evidently strained atmosphere following the first-lap clash between Lewis Hamilton and Charles Leclerc.",
+   "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-frederic-vasseur-10870909/10870909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-02T06:32:08.000Z"
+  },
   {
    "id": 1344030789,
    "guid": "https://www.motorsport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Lewis Hamilton can finally say he has scored pole position for three different teams after a blistering lap today gave him pole for tomorrow's Mexico City Grand Prix - his first grand prix pole for Ferrari. The seven-time champion says it took him back to watching Michael Schumacher dominate with the Italian team.",
    "link": "https://www.motorsport.com/f1/news/lewis-hamilton-first-ferrari-f1-pole-takes-me-back-to-watching-michael/10870368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-10-31T23:58:57.000Z"
-  },
-  {
-   "id": 1434611160,
-   "guid": "https://www.motorsport.com/f1/news/hirakawa-could-have-easily-made-q2-in-f1-mexico-gp-without-late-traffic/10870356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Ryo Hirakawa could have \"easily\" made Q2 in F1 Mexico GP without late traffic",
-   "summary": "Haas stand-in Ryo Hirakawa believes he'd have \"easily\" reached the second part of qualifying for the Mexico City Grand Prix, had he not encountered traffic on his final lap of the session.",
-   "link": "https://www.motorsport.com/f1/news/hirakawa-could-have-easily-made-q2-in-f1-mexico-gp-without-late-traffic/10870356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-31T23:33:37.000Z"
-  },
-  {
-   "id": 2961756139,
-   "guid": "https://www.motorsport.com/f1/news/f1-mexico-gp-sunday-schedule-weather-forecast-and-how-to-watch/10870318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "F1 Mexico GP: Sunday schedule, weather forecast and how to watch",
-   "summary": "Formula 1 heads into Sunday in Mexico City with Lewis Hamilton on pole and Kimi Antonelli only one result away from becoming world champion. Hamilton leads George Russell and Ferrari team-mate Charles Leclerc on the grid, while Antonelli will start fourth after Max Verstappen one-place grid penalty.",
-   "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-sunday-schedule-weather-forecast-and-how-to-watch/10870318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-10-31T23:23:34.000Z"
   }
  ]
 }
