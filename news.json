@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-02T19:01:54.400Z",
+ "updated_at": "2026-11-02T20:51:37.326Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3533520450,
+   "guid": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-with-heartfelt-message-after-kimi-antonellis-f1-title-win/10871112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "George Russell breaks silence with heartfelt message after Kimi Antonelli's F1 title win",
+   "summary": "George Russell has shared a heartfelt message after missing media duties following the Mexican Grand Prix. The Briton admitted that \"2026 was not meant to be my year\" in a long message to his fans on social media after his Mercedes team-mate Kimi Antonelli claimed his maiden championship at the Autódromo Hermanos Rodríguez.",
+   "link": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-with-heartfelt-message-after-kimi-antonellis-f1-title-win/10871112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-02T20:26:53.000Z"
+  },
   {
    "id": 816376132,
    "guid": "https://www.motorsport.com/f1/news/peter-bonnington-reveals-stern-conversation-that-transformed-kimi-antonellis-f1-career/10871102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Kimi Antonelli has become the youngest Formula 1 world champion after finishing third at the Mexican Grand Prix. The Mercedes driver needed to finish at least ninth in the race at the Autódromo Hermanos Rodríguez to claim his maiden title.",
    "link": "https://www.motorsport.com/f1/news/kimi-antonelli-becomes-youngest-world-champion-in-f1-history/10870717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-01T22:25:24.000Z"
-  },
-  {
-   "id": 2792343085,
-   "guid": "https://www.motorsport.com/f1/news/charles-leclercs-mexico-gp-penalty-leaves-f1-fans-furious-for-very-different-reasons/10870698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Charles Leclerc's Mexico GP penalty leaves F1 fans furious for very different reasons",
-   "summary": "Charles Leclerc’s five-second penalty at the Mexico City Grand Prix has divided Formula 1 fans. Some believe that it was far too lenient while others insist that he should not have been punished at all. The Ferrari driver went around the outside of polesitter and team-mate Lewis Hamilton at Turn 4 on the opening lap.",
-   "link": "https://www.motorsport.com/f1/news/charles-leclercs-mexico-gp-penalty-leaves-f1-fans-furious-for-very-different-reasons/10870698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-01T20:51:35.000Z"
   }
  ]
 }
