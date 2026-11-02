@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-02T15:00:34.257Z",
+ "updated_at": "2026-11-02T17:11:01.692Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 902941182,
+   "guid": "https://www.motorsport.com/f1/news/what-was-kimi-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871070/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "What was Kimi Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
+   "summary": "Kimi Antonelli’s record-breaking Formula 1 world championship triumph was highlighted by many superb performances. But which one was his best? Antonelli duly wrapped up his maiden F1 crown in Mexico with four rounds to spare – becoming the youngest-ever world champion in the process.",
+   "link": "https://www.motorsport.com/f1/news/what-was-kimi-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871070/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-02T16:00:02.000Z"
+  },
+  {
+   "id": 4110193183,
+   "guid": "https://www.motorsport.com/f1/news/toto-wolff-explains-george-russells-media-absence-after-mexican-gp-disappointment/10871072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Toto Wolff explains George Russell's media absence after Mexican GP disappointment",
+   "summary": "Mercedes Formula 1 team principal and CEO Toto Wolff described the Mexican Grand Prix as a \"catastrophic moment\" for George Russell. The Briton started second on the grid after qualifying just 0.009 seconds behind Ferrari's Lewis Hamilton, but immediately lost ground. He was then also given a 10-second penalty for a first-lap collision with Red Bull's Isack Hadjar.",
+   "link": "https://www.motorsport.com/f1/news/toto-wolff-explains-george-russells-media-absence-after-mexican-gp-disappointment/10871072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-02T15:39:57.000Z"
+  },
   {
    "id": 1072516940,
    "guid": "https://www.motorsport.com/f1/news/mercedes-fined-for-george-russell-skipping-f1-mexico-gp-media-duties/10871040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles. This record is based exclusively on qualifying results so that grid penalties don't alter the statistics. When a driver can't put in a representative lap time due to a technical issue or an incident, this will be mentioned in the table.",
    "link": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-mexico-gp/10870529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-01T10:03:04.000Z"
-  },
-  {
-   "id": 4260596779,
-   "guid": "https://www.motorsport.com/f1/news/red-bull-drivers-fear-mexico-start-max-verstappen-jokes-a-le-mans-start-would-be-just-as-quick/10870533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Red Bull drivers fear Mexico start, Max Verstappen jokes: “A Le Mans start would be just as quick”",
-   "summary": "Although Max Verstappen said he had the pace to take pole position in Mexico City, his final run was ruined by a lock-up at Turn 13 – according to the Red Bull driver, mainly caused by Lando Norris getting slightly in his way in the final sector.",
-   "link": "https://www.motorsport.com/f1/news/red-bull-drivers-fear-mexico-start-max-verstappen-jokes-a-le-mans-start-would-be-just-as-quick/10870533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-01T09:59:17.000Z"
-  },
-  {
-   "id": 4138102497,
-   "guid": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Liam Lawson disqualified from F1 qualifying in Mexico – here's why",
-   "summary": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix. Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed to get both cars into Q3. The team subsequently emerged as the 'best of the rest' in eighth and ninth places, but Lawson now faces a recovery drive on Sunday.",
-   "link": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-01T01:54:02.000Z"
   }
  ]
 }
