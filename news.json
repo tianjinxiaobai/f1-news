@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-03T13:10:52.037Z",
+ "updated_at": "2026-11-03T14:59:47.831Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 869541070,
+   "guid": "https://www.motorsport.com/f1/news/marco-antonelli-i-saw-the-champion-in-kimi-after-his-australia-crash/10871229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Marco Antonelli: \"I saw the champion in Kimi after his Australia crash\"",
+   "summary": "Kimi Antonelli became Formula 1's youngest-ever world champion at the Mexico City Grand Prix, becoming the first Italian to win the title since Alberto Ascari in 1953.",
+   "link": "https://www.motorsport.com/f1/news/marco-antonelli-i-saw-the-champion-in-kimi-after-his-australia-crash/10871229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-03T14:22:11.000Z"
+  },
+  {
+   "id": 492242859,
+   "guid": "https://www.motorsport.com/f1/news/why-hondas-power-unit-lasted-barely-five-laps-in-f1-mexico-gp/10871279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why Honda’s power unit lasted barely five laps in F1 Mexico GP",
+   "summary": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s weekend to go so awry.",
+   "link": "https://www.motorsport.com/f1/news/why-hondas-power-unit-lasted-barely-five-laps-in-f1-mexico-gp/10871279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-03T13:34:04.000Z"
+  },
   {
    "id": 2851936354,
    "guid": "https://www.motorsport.com/f1/news/red-bulls-key-strategy-call-behind-max-verstappens-mexico-win-explained/10871128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix. Polesitter Hamilton was challenged by Leclerc from third after front-row starter George Russell lost momentum ahead of Turn 1.",
    "link": "https://www.motorsport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-01T23:11:50.000Z"
-  },
-  {
-   "id": 1994402343,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-shares-emotional-message-after-kimi-antonellis-historic-f1-title-win/10870753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen shares emotional message after Kimi Antonelli's historic F1 title win",
-   "summary": "Red Bull's Max Verstappen says he is \"very proud\" of Kimi Antonelli after the 20-year-old driver became the youngest world champion in Formula 1 history at the Mexican Grand Prix.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-shares-emotional-message-after-kimi-antonellis-historic-f1-title-win/10870753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-01T23:03:32.000Z"
-  },
-  {
-   "id": 709071105,
-   "guid": "https://www.motorsport.com/f1/news/emotional-kimi-antonelli-left-speechless-by-maiden-f1-world-title-in-mexico/10870739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Emotional Kimi Antonelli left \"speechless\" by maiden F1 world title in Mexico",
-   "summary": "Newly-crowned Formula 1 world champion Kimi Antonelli paid a tearful tribute to Mercedes as he became grand prix racing's youngest-ever title winner in Mexico. Antonelli took third at the Autodromo Hermanos Rodriguez after a controlled driver to his maiden title, beating Sebastian Vettel's previous record by three years as he became the youngest driver to do so aged 20.",
-   "link": "https://www.motorsport.com/f1/news/emotional-kimi-antonelli-left-speechless-by-maiden-f1-world-title-in-mexico/10870739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-01T22:57:53.000Z"
   }
  ]
 }
