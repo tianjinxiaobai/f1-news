@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-03T10:59:52.330Z",
+ "updated_at": "2026-11-03T13:10:52.037Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2851936354,
+   "guid": "https://www.motorsport.com/f1/news/red-bulls-key-strategy-call-behind-max-verstappens-mexico-win-explained/10871128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "How Red Bull's crucial strategy call helped Max Verstappen win the \"Maxico Grand Prix\"",
+   "summary": "Although Sunday at the Autodromo Hermanos Rodriguez was above all Kimi Antonelli's day, there were naturally two other major storylines in the Formula 1 paddock: the tensions at Ferrari and how Fred Vasseur will manage them, plus Max Verstappen's sixth victory in Mexico.",
+   "link": "https://www.motorsport.com/f1/news/red-bulls-key-strategy-call-behind-max-verstappens-mexico-win-explained/10871128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-03T11:59:50.000Z"
+  },
   {
    "id": 929834601,
    "guid": "https://www.motorsport.com/f1/news/isack-hadjar-blames-himself-for-george-russell-clash-that-ruined-his-mexico-gp/10871223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Newly-crowned Formula 1 world champion Kimi Antonelli paid a tearful tribute to Mercedes as he became grand prix racing's youngest-ever title winner in Mexico. Antonelli took third at the Autodromo Hermanos Rodriguez after a controlled driver to his maiden title, beating Sebastian Vettel's previous record by three years as he became the youngest driver to do so aged 20.",
    "link": "https://www.motorsport.com/f1/news/emotional-kimi-antonelli-left-speechless-by-maiden-f1-world-title-in-mexico/10870739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-01T22:57:53.000Z"
-  },
-  {
-   "id": 2514442924,
-   "guid": "https://www.motorsport.com/f1/news/f1s-youngest-world-champions/10870660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "F1's youngest world champions",
-   "summary": "Kimi Antonelli crossing the line in third place at the Mexico Grand Prix has resulted in the Mercedes driver becoming Formula 1’s youngest ever world champion. The Italian has achieved his childhood dream at just 20 years old, which means he takes the record from Sebastian Vettel who was still only 23 when he became world champion in 2010.",
-   "link": "https://www.motorsport.com/f1/news/f1s-youngest-world-champions/10870660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-01T22:49:14.000Z"
   }
  ]
 }
