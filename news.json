@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-03T19:00:06.934Z",
+ "updated_at": "2026-11-03T20:54:46.636Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 773222453,
+   "guid": "https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
+   "summary": "The Haas F1 team has decided Esteban Ocon will not race again for the squad, with 2027 debutant Rafa Camara getting an early debut this weekend on home soil. Following increasingly strained relations between Ocon and the team, a heated argument in Mexico proved the final straw that made team principal Ayao Komatsu decide to bench the Frenchman.",
+   "link": "https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-03T20:43:22.000Z"
+  },
+  {
+   "id": 3563977956,
+   "guid": "https://www.motorsport.com/f1/news/the-difference-between-kimi-antonellis-f1-title-and-lewis-hamiltons-according-to-toto-wolff/10871082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "The 'difference' between Kimi Antonelli's F1 title and Lewis Hamilton's according to Toto Wolff",
+   "summary": "Mercedes boss Toto Wolff has explained how “different” it felt watching Kimi Antonelli become Formula 1 world champion compared to his record-breaking years with Lewis Hamilton. Antonelli clinched his maiden title in Mexico on Sunday to become F1’s youngest ever world champion at the age of only 20, thanks to a dominant 2026 with four rounds still remaining.",
+   "link": "https://www.motorsport.com/f1/news/the-difference-between-kimi-antonellis-f1-title-and-lewis-hamiltons-according-to-toto-wolff/10871082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-03T19:14:39.000Z"
+  },
   {
    "id": 3204706154,
    "guid": "https://www.motorsport.com/f1/news/mclaren-to-introduce-2027-f1-front-wing-at-brazil-gp/10871326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix. Russell started from second on the grid after missing out on pole position to seven-time champion Lewis Hamilton by just 0.009 seconds, but he lost ground at the start.",
    "link": "https://www.motorsport.com/f1/news/toto-wolff-apologises-to-george-russell-after-mercedes-let-him-down-at-mexican-gp/10870825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-02T00:22:27.000Z"
-  },
-  {
-   "id": 2178787019,
-   "guid": "https://www.motorsport.com/f1/news/charles-leclerc-responds-to-lewis-hamiltons-call-for-ferrari-talks-after-mexico-gp/10870814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Charles Leclerc responds to Lewis Hamilton's call for Ferrari talks after Mexico GP",
-   "summary": "Charles Leclerc says Lewis Hamilton’s driving was “very much on the limit” as he defended his own move at the beginning of the Mexico City Grand Prix. Leclerc attacked polesitter Hamilton at Turn 4 on the opening lap and made it out of the scrap ahead of him. “I mean, it was definitely an opportunity.",
-   "link": "https://www.motorsport.com/f1/news/charles-leclerc-responds-to-lewis-hamiltons-call-for-ferrari-talks-after-mexico-gp/10870814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-02T00:14:27.000Z"
-  },
-  {
-   "id": 214546698,
-   "guid": "https://www.motorsport.com/f1/news/why-charles-leclerc-didnt-yield-mexico-gp-lead-after-cutting-turn-5/10870796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Why Charles Leclerc didn’t yield Mexico GP lead after cutting Turn 5",
-   "summary": "Ferrari Formula 1 driver Charles Leclerc has delved into his controversial Mexico Grand Prix drive, more specifically the way he snatched – and retained – the lead from Lewis Hamilton. Leclerc challenged his polesitting team-mate for the lead at the start, with Hamilton holding him off over the first sequence of corners.",
-   "link": "https://www.motorsport.com/f1/news/why-charles-leclerc-didnt-yield-mexico-gp-lead-after-cutting-turn-5/10870796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-02T00:03:49.000Z"
   }
  ]
 }
