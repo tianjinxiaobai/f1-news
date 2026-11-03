@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-02T22:50:15.409Z",
+ "updated_at": "2026-11-03T01:11:00.463Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3368797163,
+   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
+   "summary": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral. Hamilton worked with Bonnington throughout his time at the Brackley outfit, where he secured six of his seven championships.",
+   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-03T00:02:11.000Z"
+  },
   {
    "id": 3533520450,
    "guid": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-with-heartfelt-message-after-kimi-antonellis-f1-title-win/10871112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Antonelli celebrates in style with mature podium drive What a luxury to enjoy your coronation with so little pressure. Kimi Antonelli did admit to being extra tense this weekend as his maiden world championship loomed, but all he had to do was keep it on the island to cruise to the finish line.",
    "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-mexico-gp/10870690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-01T22:29:07.000Z"
-  },
-  {
-   "id": 597011233,
-   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-becomes-youngest-world-champion-in-f1-history/10870717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli becomes youngest world champion in F1 history",
-   "summary": "Kimi Antonelli has become the youngest Formula 1 world champion after finishing third at the Mexican Grand Prix. The Mercedes driver needed to finish at least ninth in the race at the Autódromo Hermanos Rodríguez to claim his maiden title.",
-   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-becomes-youngest-world-champion-in-f1-history/10870717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-01T22:25:24.000Z"
   }
  ]
 }
