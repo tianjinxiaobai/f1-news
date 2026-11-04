@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-04T13:12:45.524Z",
+ "updated_at": "2026-11-04T14:58:49.343Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 185722861,
+   "guid": "https://www.motorsport.com/f1/news/charles-leclerc-welcomes-first-child-with-wife-alexandra-as-couple-shares-baby-news/10871509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Charles Leclerc welcomes first child with wife Alexandra as couple shares baby news",
+   "summary": "Ferrari Formula 1 driver Charles Leclerc and his wife, Alexandra Leclerc, have welcomed their first child together. The couple, who tied the knot in a private Monaco ceremony in February 2026, announced the new arrival on social media. They shared a photo of the newborn’s legs and feet in pink knitted leggings and white socks with the caption, “Bianca.",
+   "link": "https://www.motorsport.com/f1/news/charles-leclerc-welcomes-first-child-with-wife-alexandra-as-couple-shares-baby-news/10871509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-04T14:35:38.000Z"
+  },
+  {
+   "id": 2946570780,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-needs-a-conversation-with-red-bull-engine-after-random-engine-braking-issues/10871469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen needs \"a conversation\" with Red Bull engine after \"random\" engine braking issues",
+   "summary": "Ahead of the race weekend at the Autodromo Hermanos Rodriguez – at 2,286 metres above sea level, by far the highest circuit on the Formula 1 calendar – the discussion in the paddock largely revolved around one subject: how much of a challenge Mexico City would pose for the 2026 power units.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-needs-a-conversation-with-red-bull-engine-after-random-engine-braking-issues/10871469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-04T13:46:52.000Z"
+  },
   {
    "id": 1881853740,
    "guid": "https://www.motorsport.com/f1/news/why-daniel-ricciardo-is-staying-away-from-the-f1-paddock/10871443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "The number 1 will not be seen on the Formula 1 grid next season for the first time since 2021. Max Verstappen and Lando Norris have consistently decided to take the opportunity to claim number 1 after winning their world titles, but Antonelli will not do so.",
    "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-why-he-wont-take-number-1-for-the-2027-f1-season/10870915/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-02T11:38:36.000Z"
-  },
-  {
-   "id": 4117786453,
-   "guid": "https://www.motorsport.com/f1/news/fred-vasseur-calls-for-respect-after-lewis-hamilton-charles-leclerc-mexican-gp-clash/10871024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Fred Vasseur calls for \"respect\" after Lewis Hamilton-Charles Leclerc Mexican GP clash",
-   "summary": "Ferrari Formula 1 team principal Fred Vasseur said the first-lap clash between his drivers, Lewis Hamilton and Charles Leclerc, at the Mexican Grand Prix comes down to \"a matter of respect\". Leclerc attempted to overtake Hamilton, who had started the race at the Autódromo Hermanos Rodríguez from pole position, at Turn 4. Both drivers went off the track and Leclerc came out ahead.",
-   "link": "https://www.motorsport.com/f1/news/fred-vasseur-calls-for-respect-after-lewis-hamilton-charles-leclerc-mexican-gp-clash/10871024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-02T11:18:11.000Z"
-  },
-  {
-   "id": 2949593992,
-   "guid": "https://www.motorsport.com/f1/news/toto-wolff-hits-out-at-f1s-entitled-drivers-and-endless-moaners-on-the-radio/10871018/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Toto Wolff hits out at F1’s “entitled” drivers and “endless moaners on the radio”",
-   "summary": "After a stunning championship win from his young driver Kimi Antonelli, Mercedes team principal Toto Wolff has criticised the \"entitled\" drivers and \"endless moaners on the radio\" in Formula 1. He believes this year's world champion should be a role model for them.",
-   "link": "https://www.motorsport.com/f1/news/toto-wolff-hits-out-at-f1s-entitled-drivers-and-endless-moaners-on-the-radio/10871018/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-02T11:12:18.000Z"
   }
  ]
 }
