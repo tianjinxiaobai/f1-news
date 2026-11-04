@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-04T11:22:40.764Z",
+ "updated_at": "2026-11-04T13:12:45.524Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1881853740,
+   "guid": "https://www.motorsport.com/f1/news/why-daniel-ricciardo-is-staying-away-from-the-f1-paddock/10871443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why Daniel Ricciardo is staying away from the F1 paddock",
+   "summary": "Daniel Ricciardo has delved into the reasons why he has been staying away from the Formula 1 paddock. Ricciardo’s F1 career ended after the 2024 Singapore Grand Prix, when the RB driver was replaced by Liam Lawson after enduring a tough campaign thus far.",
+   "link": "https://www.motorsport.com/f1/news/why-daniel-ricciardo-is-staying-away-from-the-f1-paddock/10871443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-04T12:27:54.000Z"
+  },
   {
    "id": 495029029,
    "guid": "https://www.motorsport.com/f1/news/esteban-ocons-f1-career-may-be-ending-but-his-story-is-one-of-success/10871440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "After a stunning championship win from his young driver Kimi Antonelli, Mercedes team principal Toto Wolff has criticised the \"entitled\" drivers and \"endless moaners on the radio\" in Formula 1. He believes this year's world champion should be a role model for them.",
    "link": "https://www.motorsport.com/f1/news/toto-wolff-hits-out-at-f1s-entitled-drivers-and-endless-moaners-on-the-radio/10871018/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-02T11:12:18.000Z"
-  },
-  {
-   "id": 3825136888,
-   "guid": "https://www.motorsport.com/f1/news/who-slept-best-last-night-kimi-antonelli-10870990/10870990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Who slept best last night: Kimi Antonelli",
-   "summary": "Where do you start when trying to digest Kimi Antonelli's championship? What do you say about it? Perhaps start with the numbers. This victory is historic. He's not just the youngest to win the F1 title; he's beaten the previous record by more than three years. He's done it with an almost perfect season, just his second in F1.",
-   "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-kimi-antonelli-10870990/10870990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-02T10:25:25.000Z"
   }
  ]
 }
