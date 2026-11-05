@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-05T15:04:22.913Z",
+ "updated_at": "2026-11-05T17:22:14.457Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 854032118,
+   "guid": "https://www.motorsport.com/f1/news/ferrari-confirms-charles-leclercs-brazilian-gp-schedule-after-birth-of-first-child/10871798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Ferrari confirms Charles Leclerc's Brazilian GP schedule after birth of first child",
+   "summary": "Ferrari has confirmed that Charles Leclerc will miss Thursday's media day ahead of the Brazilian Grand Prix following the birth of his first child. The Monegasque driver and his wife, Alexandra, announced earlier this week that they had welcomed their daughter, Bianca, and Ferrari has now explained what this means for his race weekend in São Paulo.",
+   "link": "https://www.motorsport.com/f1/news/ferrari-confirms-charles-leclercs-brazilian-gp-schedule-after-birth-of-first-child/10871798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-05T17:12:25.000Z"
+  },
+  {
+   "id": 1147308880,
+   "guid": "https://www.motorsport.com/f1/news/aston-martin-knew-before-mexico-gp-it-would-not-finish-honda-brings-new-countermeasures/10871784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Aston Martin knew before Mexico GP it would not finish, Honda brings new countermeasures",
+   "summary": "Ahead of the Mexico Grand Prix, Honda had already acknowledged that the race weekend at the Autodromo Hermanos Rodriguez – at 2,286 metres above sea level, the highest circuit on the Formula 1 calendar – would be a considerable challenge.",
+   "link": "https://www.motorsport.com/f1/news/aston-martin-knew-before-mexico-gp-it-would-not-finish-honda-brings-new-countermeasures/10871784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-05T16:50:49.000Z"
+  },
   {
    "id": 3048273789,
    "guid": "https://www.motorsport.com/f1/news/how-young-can-a-formula-1-world-champion-actually-be/10871702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Nailing the launch of your life only to get pushed off the track a few corners later is a surefire way to ruin a Sunday. Just ask Isack Hadjar. Starting seventh on the grid at the Autódromo Hermanos Rodríguez, the Red Bull driver executed a flawless getaway.",
    "link": "https://www.motorsport.com/f1/news/isack-hadjar-rues-lost-mexico-city-pace-after-russells-turn-6-torpedo/10871234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-03T16:08:34.000Z"
-  },
-  {
-   "id": 869541070,
-   "guid": "https://www.motorsport.com/f1/news/marco-antonelli-i-saw-the-champion-in-kimi-after-his-australia-crash/10871229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Marco Antonelli: \"I saw the champion in Kimi after his Australia crash\"",
-   "summary": "Kimi Antonelli became Formula 1's youngest-ever world champion at the Mexico City Grand Prix, becoming the first Italian to win the title since Alberto Ascari in 1953.",
-   "link": "https://www.motorsport.com/f1/news/marco-antonelli-i-saw-the-champion-in-kimi-after-his-australia-crash/10871229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-03T14:22:11.000Z"
-  },
-  {
-   "id": 492242859,
-   "guid": "https://www.motorsport.com/f1/news/why-hondas-power-unit-lasted-barely-five-laps-in-f1-mexico-gp/10871279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Why Honda’s power unit lasted barely five laps in F1 Mexico GP",
-   "summary": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s weekend to go so awry.",
-   "link": "https://www.motorsport.com/f1/news/why-hondas-power-unit-lasted-barely-five-laps-in-f1-mexico-gp/10871279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-03T13:34:04.000Z"
   }
  ]
 }
