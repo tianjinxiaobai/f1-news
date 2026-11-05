@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-05T13:18:58.038Z",
+ "updated_at": "2026-11-05T15:04:22.913Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3048273789,
+   "guid": "https://www.motorsport.com/f1/news/how-young-can-a-formula-1-world-champion-actually-be/10871702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "How young can a Formula 1 world champion actually be?",
+   "summary": "Kimi Antonelli became Formula 1 world champion in 2026 at 20 years and 68 days old, breaking Sebastian Vettel's previous age record by more than three years. But does that make Antonelli the youngest Formula 1 world champion of all time? So far yes, but there is room for someone to come and usurp the Italian.",
+   "link": "https://www.motorsport.com/f1/news/how-young-can-a-formula-1-world-champion-actually-be/10871702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-05T13:20:02.000Z"
+  },
   {
    "id": 885194192,
    "guid": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-key-difference-with-kimi-antonelli-at-20-he-speaks-italian/10871670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s weekend to go so awry.",
    "link": "https://www.motorsport.com/f1/news/why-hondas-power-unit-lasted-barely-five-laps-in-f1-mexico-gp/10871279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-03T13:34:04.000Z"
-  },
-  {
-   "id": 2851936354,
-   "guid": "https://www.motorsport.com/f1/news/red-bulls-key-strategy-call-behind-max-verstappens-mexico-win-explained/10871128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "How Red Bull's crucial strategy call helped Max Verstappen win the \"Maxico Grand Prix\"",
-   "summary": "Although Sunday at the Autodromo Hermanos Rodriguez was above all Kimi Antonelli's day, there were naturally two other major storylines in the Formula 1 paddock: the tensions at Ferrari and how Fred Vasseur will manage them, plus Max Verstappen's sixth victory in Mexico.",
-   "link": "https://www.motorsport.com/f1/news/red-bulls-key-strategy-call-behind-max-verstappens-mexico-win-explained/10871128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-03T11:59:50.000Z"
   }
  ]
 }
