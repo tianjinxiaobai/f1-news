@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-06T18:59:28.798Z",
+ "updated_at": "2026-11-06T20:53:43.760Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1426990087,
+   "guid": "https://www.motorsport.com/f1/news/why-toto-wolff-sees-ferrari-clash-as-deja-vu-and-why-escalation-may-be-necessary/10872244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why Toto Wolff sees Ferrari clash as \"déjà vu\" – and why escalation may be necessary",
+   "summary": "Following the Mexico Grand Prix, aside from Kimi Antonelli's maiden world title, one other subject has dominated the conversation in the Formula 1 paddock: the clash at Ferrari. After the incident on the opening lap of the race at the Autodromo Hermanos Rodriguez, Hamilton indicated that Ferrari had \"big, big problems\" to solve, before calling for in-depth discussions.",
+   "link": "https://www.motorsport.com/f1/news/why-toto-wolff-sees-ferrari-clash-as-deja-vu-and-why-escalation-may-be-necessary/10872244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-06T20:14:48.000Z"
+  },
+  {
+   "id": 3262963793,
+   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-gifts-from-ayrton-sennas-family-ahead-of-f1-brazilian-gp/10872198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Kimi Antonelli reveals special gifts from Ayrton Senna's family ahead of F1 Brazilian GP",
+   "summary": "Kimi Antonelli has revealed the gifts he received from Ayrton Senna's family during his visit to their estate ahead of this weekend's Brazilian Grand Prix. The Mercedes driver went to Fazenda Dois Lagos in Tatuí on Tuesday, two days after securing his maiden Formula 1 championship, and was photographed in the Lotus 98T that Senna raced in 1986.",
+   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-gifts-from-ayrton-sennas-family-ahead-of-f1-brazilian-gp/10872198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-06T19:00:02.000Z"
+  },
   {
    "id": 1165208640,
    "guid": "https://www.motorsport.com/f1/news/we-failed-so-we-had-to-react-fred-vasseur-on-ferrari-driver-talks-and-mexico-f1-fallout/10872240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "In Mexico, Kimi Antonelli wrote a remarkable chapter in both Formula 1 and Italian sporting history. He clinched his first world championship in a campaign defined not only by his speed, but also by the consistency and maturity he displayed all year.",
    "link": "https://www.motorsport.com/f1/news/kimi-antonelli-almost-had-to-retire-in-mexico-due-to-an-oil-leak/10871667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-05T10:22:12.000Z"
-  },
-  {
-   "id": 1820353488,
-   "guid": "https://www.motorsport.com/f1/news/how-mercedes-can-win-f1s-world-constructors-title-at-brazil-gp/10871496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "How Mercedes can win F1’s world constructors’ title at Brazil GP",
-   "summary": "After Kimi Antonelli earned his maiden Formula 1 world title at the Mexico Grand Prix, Mercedes can add a ninth constructors’ trophy to its record in Brazil. The Silver Arrows have won 12 out of 19 grands prix so far this season, meaning they comfortably lead the championship. Only Ferrari can mathematically catch them, but that’s a tall order with a 126-point deficit.",
-   "link": "https://www.motorsport.com/f1/news/how-mercedes-can-win-f1s-world-constructors-title-at-brazil-gp/10871496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-05T09:49:47.000Z"
-  },
-  {
-   "id": 3671043248,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-brings-some-samba-to-sao-paulo-with-brazil-themed-f1-helmet/10871580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen brings “some samba” to Sao Paulo with Brazil-themed F1 helmet",
-   "summary": "Max Verstappen will race in the colours of Brazil at this weekend’s Sao Paulo Grand Prix after revealing a special helmet for the race.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-brings-some-samba-to-sao-paulo-with-brazil-themed-f1-helmet/10871580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-05T00:20:58.000Z"
   }
  ]
 }
