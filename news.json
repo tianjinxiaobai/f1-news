@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-05T22:54:34.296Z",
+ "updated_at": "2026-11-06T01:17:17.201Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1042380210,
+   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-the-dark-2025-slump-that-built-a-champion-i-questioned-myself-over-and-over/10871786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Mercedes held its breath over Kimi Antonelli’s title-winning move on Charles Leclerc",
+   "summary": "All Kimi Antonelli needed to do at the Mexico City Grand Prix was finish ninth. Instead, the new world champion chose to clinch the title with a late-braking lunge on Charles Leclerc into Turn 1, and not everyone at Mercedes was comfortable watching it.",
+   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-the-dark-2025-slump-that-built-a-champion-i-questioned-myself-over-and-over/10871786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-05T23:28:33.000Z"
+  },
+  {
+   "id": 2850361228,
+   "guid": "https://www.motorsport.com/f1/news/george-russell-opens-up-on-mental-exhaustion-after-frustrating-2026-f1-season/10871940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "George Russell opens up on mental exhaustion after frustrating 2026 F1 season",
+   "summary": "George Russell has admitted he is mentally exhausted after a season in which he has repeatedly had to overcome challenges. The Mercedes driver started 2026 as the favourite for the title, but after a string of issues outside of his control and incredible performances from his team-mate Kimi Antonelli, he watched on as the Italian became world champion in Mexico.",
+   "link": "https://www.motorsport.com/f1/news/george-russell-opens-up-on-mental-exhaustion-after-frustrating-2026-f1-season/10871940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-05T23:14:24.000Z"
+  },
   {
    "id": 2296712865,
    "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-admits-george-russell-still-holds-one-massive-advantage-over-him/10871794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Daniel Ricciardo has delved into the reasons why he has been staying away from the Formula 1 paddock. Ricciardo’s F1 career ended after the 2024 Singapore Grand Prix, when the RB driver was replaced by Liam Lawson after enduring a tough campaign thus far.",
    "link": "https://www.motorsport.com/f1/news/why-daniel-ricciardo-is-staying-away-from-the-f1-paddock/10871443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-04T12:27:54.000Z"
-  },
-  {
-   "id": 495029029,
-   "guid": "https://www.motorsport.com/f1/news/esteban-ocons-f1-career-may-be-ending-but-his-story-is-one-of-success/10871440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Esteban Ocon's F1 career may be ending, but his story is one of success",
-   "summary": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a handful of podiums and a victory scored behind the wheel of a car that wasn't capable of winning on merit.",
-   "link": "https://www.motorsport.com/f1/news/esteban-ocons-f1-career-may-be-ending-but-his-story-is-one-of-success/10871440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-04T10:34:54.000Z"
-  },
-  {
-   "id": 3237425090,
-   "guid": "https://www.motorsport.com/f1/news/we-let-him-down-mercedes-takes-blame-for-george-russells-mexico-gp-heartbreak/10871299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "“We let him down” – Mercedes takes blame for George Russell’s Mexico GP heartbreak",
-   "summary": "Mercedes team principal Toto Wolff has admitted to ‘letting George Russell down’ at Formula 1’s Mexico Grand Prix, with the Briton’s bid for victory derailed within seconds by a technical issue.",
-   "link": "https://www.motorsport.com/f1/news/we-let-him-down-mercedes-takes-blame-for-george-russells-mexico-gp-heartbreak/10871299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-04T09:57:11.000Z"
   }
  ]
 }
