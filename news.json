@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-06T09:04:09.888Z",
+ "updated_at": "2026-11-06T11:10:13.494Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 740717867,
+   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Kimi Antonelli: “My 2027 preparation starts now” after F1 title triumph",
+   "summary": "It has been quite the week for Kimi Antonelli. After celebrating his record-breaking world title on the Mexico Grand Prix podium, where he was hoisted aloft by Lewis Hamilton and Max Verstappen, and at the post-race party, the Italian was whisked away for sponsor commitments on Monday in the Mexican capital.",
+   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-06T09:42:17.000Z"
+  },
   {
    "id": 1042380210,
    "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-the-dark-2025-slump-that-built-a-champion-i-questioned-myself-over-and-over/10871786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Ahead of the race weekend at the Autodromo Hermanos Rodriguez – at 2,286 metres above sea level, by far the highest circuit on the Formula 1 calendar – the discussion in the paddock largely revolved around one subject: how much of a challenge Mexico City would pose for the 2026 power units.",
    "link": "https://www.motorsport.com/f1/news/max-verstappen-needs-a-conversation-with-red-bull-engine-after-random-engine-braking-issues/10871469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-04T13:46:52.000Z"
-  },
-  {
-   "id": 1881853740,
-   "guid": "https://www.motorsport.com/f1/news/why-daniel-ricciardo-is-staying-away-from-the-f1-paddock/10871443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Why Daniel Ricciardo is staying away from the F1 paddock",
-   "summary": "Daniel Ricciardo has delved into the reasons why he has been staying away from the Formula 1 paddock. Ricciardo’s F1 career ended after the 2024 Singapore Grand Prix, when the RB driver was replaced by Liam Lawson after enduring a tough campaign thus far.",
-   "link": "https://www.motorsport.com/f1/news/why-daniel-ricciardo-is-staying-away-from-the-f1-paddock/10871443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-04T12:27:54.000Z"
   }
  ]
 }
