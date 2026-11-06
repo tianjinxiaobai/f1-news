@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-06T13:12:40.406Z",
+ "updated_at": "2026-11-06T14:56:49.915Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 254473346,
+   "guid": "https://www.motorsport.com/f1/news/nico-rosberg-compares-ferraris-clashes-to-his-own-mercedes-f1-rivalry-the-instructions-are-not-clea/10872061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Nico Rosberg compares Ferrari’s clashes to his own Mercedes F1 rivalry: “The instructions are not clear enough”",
+   "summary": "Nico Rosberg knows a thing or two about racing Lewis Hamilton wheel to wheel in sister Formula 1 cars. The pair were team-mates for four years at Mercedes with an intense rivalry, and now Hamilton competes for Ferrari alongside Charles Leclerc – which has become tense at times, amid disagreements over team orders and on-track clashes.",
+   "link": "https://www.motorsport.com/f1/news/nico-rosberg-compares-ferraris-clashes-to-his-own-mercedes-f1-rivalry-the-instructions-are-not-clea/10872061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-06T13:30:03.000Z"
+  },
   {
    "id": 122871690,
    "guid": "https://www.motorsport.com/f1/news/carlos-sainz-recalls-charles-leclerc-battles-we-always-managed-to-find-a-solution/10871952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Premature celebrations are a dangerous distraction in Formula 1. Long before the lights went out for the Mexico City Grand Prix, the paddock had already mentally crowned Kimi Antonelli the 2026 World Champion. That overwhelming influx of early praise nearly derailed the 20-year-old prodigy. Unable to block out the noise, the Italian driver sought refuge behind closed doors.",
    "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-kimi-antonelli-came-to-his-office-with-title-pressure-on-his-chest/10871272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-04T16:33:53.000Z"
-  },
-  {
-   "id": 2924419585,
-   "guid": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1-brazil-gp/10871528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Five things to look out for at F1 Brazil GP",
-   "summary": "The 2026 Formula 1 season is now very much in its final stretch with this weekend’s Brazil Grand Prix marking the fourth-to-last round of the year. There is only one title up for grabs as well after Kimi Antonelli clinched his maiden drivers’ crown in Mexico last weekend, following a dominant campaign for the Mercedes star.",
-   "link": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1-brazil-gp/10871528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-04T16:27:53.000Z"
   }
  ]
 }
