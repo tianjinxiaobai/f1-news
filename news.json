@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-07T10:50:11.759Z",
+ "updated_at": "2026-11-07T12:57:35.578Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2328574005,
+   "guid": "https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday",
+   "summary": "Kimi Antonelli has been the benchmark throughout the Formula 1 weekend in Sao Paulo so far. The newly crowned world champion was not only the fastest driver over a single lap in Free Practice 2, but also made a strong statement in the long-run simulations. Mercedes therefore appears to be in the strongest position heading into the remainder of the weekend.",
+   "link": "https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-07T12:44:57.000Z"
+  },
+  {
+   "id": 39343668,
+   "guid": "https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Ralf Schumacher slams Colton Herta's F1 prospects: \"He's just burning fuel\"",
+   "summary": "On the face of it, Friday at Interlagos could hardly have gone any better for Colton Herta. The Cadillac test driver replaced Sergio Perez in first practice for the 2026 Sao Paulo Grand Prix, completed 24 laps and secured the final point he needed for his FIA super licence. On paper, the American is now eligible to race in Formula 1 in 2027.",
+   "link": "https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-07T12:10:03.000Z"
+  },
   {
    "id": 2412608561,
    "guid": "https://www.motorsport.com/f1/news/ferrari-slow-on-straights-struggling-in-corners-one-of-the-worst-feelings-for-charles-leclerc/10872444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Oscar Piastri accepted his Mexico City Grand Prix penalty for colliding with Arvid Lindblad on the basis of the Formula 1 driving standards guidelines - but suggested that those guidelines might need tweaking for corners like the Mexican opening complex.",
    "link": "https://www.motorsport.com/f1/news/oscar-piastri-accepts-lindblad-clash-penalty-guidelines-tricky-to-enforce-at-mexico-opening-corners/10871893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-05T20:20:07.000Z"
-  },
-  {
-   "id": 2138117549,
-   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-admits-his-outspoken-nature-has-made-ferrari-move-more-difficult/10871887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lewis Hamilton admits his outspoken nature has made Ferrari move more difficult",
-   "summary": "Seven-time Formula 1 champion Lewis Hamilton has admitted that his outspoken approach has made it harder for him to fit in at Ferrari alongside Charles Leclerc, explaining that \"it’s not so easy having someone like me come into a team.\" Hamilton, who joined the Maranello outfit at the start of the 2025 season, clashed with Leclerc on the opening lap of last weekend's Mexican Grand",
-   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-admits-his-outspoken-nature-has-made-ferrari-move-more-difficult/10871887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-05T19:44:14.000Z"
-  },
-  {
-   "id": 1146489178,
-   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-claims-charles-leclerc-races-him-harder-than-f1-rivals/10871849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lewis Hamilton criticises Charles Leclerc: 'It was the same with Sebastian Vettel, the same with Carlos Sainz'",
-   "summary": "Lewis Hamilton maintains Ferrari needs further talks to iron out its rules of engagement, backing claims Charles Leclerc races him harder than drivers from rival teams.",
-   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-claims-charles-leclerc-races-him-harder-than-f1-rivals/10871849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-05T18:53:45.000Z"
   }
  ]
 }
