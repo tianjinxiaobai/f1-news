@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-07T18:52:02.091Z",
+ "updated_at": "2026-11-07T20:45:24.882Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2583598690,
+   "guid": "https://www.motorsport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 Brazilian GP: Lando Norris takes pole in soaking wet qualifying",
+   "summary": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit.",
+   "link": "https://www.motorsport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-07T20:32:58.000Z"
+  },
+  {
+   "id": 2335550212,
+   "guid": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-emotional-mercedes-factory-email-that-got-leaked-online/10872607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Toto Wolff explains the emotional Mercedes factory email leaked online",
+   "summary": "Securing a Formula 1 world championship triggers a lot of emotions, and, usually, a lot of champagne. But for Mercedes team principal Toto Wolff, Kimi Antonelli's historic title win in Mexico City triggered a sudden urge to write an incredibly long essay to his staff.",
+   "link": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-emotional-mercedes-factory-email-that-got-leaked-online/10872607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-07T20:32:28.000Z"
+  },
   {
    "id": 2962190013,
    "guid": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-mercedes-shielded-kimi-antonelli-during-his-brutal-2025-slump/10872603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Carlos Sainz says he has \"good memories\" of battling Charles Leclerc at Ferrari while offering his perspective on his former Formula 1 team-mate’s fight with Lewis Hamilton in the Mexican Grand Prix. The Ferrari drivers had a fierce battle for the lead on the opening lap at the Autodromo Hermanos Rodriguez, with Leclerc attacking Hamilton through the opening corners.",
    "link": "https://www.motorsport.com/f1/news/carlos-sainz-recalls-charles-leclerc-battles-we-always-managed-to-find-a-solution/10871952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-06T12:42:02.000Z"
-  },
-  {
-   "id": 4213337697,
-   "guid": "https://www.motorsport.com/f1/news/ferrari-set-for-crunch-meeting-as-lewis-hamilton-and-charles-leclerc-tension-reaches-brazil/10872021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Ferrari set for crunch meeting as Lewis Hamilton and Charles Leclerc tension reaches Brazil",
-   "summary": "Ferrari arrived at Interlagos facing a problem that, until just a few weeks ago, would have been difficult to imagine in quite this form. After a long season spent chasing competitiveness, the team finally appears to have found many of the answers that had been missing with its SF-26 Formula 1 car.",
-   "link": "https://www.motorsport.com/f1/news/ferrari-set-for-crunch-meeting-as-lewis-hamilton-and-charles-leclerc-tension-reaches-brazil/10872021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-06T11:05:33.000Z"
-  },
-  {
-   "id": 740717867,
-   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli: “My 2027 preparation starts now” after F1 title triumph",
-   "summary": "It has been quite the week for Kimi Antonelli. After celebrating his record-breaking world title on the Mexico Grand Prix podium, where he was hoisted aloft by Lewis Hamilton and Max Verstappen, and at the post-race party, the Italian was whisked away for sponsor commitments on Monday in the Mexican capital.",
-   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-06T09:42:17.000Z"
   }
  ]
 }
