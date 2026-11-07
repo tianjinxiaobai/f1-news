@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-06T22:48:59.186Z",
+ "updated_at": "2026-11-07T01:06:08.328Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3015422780,
+   "guid": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Lando Norris reveals how Lewis Hamilton has changed his F1 championship ambitions",
+   "summary": "Lando Norris says Lewis Hamilton's seven Formula 1 world titles have left him dissatisfied with winning just one. Norris won his maiden championship in 2025 after a hard-fought battle against his McLaren team-mate Oscar Piastri and a late-season threat from Red Bull's Max Verstappen.",
+   "link": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-06T23:15:00.000Z"
+  },
   {
    "id": 2918222803,
    "guid": "https://www.motorsport.com/f1/news/why-max-verstappen-ended-f1-practice-early-in-brazil-red-bull-explains/10872364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "If Rafa Camara felt any nerves about making his F1 debut earlier than expected, on home soil no less, then he didn't show it. The Ferrari junior has been drafted in to replace Esteban Ocon at Haas next year, and already starts that journey this weekend after Ocon's high-profile split with the team halfway through the Mexico weekend.",
    "link": "https://www.motorsport.com/f1/news/how-raw-diamond-rafa-camara-feels-ahead-of-very-surprising-f1-home-debut-in-brazil/10871809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-05T17:27:37.000Z"
-  },
-  {
-   "id": 854032118,
-   "guid": "https://www.motorsport.com/f1/news/ferrari-confirms-charles-leclercs-brazilian-gp-schedule-after-birth-of-first-child/10871798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Ferrari confirms Charles Leclerc's Brazilian GP schedule after birth of first child",
-   "summary": "Ferrari has confirmed that Charles Leclerc will miss Thursday's media day ahead of the Brazilian Grand Prix following the birth of his first child. The Monegasque driver and his wife, Alexandra, announced earlier this week that they had welcomed their daughter, Bianca, and Ferrari has now explained what this means for his race weekend in São Paulo.",
-   "link": "https://www.motorsport.com/f1/news/ferrari-confirms-charles-leclercs-brazilian-gp-schedule-after-birth-of-first-child/10871798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-05T17:12:25.000Z"
   }
  ]
 }
