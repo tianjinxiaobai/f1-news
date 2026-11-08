@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-08T12:58:14.441Z",
+ "updated_at": "2026-11-08T14:48:13.538Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1031178065,
+   "guid": "https://www.motorsport.com/f1/news/gabriel-bortoletos-partner-isabella-bernardini-shows-off-custom-audi-dress-at-brazil-gp/10872947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Gabriel Bortoleto's partner Isabella Bernardini shows off custom Audi dress at Brazil GP",
+   "summary": "Gabriel Bortoleto's partner Isabella Bernardini arrived at Interlagos ahead of the Brazilian Grand Prix in a one-off dress made from Audi's special adidas range for the race. The dress was made by designer and upcycler Fiona Roerig, who worked with the team and Bernardini to incorporate their ideas into the design.",
+   "link": "https://www.motorsport.com/f1/news/gabriel-bortoletos-partner-isabella-bernardini-shows-off-custom-audi-dress-at-brazil-gp/10872947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-08T14:28:32.000Z"
+  },
+  {
+   "id": 2402216386,
+   "guid": "https://www.motorsport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "‘I’ll try to win, somehow’ – Can Lewis Hamilton and Max Verstappen fight back for F1 Brazilian GP victory?",
+   "summary": "With Lewis Hamilton and Max Verstappen 20th and 21st on the grid of the Brazilian Grand Prix, Sunday’s Formula 1 race promises to be fascinating – regardless of weather conditions. Hamilton and Verstappen happen to be two drivers who performed memorable recoveries at Autodromo Jose Carlos Pace, a track where overtaking has always been easier than most.",
+   "link": "https://www.motorsport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-08T13:28:55.000Z"
+  },
   {
    "id": 36905141,
    "guid": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Lando Norris says Lewis Hamilton's seven Formula 1 world titles have left him dissatisfied with winning just one. Norris won his maiden championship in 2025 after a hard-fought battle against his McLaren team-mate Oscar Piastri and a late-season threat from Red Bull's Max Verstappen.",
    "link": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-06T23:15:00.000Z"
-  },
-  {
-   "id": 2918222803,
-   "guid": "https://www.motorsport.com/f1/news/why-max-verstappen-ended-f1-practice-early-in-brazil-red-bull-explains/10872364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Why Max Verstappen ended F1 practice early in Brazil – Red Bull explains",
-   "summary": "Max Verstappen finished Friday's Formula 1 practice sessions in Sao Paulo in third place. The Dutchman occupied that position in both sessions, in fact, and was also around two and a half tenths off the fastest driver in each session, with Lando Norris topping the first one and Kimi Antonelli the second.",
-   "link": "https://www.motorsport.com/f1/news/why-max-verstappen-ended-f1-practice-early-in-brazil-red-bull-explains/10872364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-06T22:32:59.000Z"
-  },
-  {
-   "id": 1799248602,
-   "guid": "https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Fred Vasseur turns down being godfather to Charles Leclerc’s baby: “I have four children”",
-   "summary": "Ferrari Formula 1 team principal Fred Vasseur has ruled himself out of becoming godfather to Charles Leclerc's daughter, joking that he already has enough children to look after. Leclerc and his wife, Alexandra, announced the birth of their first child, Bianca, on Wednesday.",
-   "link": "https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-06T22:12:01.000Z"
   }
  ]
 }
