@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-08T10:50:45.740Z",
+ "updated_at": "2026-11-08T12:58:14.441Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 36905141,
+   "guid": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "McLaren’s 2027-spec front wing is making its F1 car more predictable",
+   "summary": "McLaren team principal Andrea Stella says the 2027-spec front wing concept introduced on the MCL40 at Formula 1’s Brazilian Grand Prix has improved the car’s driveability and predictability.",
+   "link": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-08T12:07:45.000Z"
+  },
+  {
+   "id": 3392013780,
+   "guid": "https://www.motorsport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "The wet-weather challenges thrown up by Brazilian GP qualifying",
+   "summary": "One hour, 23 minutes. You could've squeezed most of a football match into the rain delay during Formula 1 qualifying for the Sao Paulo Grand Prix, and it looked for all the world like the session wouldn't actually get going again. A repeat of 2024, where qualifying was squeezed onto Sunday morning, looked likely.",
+   "link": "https://www.motorsport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-08T11:06:21.000Z"
+  },
   {
    "id": 3921093944,
    "guid": "https://www.motorsport.com/f1/news/pierre-gasly-on-colapinto-fan-pressure-once-you-deal-with-helmut-marko-anything-else-is-no-pressure/10872811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Ferrari Formula 1 team principal Fred Vasseur has ruled himself out of becoming godfather to Charles Leclerc's daughter, joking that he already has enough children to look after. Leclerc and his wife, Alexandra, announced the birth of their first child, Bianca, on Wednesday.",
    "link": "https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-06T22:12:01.000Z"
-  },
-  {
-   "id": 1374205380,
-   "guid": "https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "F1 Brazil GP: Saturday schedule, weather forecast and how to watch",
-   "summary": "Formula 1 heads into Saturday at Interlagos with Kimi Antonelli fastest after second practice for the Brazil Grand Prix. The newly crowned world champion set a 1m10.763s to lead Lando Norris by 0.253s, with Max Verstappen just 0.006s further back in third. George Russell was fourth ahead of Oscar Piastri, leaving Mercedes, McLaren and Red Bull closely matched heading into qualifying.",
-   "link": "https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-06T22:05:41.000Z"
-  },
-  {
-   "id": 405997900,
-   "guid": "https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "McLaren’s upgrade is \"a pleasant surprise\" – but will it stay on the car in Brazil?",
-   "summary": "After one of the most turbulent world championship defences since Jenson Button in 2010, Lando Norris gave McLaren’s latest batch of car upgrades a cautious thumbs-up on the Friday of the Sao Paulo GP. Norris topped the first practice session, edging out Mercedes’ Kimi Antonelli by 0.082s, and was among the quickest in terms of average pace on his long runs through FP2.",
-   "link": "https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-06T21:49:40.000Z"
   }
  ]
 }
