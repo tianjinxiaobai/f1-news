@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-09T09:19:58.855Z",
+ "updated_at": "2026-11-09T11:04:39.568Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 171178623,
+   "guid": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-fernando-alonso/10873272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Who slept worst last night: Fernando Alonso",
+   "summary": "When Fernando Alonso became Formula 1 world champion in 2005, he was just 24 years old, replacing Emerson Fittipaldi as the youngest champion in the sport's history. At last, Michael Schumacher had a challenger.",
+   "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-fernando-alonso/10873272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-09T09:33:04.000Z"
+  },
   {
    "id": 927334489,
    "guid": "https://www.motorsport.com/f1/news/oscar-piastri-wont-have-mark-webber-as-his-manager-anymore/10873253/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Securing a Formula 1 world championship triggers a lot of emotions, and, usually, a lot of champagne. But for Mercedes team principal Toto Wolff, Kimi Antonelli's historic title win in Mexico City triggered a sudden urge to write an incredibly long essay to his staff.",
    "link": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-emotional-mercedes-factory-email-that-got-leaked-online/10872607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-07T20:32:28.000Z"
-  },
-  {
-   "id": 2962190013,
-   "guid": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-mercedes-shielded-kimi-antonelli-during-his-brutal-2025-slump/10872603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Toto Wolff doesn’t think Kimi Antonelli “would have lasted in other teams”",
-   "summary": "Formula 1 is a vicious meat grinder for young talent. If a rookie doesn't perform immediately, there is usually a very short leash before a team principal shows them the door. For Mercedes, taking a massive gamble on teenager Andrea Kimi Antonelli to replace Lewis Hamilton was the ultimate risk.",
-   "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-mercedes-shielded-kimi-antonelli-during-his-brutal-2025-slump/10872603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-07T18:35:37.000Z"
   }
  ]
 }
