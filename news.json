@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-08T22:44:42.470Z",
+ "updated_at": "2026-11-09T01:15:41.630Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1538843353,
+   "guid": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotic-brazilian-grand-prix/10873189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Winners and losers from F1's chaotic Brazilian Grand Prix",
+   "summary": "Are you not entertained? While Lando Norris took a well-deserved third win of the campaign, Mercedes collectively slipped up and Max Verstappen produced yet another Brazilian Grand Prix masterclass. Winner: Lando Norris McLaren team boss Andrea Stella loves describing Lando Norris as the low-grip master.",
+   "link": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotic-brazilian-grand-prix/10873189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-08T22:59:54.000Z"
+  },
   {
    "id": 496839817,
    "guid": "https://www.motorsport.com/f1/news/max-verstappen-gives-emotional-farewell-gift-to-long-serving-red-bull-mechanic/10873184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced. Hamilton was given his fifth internal combustion engine of the season on Saturday morning, landing a 10-place grid drop as he was exceeding his quota for the first time. However, the seven-time world champion endured a troubled Free Practice 3 session.",
    "link": "https://www.motorsport.com/f1/news/lewis-hamilton-set-for-new-penalty-will-start-f1-brazilian-gp-from-back-of-grid/10872640/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-07T17:30:52.000Z"
-  },
-  {
-   "id": 919869066,
-   "guid": "https://www.motorsport.com/f1/news/fred-vasseur-personally-contributed-1m-to-esteban-ocons-first-f1-drive/10872524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Fred Vasseur personally contributed $1m to Esteban Ocon’s first F1 drive",
-   "summary": "Mercedes team principal Toto Wolff has revealed Fred Vasseur personally contributed one million dollars to fund Esteban Ocon’s half-season at the Manor Formula 1 team in 2016.",
-   "link": "https://www.motorsport.com/f1/news/fred-vasseur-personally-contributed-1m-to-esteban-ocons-first-f1-drive/10872524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-07T16:43:53.000Z"
   }
  ]
 }
