@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-09T15:02:17.116Z",
+ "updated_at": "2026-11-09T17:16:46.027Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 826649261,
+   "guid": "https://www.motorsport.com/f1/news/what-the-split-with-mark-webber-says-about-the-next-phase-of-oscar-piastris-f1-career/10873385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "What's behind Oscar Piastri's split with Mark Webber – and what it means for his F1 career",
+   "summary": "On the Monday after the Formula 1 Brazilian Grand Prix, Oscar Piastri and Mark Webber announced in a joint statement that the latter and Ann Neal would no longer manage the 25-year-old McLaren driver. The timing may come as a surprise – now rather than at the end of the season – but the news itself had been on the cards for some time.",
+   "link": "https://www.motorsport.com/f1/news/what-the-split-with-mark-webber-says-about-the-next-phase-of-oscar-piastris-f1-career/10873385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-09T15:51:41.000Z"
+  },
+  {
+   "id": 890157464,
+   "guid": "https://www.motorsport.com/f1/news/why-mercedes-says-a-repeat-of-its-2014-2021-dominance-is-impossible/10873407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why Mercedes says a repeat of its 2014-2021 dominance is \"impossible\"",
+   "summary": "Mercedes trackside engineering director Andrew Shovlin has argued that the Brackley outfit cannot expect to repeat its run of eight consecutive constructors' titles after its 2026 success. Mercedes clinched its ninth constructors' championship at Interlagos on Sunday, ending a wait that began after the last of those eight in 2021.",
+   "link": "https://www.motorsport.com/f1/news/why-mercedes-says-a-repeat-of-its-2014-2021-dominance-is-impossible/10873407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-09T15:46:27.000Z"
+  },
   {
    "id": 2794871203,
    "guid": "https://www.motorsport.com/f1/news/mercedes-considers-push-for-george-russell-to-be-f1-2026-runner-up/10873310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Lewis Hamilton has revealed he and Charles Leclerc have cleared the air in Sao Paulo following their clash at the Formula 1 Mexico Grand Prix and the tensions have been “squashed”. Moreover, the seven-time world champion insists it didn't require Fred Vasseur's involvement – as the drivers resolved their differences between themselves.",
    "link": "https://www.motorsport.com/f1/news/lewis-hamilton-insists-ferrari-tensions-with-charles-leclerc-are-over-weve-squashed-it/10872756/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-07T21:45:25.000Z"
-  },
-  {
-   "id": 4174253429,
-   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-clear-the-air-talks-with-charles-leclerc-after-mexican-gp-clash/10872761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lewis Hamilton opens up on clear-the-air talks with Charles Leclerc after Mexican GP clash",
-   "summary": "Lewis Hamilton has opened up on the clear-the-air chat he had with his Ferrari team-mate Charles Leclerc ahead of the Brazilian Grand Prix. The Ferrari team-mates clashed on the opening lap of the Mexican Grand Prix last weekend. Leclerc attempted to overtake the seven-time champion, who had started from pole position.",
-   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-clear-the-air-talks-with-charles-leclerc-after-mexican-gp-clash/10872761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-07T21:39:36.000Z"
-  },
-  {
-   "id": 3214849261,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-watched-premier-league-football-during-f1-delay-12-hours-ill-never-get-back/10872746/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen watched Premier League football during Brazilian GP qualifying delay: \"12 hours I'll never get back\"",
-   "summary": "Max Verstappen called it a day after Q1 during Formula 1 qualifying in Sao Paulo, as he already knew he would be starting from the back of the grid for the Brazilian Grand Prix due to an engine-related grid penalty. In the FIA's 'indicative grid', Verstappen is listed in 21st place, behind Lewis Hamilton and just ahead of Sergio Perez.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-watched-premier-league-football-during-f1-delay-12-hours-ill-never-get-back/10872746/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-07T21:27:08.000Z"
   }
  ]
 }
