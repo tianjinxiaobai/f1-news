@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-09T11:04:39.568Z",
+ "updated_at": "2026-11-09T13:21:15.509Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2839077577,
+   "guid": "https://www.motorsport.com/f1/news/how-max-verstappen-beat-red-bulls-own-simulation-tools-with-p2-in-brazil/10873308/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "How Max Verstappen beat Red Bull's own simulation tools with P2 in Brazil",
+   "summary": "For the third year in a row, Verstappen produced an impressive comeback drive in the Formula 1 Sao Paulo Grand Prix. While the Dutchman won from 17th on the grid in 2024 and climbed from the pitlane to third place last year, this time he charged from 21st to second.",
+   "link": "https://www.motorsport.com/f1/news/how-max-verstappen-beat-red-bulls-own-simulation-tools-with-p2-in-brazil/10873308/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-09T11:33:44.000Z"
+  },
+  {
+   "id": 3843780792,
+   "guid": "https://www.motorsport.com/f1/news/who-slept-best-last-night-toto-wolff-10873302/10873302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Who slept best last night: Toto Wolff",
+   "summary": "Toto Wolff didn't need to brag when, on Sunday evening in Sao Paulo, he was asked about his records, which now put him alongside two of F1's greats.",
+   "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-toto-wolff-10873302/10873302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-09T11:13:10.000Z"
+  },
   {
    "id": 171178623,
    "guid": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-fernando-alonso/10873272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "1 Lando Norris(McLaren) 2 Kimi Antonelli(Mercedes) 3 Liam Lawson(Racing Bulls) 4 Nico",
    "link": "https://www.motorsport.com/f1/news/2026-f1-brazilian-grand-prix-starting-grid/10872725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-07T20:47:59.000Z"
-  },
-  {
-   "id": 2583598690,
-   "guid": "https://www.motorsport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "F1 Brazilian GP: Lando Norris takes pole in soaking wet qualifying",
-   "summary": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit.",
-   "link": "https://www.motorsport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-07T20:32:58.000Z"
-  },
-  {
-   "id": 2335550212,
-   "guid": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-emotional-mercedes-factory-email-that-got-leaked-online/10872607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Toto Wolff explains the emotional Mercedes factory email leaked online",
-   "summary": "Securing a Formula 1 world championship triggers a lot of emotions, and, usually, a lot of champagne. But for Mercedes team principal Toto Wolff, Kimi Antonelli's historic title win in Mexico City triggered a sudden urge to write an incredibly long essay to his staff.",
-   "link": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-emotional-mercedes-factory-email-that-got-leaked-online/10872607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-07T20:32:28.000Z"
   }
  ]
 }
