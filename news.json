@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-09T22:53:23.118Z",
+ "updated_at": "2026-11-10T01:10:27.145Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2748470806,
+   "guid": "https://www.motorsport.com/f1/news/f1-las-vegas-grand-prix-announces-pre-race-music-line-up/10873488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 Las Vegas Grand Prix announces pre-race music line-up",
+   "summary": "American DJ Steve Aoki will return to the Las Vegas Grand Prix grid this year for a performance before the race on 21 November. He will be joined by fellow DJ MORTEN and singer Jordin Sparks as part of the pre-race line-up.",
+   "link": "https://www.motorsport.com/f1/news/f1-las-vegas-grand-prix-announces-pre-race-music-line-up/10873488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-09T23:57:29.000Z"
+  },
+  {
+   "id": 4026439421,
+   "guid": "https://www.motorsport.com/f1/news/george-russell-keeps-getting-kicked-as-f1-pundit-addresses-2026-struggles/10873477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "George Russell \"keeps getting kicked\" as F1 pundit addresses 2026 struggles",
+   "summary": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe believes George Russell had good reason to look \"a bit defeated\" after another difficult afternoon at the Brazilian Grand Prix. While Mercedes ended the weekend on a high, securing the constructors' championship, Russell endured another frustrating race.",
+   "link": "https://www.motorsport.com/f1/news/george-russell-keeps-getting-kicked-as-f1-pundit-addresses-2026-struggles/10873477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-09T22:59:41.000Z"
+  },
   {
    "id": 2456103082,
    "guid": "https://www.motorsport.com/f1/news/george-russell-teases-imminent-karting-announcement-as-f1-fans-spot-major-clue/10873459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles. This record is based exclusively on qualifying results so that grid penalties don't alter the statistics. When a driver can't put in a representative lap time due to a technical issue or an incident, this will be mentioned in the table.",
    "link": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-brazilian-gp/10872869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-08T09:48:18.000Z"
-  },
-  {
-   "id": 3447974671,
-   "guid": "https://www.motorsport.com/f1/news/despite-p3-on-the-grid-lawson-rues-qualifying-mistake-and-believes-front-row-was-possible/10872792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Liam Lawson rues Brazilian GP qualifying mistake despite third-place grid start",
-   "summary": "Liam Lawson reckons he had enough pace to earn a front-row grid spot in Sao Paulo – but rues his own \"mistake\" in qualifying, which meant he'll have to start from P3. The New Zealander starred in wet qualifying, once again progressing into Q3 – and then fighting for the front positions with drivers from the top teams.",
-   "link": "https://www.motorsport.com/f1/news/despite-p3-on-the-grid-lawson-rues-qualifying-mistake-and-believes-front-row-was-possible/10872792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-07T22:32:01.000Z"
-  },
-  {
-   "id": 2525713041,
-   "guid": "https://www.motorsport.com/f1/news/george-russells-brazilian-gp-qualifying-fury-explained-pole-was-there-for-the-taking/10872782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "George Russell's Brazilian GP qualifying fury explained: \"Pole was there for the taking\"",
-   "summary": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference. The title has gone and a five-place grid penalty for an engine swap meant Russell was never going to start on the front row on Sunday.",
-   "link": "https://www.motorsport.com/f1/news/george-russells-brazilian-gp-qualifying-fury-explained-pole-was-there-for-the-taking/10872782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-07T22:12:17.000Z"
   }
  ]
 }
