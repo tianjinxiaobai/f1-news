@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-11T11:07:13.610Z",
+ "updated_at": "2026-11-11T13:18:13.783Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3206838230,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-explains-why-hes-so-good-in-the-rain-in-brazil/10873830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen explains why he’s so good in the rain in Brazil",
+   "summary": "Max Verstappen has delved into what gives him such racecraft when it rains in Sao Paulo, after another remarkable drive in Formula 1’s Brazilian Grand Prix. Among tracks that have been on the calendar since the beginning of his career, Verstappen has his highest podium-finishing rate at Interlagos – and Austin – with eight top-three results in 11 races.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-explains-why-hes-so-good-in-the-rain-in-brazil/10873830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-11T12:23:42.000Z"
+  },
+  {
+   "id": 1668660829,
+   "guid": "https://www.motorsport.com/f1/news/andrea-stella-wants-mclaren-to-finally-make-peace-with-las-vegas/10873819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Andrea Stella wants McLaren to \"finally\" make peace with Las Vegas",
+   "summary": "Andrea Stella says McLaren is aiming to finally make \"peace\" with what has historically been a difficult race for the team in Las Vegas. The Sao Paulo Grand Prix was a successful weekend for McLaren, with Lando Norris showing a dominant level of performance with his third win of the season, and team-mate Oscar Piastri showing a strong uptick in pace.",
+   "link": "https://www.motorsport.com/f1/news/andrea-stella-wants-mclaren-to-finally-make-peace-with-las-vegas/10873819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-11T11:18:24.000Z"
+  },
   {
    "id": 2544912290,
    "guid": "https://www.motorsport.com/f1/news/oscar-piastri-admits-he-is-missing-the-stress-of-an-f1-title-fight/10873816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Charles Leclerc was handed a five-second penalty after the Formula 1 Brazilian Grand Prix for his clash with Liam Lawson, dropping the Ferrari driver down to eighth place in the final results.",
    "link": "https://www.motorsport.com/f1/news/charles-leclerc-penalised-for-liam-lawson-clash-kimi-antonelli-and-oliver-bearman-also-punished-aft/10873163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-08T21:54:53.000Z"
-  },
-  {
-   "id": 1052986016,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-needs-to-understand-what-happened-after-night-and-day-f1-comeback-in-brazil/10873146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen \"needs to understand what happened\" after \"night and day\" F1 comeback in Brazilian GP",
-   "summary": "For the third year in a row, Max Verstappen has produced an impressive comeback drive in Brazil. While he won from 17th on the grid in 2024 and drove from the pitlane to the podium last year, Verstappen finished this year's Formula 1 Brazilian Grand Prix in second place after starting 21st.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-needs-to-understand-what-happened-after-night-and-day-f1-comeback-in-brazil/10873146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-08T21:53:41.000Z"
-  },
-  {
-   "id": 2268074668,
-   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-weird-spin-and-car-instability-cost-f1-brazilian-gp-win/10873125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli: \"Weird\" spin and car instability cost F1 Brazilian GP win",
-   "summary": "Kimi Antonelli vowed to put aside his Brazilian Grand Prix anger to celebrate Mercedes winning the Formula 1 constructors' title, as he rued the balance issues and the spin that took him out of victory contention. The new world champion had picked up the lead from polesitter Lando Norris at the start, and was building a pretty healthy lead over the Briton in the opening laps of the race.",
-   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-weird-spin-and-car-instability-cost-f1-brazilian-gp-win/10873125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-08T20:56:10.000Z"
   }
  ]
 }
