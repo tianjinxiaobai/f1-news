@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-11T01:12:44.109Z",
+ "updated_at": "2026-11-11T02:57:45.296Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 645292213,
+   "guid": "https://www.motorsport.com/f1/news/daniel-ricciardo-max-verstappen-will-go-down-as-one-of-the-best-ever/10873738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
+   "summary": "Daniel Ricciardo says Max Verstappen will \"go down as one of the best ever\", and admits he cannot comprehend what Red Bull has achieved in its first season building its own power units. Ricciardo was Verstappen's team-mate at Red Bull from 2016 until the end of 2018, and is now an ambassador for Ford, whose partnership with Red Bull Powertrains made its race debut this season.",
+   "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-max-verstappen-will-go-down-as-one-of-the-best-ever/10873738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-11T02:05:02.000Z"
+  },
   {
    "id": 2162112219,
    "guid": "https://www.motorsport.com/f1/news/oscar-piastri-reveals-unexpected-upside-of-being-out-of-f1-title-fight/10873740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Another impressive comeback drive from Verstappen, but Norris in a league of his own After qualifying, Max Verstappen and Lewis Hamilton were in agreement: fighting their way through the field at the Autodromo Jose Carlos Pace would be considerably more difficult with the 2026 cars than in previous years.",
    "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-brazil-gp/10873014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-08T18:55:25.000Z"
-  },
-  {
-   "id": 12799781,
-   "guid": "https://www.motorsport.com/f1/news/mercedes-crowned-2026-f1-constructors-champion-at-brazilian-gp/10873044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Mercedes crowned 2026 F1 constructors' champion at Brazilian GP",
-   "summary": "Mercedes has won the 2026 Formula 1 constructors' championship, sealing the title at the Brazilian Grand Prix at Interlagos. Kimi Antonelli and George Russell started second and seventh on the grid, after the Briton took a five-place grid penalty.",
-   "link": "https://www.motorsport.com/f1/news/mercedes-crowned-2026-f1-constructors-champion-at-brazilian-gp/10873044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-08T18:43:09.000Z"
   }
  ]
 }
