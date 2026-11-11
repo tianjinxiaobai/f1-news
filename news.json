@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-11T14:58:44.472Z",
+ "updated_at": "2026-11-11T17:02:18.778Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 67001403,
+   "guid": "https://www.motorsport.com/f1/news/mercedes-explains-unusual-car-behaviour-behind-kimi-antonellis-costly-brazil-spin/10873891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Mercedes explains \"unusual\" car behaviour behind Kimi Antonelli's costly Interlagos spin",
+   "summary": "Mercedes deputy team principal Bradley Lord has provided an explanation for several spins that occurred for the Silver Arrows in Formula 1's Brazilian Grand Prix.",
+   "link": "https://www.motorsport.com/f1/news/mercedes-explains-unusual-car-behaviour-behind-kimi-antonellis-costly-brazil-spin/10873891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-11T16:00:58.000Z"
+  },
   {
    "id": 3206838230,
    "guid": "https://www.motorsport.com/f1/news/max-verstappen-explains-why-hes-so-good-in-the-rain-in-brazil/10873830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Four-time Formula 1 champion Max Verstappen has given his race helmet to long-serving Red Bull mechanic Ole Schack, who took part in his final race for the Milton Keynes outfit at Interlagos. Schack has been with Red Bull since its first season in 2005 and works on Verstappen's car as a front-end mechanic.",
    "link": "https://www.motorsport.com/f1/news/max-verstappen-gives-emotional-farewell-gift-to-long-serving-red-bull-mechanic/10873184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-08T22:36:27.000Z"
-  },
-  {
-   "id": 2326815288,
-   "guid": "https://www.motorsport.com/f1/news/charles-leclerc-penalised-for-liam-lawson-clash-kimi-antonelli-and-oliver-bearman-also-punished-aft/10873163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Charles Leclerc penalised for Liam Lawson clash; Kimi Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
-   "summary": "Charles Leclerc was handed a five-second penalty after the Formula 1 Brazilian Grand Prix for his clash with Liam Lawson, dropping the Ferrari driver down to eighth place in the final results.",
-   "link": "https://www.motorsport.com/f1/news/charles-leclerc-penalised-for-liam-lawson-clash-kimi-antonelli-and-oliver-bearman-also-punished-aft/10873163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-08T21:54:53.000Z"
   }
  ]
 }
