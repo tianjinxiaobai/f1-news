@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-12T20:56:45.817Z",
+ "updated_at": "2026-11-12T22:54:39.237Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3316603611,
+   "guid": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-max-verstappen-could-be-better-suited-to-lead-ferrari/10874192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Guenther Steiner suggests Max Verstappen could be better suited to lead Ferrari",
+   "summary": "Former Haas Formula 1 team principal Guenther Steiner has questioned whether Lewis Hamilton is the driver to turn Ferrari's fortunes around, suggesting Max Verstappen might be better suited to the role. Hamilton joined Ferrari in 2025 after a successful 12-year stint with Mercedes, during which time he won six of his seven world titles.",
+   "link": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-max-verstappen-could-be-better-suited-to-lead-ferrari/10874192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-12T21:00:04.000Z"
+  },
   {
    "id": 3850726424,
    "guid": "https://www.motorsport.com/f1/news/toto-wolff-reflects-on-mercedes-non-title-years-we-werent-complete-losers/10873281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "The FIA has announced its final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 Formula 1 season, with no changes granted for any of the power unit manufacturers.",
    "link": "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-10T11:42:46.000Z"
-  },
-  {
-   "id": 4224496036,
-   "guid": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Honda struggling to explain Lance Stroll’s 13th DNF of the season",
-   "summary": "Honda says it needs to find the root cause of Lance Stroll’s multiple battery issues after yet another retirement for the Aston Martin Formula 1 driver in the Brazilian Grand Prix. Stroll’s race in Sao Paulo ended after 30 laps, as he lay 18th, 28 seconds adrift of 12-placed team-mate Fernando Alonso.",
-   "link": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-10T10:25:06.000Z"
   }
  ]
 }
