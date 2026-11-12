@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-12T07:28:30.390Z",
+ "updated_at": "2026-11-12T09:09:04.946Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 55220090,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-ferrari-clash-i-would-never-sign-two-number-one-drivers/10873588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen on Ferrari clashes: \"I would never sign two number-one drivers\"",
+   "summary": "Although Ferrari Formula 1 team principal Frederic Vasseur spoke to Lewis Hamilton and Charles Leclerc on Thursday evening in Sao Paulo to clear the air, an extraordinary amount had already been said and written about the Ferrari clash in Mexico.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-ferrari-clash-i-would-never-sign-two-number-one-drivers/10873588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-12T09:05:37.000Z"
+  },
   {
    "id": 1098232296,
    "guid": "https://www.motorsport.com/f1/news/final-mercedes-benz-slr-mclaren-stirling-moss-heads-to-auction-for-over-6million/10873978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "A Honda NSX used by three-time Formula 1 champion Ayrton Senna has set an auction record for the model. The car, which had been estimated to sell for between £500,000 and £800,000 prior to the auction, sold for £871,250 at RM Sotheby's in London on 31 October.",
    "link": "https://www.motorsport.com/f1/news/ayrton-sennas-rare-honda-nsx-smashes-auction-estimate-with-record-six-figure-sale/10873355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-09T13:19:30.000Z"
-  },
-  {
-   "id": 2839077577,
-   "guid": "https://www.motorsport.com/f1/news/how-max-verstappen-beat-red-bulls-own-simulation-tools-with-p2-in-brazil/10873308/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "How Max Verstappen beat Red Bull's own simulation tools with P2 in Brazil",
-   "summary": "For the third year in a row, Verstappen produced an impressive comeback drive in the Formula 1 Sao Paulo Grand Prix. While the Dutchman won from 17th on the grid in 2024 and climbed from the pitlane to third place last year, this time he charged from 21st to second.",
-   "link": "https://www.motorsport.com/f1/news/how-max-verstappen-beat-red-bulls-own-simulation-tools-with-p2-in-brazil/10873308/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-09T11:33:44.000Z"
   }
  ]
 }
