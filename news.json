@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-12T17:11:01.247Z",
+ "updated_at": "2026-11-12T19:02:44.194Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3850726424,
+   "guid": "https://www.motorsport.com/f1/news/toto-wolff-reflects-on-mercedes-non-title-years-we-werent-complete-losers/10873281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Toto Wolff reflects on Mercedes’ non-title years: ‘We weren’t complete losers’",
+   "summary": "Mercedes team principal Toto Wolff says the squad wasn’t “complete losers” in its four years without a Formula 1 world title. The Silver Arrows claimed their ninth constructors’ championship on Sunday at the Brazilian Grand Prix, one week after Kimi Antonelli became F1’s youngest world drivers’ champion.",
+   "link": "https://www.motorsport.com/f1/news/toto-wolff-reflects-on-mercedes-non-title-years-we-werent-complete-losers/10873281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-12T17:25:35.000Z"
+  },
   {
    "id": 754098885,
    "guid": "https://www.motorsport.com/f1/news/laurent-mekies-brazil-was-isack-hadjars-best-race-for-red-bull/10874059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Honda says it needs to find the root cause of Lance Stroll’s multiple battery issues after yet another retirement for the Aston Martin Formula 1 driver in the Brazilian Grand Prix. Stroll’s race in Sao Paulo ended after 30 laps, as he lay 18th, 28 seconds adrift of 12-placed team-mate Fernando Alonso.",
    "link": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-10T10:25:06.000Z"
-  },
-  {
-   "id": 3318857783,
-   "guid": "https://www.motorsport.com/f1/news/laurent-mekies-liam-lawsons-fate-has-nothing-to-do-with-me/10873368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Laurent Mekies: Liam Lawson’s fate has nothing to do with me",
-   "summary": "Red Bull team principal Laurent Mekies says it’s up to Racing Bulls whether to retain Liam Lawson or promote Nikola Tsolov to a race seat in the 2027 Formula 1 season. Rookie Arvid Lindblad is set to get a second campaign in the world championship next year, but the identity of his team-mate has been uncertain.",
-   "link": "https://www.motorsport.com/f1/news/laurent-mekies-liam-lawsons-fate-has-nothing-to-do-with-me/10873368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-10T08:28:03.000Z"
   }
  ]
 }
