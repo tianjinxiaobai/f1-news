@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-12T09:09:04.946Z",
+ "updated_at": "2026-11-12T11:12:49.512Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2358637856,
+   "guid": "https://www.motorsport.com/f1/news/liam-lawson-retained-by-racing-bulls-for-2027-alongside-arvid-lindblad/10874061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Liam Lawson retained by Racing Bulls for 2027 alongside Arvid Lindblad",
+   "summary": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 season, partnering Arvid Lindblad for a second year. Lawson and Lindblad formed a formidable duo this year as they propelled Racing Bulls to fifth in the constructors' championship, which is set to be the Anglo-Italian team's best-ever result.",
+   "link": "https://www.motorsport.com/f1/news/liam-lawson-retained-by-racing-bulls-for-2027-alongside-arvid-lindblad/10874061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-12T11:05:10.000Z"
+  },
+  {
+   "id": 1796061244,
+   "guid": "https://www.motorsport.com/f1/news/george-russell-launches-fully-funded-gr63-karting-academy-at-silverstone/10874038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "George Russell launches fully-funded GR63 Karting Academy at Silverstone",
+   "summary": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to change that. Russell officially announced the launch of the GR63 Academy, a grassroots karting initiative created in partnership with Silverstone and the British Racing Drivers' Club.",
+   "link": "https://www.motorsport.com/f1/news/george-russell-launches-fully-funded-gr63-karting-academy-at-silverstone/10874038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-12T10:35:02.000Z"
+  },
   {
    "id": 55220090,
    "guid": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-ferrari-clash-i-would-never-sign-two-number-one-drivers/10873588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Mercedes is considering giving George Russell “all the force” to secure a 1-2 in the drivers’ championship after a nightmare run of form.",
    "link": "https://www.motorsport.com/f1/news/mercedes-considers-push-for-george-russell-to-be-f1-2026-runner-up/10873310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-09T13:46:01.000Z"
-  },
-  {
-   "id": 227851188,
-   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-ferrari-fans-after-devastating-brazil-gp/10873360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lewis Hamilton sends message to Ferrari fans after 'devastating' Brazil GP",
-   "summary": "Lewis Hamilton has told fans he is \"devastated\" by the outcome of his Brazilian Grand Prix, which began with an impressive charge from the back of the grid and finished with a spin in the closing laps. The Ferrari driver shared his thoughts on Instagram on Monday after finishing ninth at Interlagos on Sunday.",
-   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-ferrari-fans-after-devastating-brazil-gp/10873360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-09T13:38:32.000Z"
-  },
-  {
-   "id": 770173918,
-   "guid": "https://www.motorsport.com/f1/news/ayrton-sennas-rare-honda-nsx-smashes-auction-estimate-with-record-six-figure-sale/10873355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Ayrton Senna's rare Honda NSX smashes auction estimate with record six-figure sale",
-   "summary": "A Honda NSX used by three-time Formula 1 champion Ayrton Senna has set an auction record for the model. The car, which had been estimated to sell for between £500,000 and £800,000 prior to the auction, sold for £871,250 at RM Sotheby's in London on 31 October.",
-   "link": "https://www.motorsport.com/f1/news/ayrton-sennas-rare-honda-nsx-smashes-auction-estimate-with-record-six-figure-sale/10873355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-09T13:19:30.000Z"
   }
  ]
 }
