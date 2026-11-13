@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-13T20:58:41.536Z",
+ "updated_at": "2026-11-13T22:51:46.654Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 4015684702,
+   "guid": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
+   "summary": "Mercedes technical director James Allison has explained how Kimi Antonelli's bold use of the tools on his steering wheel helped him become Formula 1's youngest world champion. The Italian driver secured the 2026 title at the Mexican Grand Prix at the age of 20, in only his second season in F1, and has won nine grands prix so far this year.",
+   "link": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-13T21:56:05.000Z"
+  },
   {
    "id": 478216673,
    "guid": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-mark-webber-became-too-involved-in-oscar-piastris-career/10874383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "McLaren's Oscar Piastri is missing the pressure of fighting for the Formula 1 world championship amid what has been a difficult 2026 season. The Australian led the drivers' standings for a lot of last year before he eventually finished third behind team-mate Lando Norris and Red Bull's Max Verstappen.",
    "link": "https://www.motorsport.com/f1/news/oscar-piastri-admits-he-is-missing-the-stress-of-an-f1-title-fight/10873816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-11T10:54:44.000Z"
-  },
-  {
-   "id": 657251569,
-   "guid": "https://www.motorsport.com/f1/news/colapinto-never-hit-the-apex-audis-take-on-contentious-hulkenberg-penalty-in-sao-paulo-gp/10873551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "\"Colapinto never hit the apex\" – Audi's take on contentious Nico Hulkenberg penalty in Brazilian GP",
-   "summary": "Audi's eighth place in the constructors' championship doesn't quite tally with the competitiveness of its car, but circumstances have contrived to keep the team falling short of the points in 2026. Between them, Nico Hulkenberg and Gabriel Bortoleto have notched up ten 11th-place finishes.",
-   "link": "https://www.motorsport.com/f1/news/colapinto-never-hit-the-apex-audis-take-on-contentious-hulkenberg-penalty-in-sao-paulo-gp/10873551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T10:13:12.000Z"
   }
  ]
 }
