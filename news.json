@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-13T14:57:01.755Z",
+ "updated_at": "2026-11-13T17:00:40.201Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1659147323,
+   "guid": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Las Vegas GP reveals neon sign-inspired trophy design",
+   "summary": "The Las Vegas Grand Prix has unveiled a new trophy design for next weekend’s Formula 1 round, inspired by the city and its neon lights. The 3.6kg, 56cm-tall winners’ trophy took six months to develop and build and emulates the neon signs synonymous with the Las Vegas strip that the circuit is based around.",
+   "link": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-13T16:09:45.000Z"
+  },
+  {
+   "id": 2385856608,
+   "guid": "https://www.motorsport.com/f1/news/mercedes-could-only-gamble-on-kimi-antonelli-because-of-george-russell-toto-wolff-told-staff/10874338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Mercedes could only gamble on Kimi Antonelli because of George Russell, Toto Wolff told staff",
+   "summary": "Mercedes would not have been able to take the risk of promoting Kimi Antonelli without already having George Russell, according to a message Toto Wolff sent to the entire team. Antonelli joined Mercedes in 2025 after seven-time Formula 1 champion Lewis Hamilton moved to Ferrari.",
+   "link": "https://www.motorsport.com/f1/news/mercedes-could-only-gamble-on-kimi-antonelli-because-of-george-russell-toto-wolff-told-staff/10874338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-13T15:30:07.000Z"
+  },
   {
    "id": 1518610555,
    "guid": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Daniel Ricciardo says Max Verstappen will \"go down as one of the best ever\", and admits he cannot comprehend what Red Bull has achieved in its first season building its own power units. Ricciardo was Verstappen's team-mate at Red Bull from 2016 until the end of 2018, and is now an ambassador for Ford, whose partnership with Red Bull Powertrains made its race debut this season.",
    "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-max-verstappen-will-go-down-as-one-of-the-best-ever/10873738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-11T02:05:02.000Z"
-  },
-  {
-   "id": 2162112219,
-   "guid": "https://www.motorsport.com/f1/news/oscar-piastri-reveals-unexpected-upside-of-being-out-of-f1-title-fight/10873740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Oscar Piastri reveals unexpected upside of being out of F1 title fight",
-   "summary": "Oscar Piastri says he misses the pressure of fighting for the Formula 1 world championship. The McLaren driver led the standings for much of last year and was in a season-long battle against his team-mate Lando Norris for the title.",
-   "link": "https://www.motorsport.com/f1/news/oscar-piastri-reveals-unexpected-upside-of-being-out-of-f1-title-fight/10873740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T00:21:39.000Z"
-  },
-  {
-   "id": 1536776606,
-   "guid": "https://www.motorsport.com/f1/news/lando-norris-questions-charles-leclercs-brazilian-gp-penalty-just-racing/10873736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lando Norris questions Charles Leclerc's Brazilian GP penalty: \"Just racing\"",
-   "summary": "McLaren Formula 1 driver Lando Norris has questioned Charles Leclerc's penalty after the Brazilian Grand Prix, which cost the Ferrari driver seventh place. Leclerc tapped the left rear of Liam Lawson's Racing Bulls car at Turn 12 on the penultimate lap of the race at Interlagos.",
-   "link": "https://www.motorsport.com/f1/news/lando-norris-questions-charles-leclercs-brazilian-gp-penalty-just-racing/10873736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-10T23:58:55.000Z"
   }
  ]
 }
