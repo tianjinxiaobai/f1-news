@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-13T17:00:40.201Z",
+ "updated_at": "2026-11-13T19:00:28.366Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 478216673,
+   "guid": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-mark-webber-became-too-involved-in-oscar-piastris-career/10874383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Guenther Steiner suggests Mark Webber became too involved in Oscar Piastri’s career",
+   "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Mark Webber may have become too involved in Oscar Piastri’s career in the second half of 2025, before the McLaren driver decided he wanted to “do this on my own”.",
+   "link": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-mark-webber-became-too-involved-in-oscar-piastris-career/10874383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-13T17:20:10.000Z"
+  },
+  {
+   "id": 2992284347,
+   "guid": "https://www.motorsport.com/f1/news/i-was-getting-beat-up-how-daniel-ricciardo-burned-out-on-humiliating-f1-return/10874248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
+   "summary": "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian with the time he required for introspection, allowing him to view his final years in the championship from a new angle. Those final years were a struggle.",
+   "link": "https://www.motorsport.com/f1/news/i-was-getting-beat-up-how-daniel-ricciardo-burned-out-on-humiliating-f1-return/10874248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-13T17:06:56.000Z"
+  },
   {
    "id": 1659147323,
    "guid": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Audi's eighth place in the constructors' championship doesn't quite tally with the competitiveness of its car, but circumstances have contrived to keep the team falling short of the points in 2026. Between them, Nico Hulkenberg and Gabriel Bortoleto have notched up ten 11th-place finishes.",
    "link": "https://www.motorsport.com/f1/news/colapinto-never-hit-the-apex-audis-take-on-contentious-hulkenberg-penalty-in-sao-paulo-gp/10873551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-11T10:13:12.000Z"
-  },
-  {
-   "id": 1522544770,
-   "guid": "https://www.motorsport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "What the Brazilian GP revealed about F1's ability to cope with rain",
-   "summary": "The question of what might happen in a wet race has vexed Formula 1's stakeholders since before the beginning of the season. It's also prompted some unnecessarily hysterical commentary throughout the year, peaking in the run-up to last weekend's Brazilian Grand Prix at Interlagos, where rain for qualifying and the race was a virtual certainty for the first time this season.",
-   "link": "https://www.motorsport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T09:26:23.000Z"
-  },
-  {
-   "id": 645292213,
-   "guid": "https://www.motorsport.com/f1/news/daniel-ricciardo-max-verstappen-will-go-down-as-one-of-the-best-ever/10873738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
-   "summary": "Daniel Ricciardo says Max Verstappen will \"go down as one of the best ever\", and admits he cannot comprehend what Red Bull has achieved in its first season building its own power units. Ricciardo was Verstappen's team-mate at Red Bull from 2016 until the end of 2018, and is now an ambassador for Ford, whose partnership with Red Bull Powertrains made its race debut this season.",
-   "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-max-verstappen-will-go-down-as-one-of-the-best-ever/10873738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T02:05:02.000Z"
   }
  ]
 }
