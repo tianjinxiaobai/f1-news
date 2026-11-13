@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-13T11:07:48.047Z",
+ "updated_at": "2026-11-13T13:17:15.740Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1518610555,
+   "guid": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Red Bull F1 car takes on MotoGP bike, rally car and snowmobile in extreme ice race",
+   "summary": "Red Bull pitted a Formula 1 car, MotoGP bike, rally car, Pro 4 truck and a snowmobile against each other in the first Ultimate Winter race. Former MotoGP rider Dani Pedrosa won, riding a KTM MotoGP bike on the custom frozen lake course. The event, held in Eagle River, Wisconsin, brought five motorsport disciplines together on the same grid.",
+   "link": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-13T12:25:26.000Z"
+  },
+  {
+   "id": 394959920,
+   "guid": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "\"It's horribly painful\" - Williams drops 2026 car upgrades to benefit 2027",
+   "summary": "Williams F1 team boss James Vowles says it was \"horribly painful\" for the squad to forego 2026 aero upgrades and save the resources for 2027 instead. Williams has been forced into playing the long game for some time now, but was hoping its progress behind the scenes in 2025 would carry over into the new regulations.",
+   "link": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-13T12:15:32.000Z"
+  },
   {
    "id": 2599386894,
    "guid": "https://www.motorsport.com/f1/news/the-kimi-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion-/10874164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "McLaren Formula 1 driver Lando Norris has questioned Charles Leclerc's penalty after the Brazilian Grand Prix, which cost the Ferrari driver seventh place. Leclerc tapped the left rear of Liam Lawson's Racing Bulls car at Turn 12 on the penultimate lap of the race at Interlagos.",
    "link": "https://www.motorsport.com/f1/news/lando-norris-questions-charles-leclercs-brazilian-gp-penalty-just-racing/10873736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-10T23:58:55.000Z"
-  },
-  {
-   "id": 912807854,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-id-quit-f1-if-i-didnt-think-i-was-the-best-driver/10873734/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen names the one condition that would make him retire from F1",
-   "summary": "Max Verstappen says he would walk away from Formula 1 if he ever stopped believing he was the best driver in the field. The four-time world champion has not won the title since 2024, with Lando Norris taking the championship win last year and Kimi Antonelli wrapping up the 2026 championship in Mexico earlier this month.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-id-quit-f1-if-i-didnt-think-i-was-the-best-driver/10873734/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-10T23:58:32.000Z"
-  },
-  {
-   "id": 372746042,
-   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-tours-gaza-aid-operation-at-egypts-rafah-border/10873731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lewis Hamilton tours Gaza aid operation at Egypt's Rafah border",
-   "summary": "Lewis Hamilton has been to see the aid operation at Egypt's border with Gaza, two days after racing at the Sao Paulo Grand Prix. The seven-time world champion arrived in El Arish, in Egypt's North Sinai region, on Tuesday, and was met at the airport by the region's governor, Khaled Megawer.",
-   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-tours-gaza-aid-operation-at-egypts-rafah-border/10873731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-10T23:42:03.000Z"
   }
  ]
 }
