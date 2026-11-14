@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-14T16:48:30.815Z",
+ "updated_at": "2026-11-14T18:51:58.940Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 738415329,
+   "guid": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
+   "summary": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit. The Australian driver has endured a difficult campaign after fighting for the title last year. He has two podiums in Japan and Miami, and sits seventh in the drivers' standings with three races to go.",
+   "link": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-14T17:39:40.000Z"
+  },
   {
    "id": 3345502052,
    "guid": "https://www.motorsport.com/f1/news/lewis-suspected-a-conspiracy-nico-rosberg-explains-how-hamilton-f1-rivalry-went-awry-at-mercedes/10874271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Former Formula 1 driver Bruno Senna says he wants to give Kimi Antonelli the chance to drive one of Ayrton Senna's cars next year, after the 2026 world champion visited the family's estate in Brazil. Antonelli arrived at the estate days after clinching his maiden F1 championship at the Mexican Grand Prix, becoming the youngest driver in the history of the series to win the title.",
    "link": "https://www.motorsport.com/f1/news/bruno-senna-reveals-plans-to-put-kimi-antonelli-behind-the-wheel-of-ayrton-sennas-f1-car/10873973/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-11T23:55:02.000Z"
-  },
-  {
-   "id": 3890941058,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-questions-ferraris-decision-to-let-lewis-hamilton-and-charles-leclerc-race-freely/10873971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen questions Ferrari’s decision to let Lewis Hamilton and Charles Leclerc race freely",
-   "summary": "Following his impressive win at Autodromo Hermanos Rodriguez, Max Verstappen said he would never put two number one drivers together if he were a team principal of Ferrari. He believes the battle between Lewis Hamilton and Charles Leclerc gifted him the win in Mexico.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-questions-ferraris-decision-to-let-lewis-hamilton-and-charles-leclerc-race-freely/10873971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T23:48:50.000Z"
   }
  ]
 }
