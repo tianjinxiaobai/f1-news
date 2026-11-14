@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-14T08:57:19.359Z",
+ "updated_at": "2026-11-14T10:50:57.108Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2154620403,
+   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Kimi Antonelli meets Italian president Sergio Mattarella",
+   "summary": "\"To President Mattarella, with great admiration,\" signed Kimi Antonelli. The new Formula 1 world champion is in the middle of a whirlwind of meetings, events and celebrations for the world title he won two weeks ago at the Mexico Grand Prix, with which he ended a title drought for an Italian driver to win the world championship dating back to 1953.",
+   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-14T10:37:42.000Z"
+  },
+  {
+   "id": 3199261860,
+   "guid": "https://www.motorsport.com/f1/news/mclaren-to-upgrade-mcl40-car-at-its-bogey-f1-track-las-vegas/10874307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas",
+   "summary": "McLaren will introduce upgrades to its MCL40 at Formula 1’s Las Vegas Grand Prix, with the new parts labelled as “the foundation for next year’s car”.",
+   "link": "https://www.motorsport.com/f1/news/mclaren-to-upgrade-mcl40-car-at-its-bogey-f1-track-las-vegas/10874307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-14T09:09:51.000Z"
+  },
   {
    "id": 4015684702,
    "guid": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Max Verstappen has delved into what gives him such racecraft when it rains in Sao Paulo, after another remarkable drive in Formula 1’s Brazilian Grand Prix. Among tracks that have been on the calendar since the beginning of his career, Verstappen has his highest podium-finishing rate at Interlagos – and Austin – with eight top-three results in 11 races.",
    "link": "https://www.motorsport.com/f1/news/max-verstappen-explains-why-hes-so-good-in-the-rain-in-brazil/10873830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-11T12:23:42.000Z"
-  },
-  {
-   "id": 1668660829,
-   "guid": "https://www.motorsport.com/f1/news/andrea-stella-wants-mclaren-to-finally-make-peace-with-las-vegas/10873819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Andrea Stella wants McLaren to \"finally\" make peace with Las Vegas",
-   "summary": "Andrea Stella says McLaren is aiming to finally make \"peace\" with what has historically been a difficult race for the team in Las Vegas. The Sao Paulo Grand Prix was a successful weekend for McLaren, with Lando Norris showing a dominant level of performance with his third win of the season, and team-mate Oscar Piastri showing a strong uptick in pace.",
-   "link": "https://www.motorsport.com/f1/news/andrea-stella-wants-mclaren-to-finally-make-peace-with-las-vegas/10873819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T11:18:24.000Z"
-  },
-  {
-   "id": 2544912290,
-   "guid": "https://www.motorsport.com/f1/news/oscar-piastri-admits-he-is-missing-the-stress-of-an-f1-title-fight/10873816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Oscar Piastri admits he is \"missing\" the stress of an F1 title fight",
-   "summary": "McLaren's Oscar Piastri is missing the pressure of fighting for the Formula 1 world championship amid what has been a difficult 2026 season. The Australian led the drivers' standings for a lot of last year before he eventually finished third behind team-mate Lando Norris and Red Bull's Max Verstappen.",
-   "link": "https://www.motorsport.com/f1/news/oscar-piastri-admits-he-is-missing-the-stress-of-an-f1-title-fight/10873816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T10:54:44.000Z"
   }
  ]
 }
