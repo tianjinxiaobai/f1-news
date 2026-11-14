@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-14T10:50:57.108Z",
+ "updated_at": "2026-11-14T12:58:33.983Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1135214499,
+   "guid": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
+   "summary": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix. Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both collections are available now through adidas.com, and the pieces listed on the brand's US store range in price from $30 to $200. The most expensive items are the outerwear.",
+   "link": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-14T11:32:50.000Z"
+  },
+  {
+   "id": 4196144328,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-signs-ambassador-deal-with-dutch-technical-group-vdk/10874486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen signs ambassador deal with Dutch technical group VDK",
+   "summary": "Four-time Formula 1 champion Max Verstappen has become the new ambassador of the VDK Group, a Dutch group of installation and technical companies that is expanding across Europe. The Dutchman will play a prominent role in the company's international branding over the coming years and will feature in its communications and marketing campaigns.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-signs-ambassador-deal-with-dutch-technical-group-vdk/10874486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-14T11:03:24.000Z"
+  },
   {
    "id": 2154620403,
    "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Kimi Antonelli has kept his word. Mercedes' new world champion arrived at the team's Brackley factory this week with his hair dyed green, white and red, the colours of the Italian flag, as the team celebrated its successful season at its headquarters.",
    "link": "https://www.motorsport.com/f1/news/kimi-antonelli-keeps-f1-title-promise-with-italian-flag-hair-at-mercedes-factory/10873952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-11T20:55:48.000Z"
-  },
-  {
-   "id": 67001403,
-   "guid": "https://www.motorsport.com/f1/news/mercedes-explains-unusual-car-behaviour-behind-kimi-antonellis-costly-brazil-spin/10873891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Mercedes explains \"unusual\" car behaviour behind Kimi Antonelli's costly Interlagos spin",
-   "summary": "Mercedes deputy team principal Bradley Lord has provided an explanation for several spins that occurred for the Silver Arrows in Formula 1's Brazilian Grand Prix.",
-   "link": "https://www.motorsport.com/f1/news/mercedes-explains-unusual-car-behaviour-behind-kimi-antonellis-costly-brazil-spin/10873891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T16:00:58.000Z"
-  },
-  {
-   "id": 3206838230,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-explains-why-hes-so-good-in-the-rain-in-brazil/10873830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen explains why he’s so good in the rain in Brazil",
-   "summary": "Max Verstappen has delved into what gives him such racecraft when it rains in Sao Paulo, after another remarkable drive in Formula 1’s Brazilian Grand Prix. Among tracks that have been on the calendar since the beginning of his career, Verstappen has his highest podium-finishing rate at Interlagos – and Austin – with eight top-three results in 11 races.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-explains-why-hes-so-good-in-the-rain-in-brazil/10873830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T12:23:42.000Z"
   }
  ]
 }
