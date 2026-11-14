@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-14T14:50:39.462Z",
+ "updated_at": "2026-11-14T16:48:30.815Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3345502052,
+   "guid": "https://www.motorsport.com/f1/news/lewis-suspected-a-conspiracy-nico-rosberg-explains-how-hamilton-f1-rivalry-went-awry-at-mercedes/10874271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
+   "summary": "When Lewis Hamilton joined Nico Rosberg at Mercedes for the 2013 Formula 1 season, it was a feel-good story: two long-time friends becoming team-mates. However, their amicable relationship soon turned sour, as Mercedes dominated the world championship’s early turbo hybrid era from 2014 and title battles turned into intra-team duels.",
+   "link": "https://www.motorsport.com/f1/news/lewis-suspected-a-conspiracy-nico-rosberg-explains-how-hamilton-f1-rivalry-went-awry-at-mercedes/10874271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-14T16:30:03.000Z"
+  },
+  {
+   "id": 3265043303,
+   "guid": "https://www.motorsport.com/f1/news/topps-celebrates-lewis-hamiltons-400th-f1-start-with-limited-now-card/10874547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
+   "summary": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend. The Ferrari driver became only the second driver in the championship's history to reach the milestone, after Aston Martin's Fernando Alonso, who got there in 2024.",
+   "link": "https://www.motorsport.com/f1/news/topps-celebrates-lewis-hamiltons-400th-f1-start-with-limited-now-card/10874547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-14T16:24:23.000Z"
+  },
   {
    "id": 1135214499,
    "guid": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Following his impressive win at Autodromo Hermanos Rodriguez, Max Verstappen said he would never put two number one drivers together if he were a team principal of Ferrari. He believes the battle between Lewis Hamilton and Charles Leclerc gifted him the win in Mexico.",
    "link": "https://www.motorsport.com/f1/news/max-verstappen-questions-ferraris-decision-to-let-lewis-hamilton-and-charles-leclerc-race-freely/10873971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-11T23:48:50.000Z"
-  },
-  {
-   "id": 1524063022,
-   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-loses-most-marketable-athlete-crown-as-charles-leclerc-moves-ahead/10873959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lewis Hamilton loses most marketable athlete crown as Charles Leclerc moves ahead",
-   "summary": "Lewis Hamilton has lost his place at the top of sport's marketability rankings, and has slipped behind his own Ferrari team-mate too. The seven-time world champion topped SportsPro's annual list of the 50 Most Marketable Athletes last year, but has dropped to 22nd in the 2026 edition, which was created with data from NorthStar Solutions Group.",
-   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-loses-most-marketable-athlete-crown-as-charles-leclerc-moves-ahead/10873959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T21:14:59.000Z"
-  },
-  {
-   "id": 4248632999,
-   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-keeps-f1-title-promise-with-italian-flag-hair-at-mercedes-factory/10873952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli keeps F1 title promise with Italian flag hair at Mercedes factory",
-   "summary": "Kimi Antonelli has kept his word. Mercedes' new world champion arrived at the team's Brackley factory this week with his hair dyed green, white and red, the colours of the Italian flag, as the team celebrated its successful season at its headquarters.",
-   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-keeps-f1-title-promise-with-italian-flag-hair-at-mercedes-factory/10873952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-11T20:55:48.000Z"
   }
  ]
 }
