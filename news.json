@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-15T16:49:55.739Z",
+ "updated_at": "2026-11-15T18:53:29.336Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3019038503,
+   "guid": "https://www.motorsport.com/f1/news/retaining-liam-lawson-isnt-enough-red-bull-must-stop-treating-him-like-a-failure/10874659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Retaining Liam Lawson isn't enough – Red Bull must stop treating him like a failure",
+   "summary": "Liam Lawson never failed at Red Bull Racing in 2025. It was Red Bull that failed Liam Lawson. Retaining his services for another year isn't just a logical decision, but perhaps the first sign that the organisation is changing the habits it developed under Helmut Marko. Yet there may be one more step it needs to take to avoid failing Lawson again.",
+   "link": "https://www.motorsport.com/f1/news/retaining-liam-lawson-isnt-enough-red-bull-must-stop-treating-him-like-a-failure/10874659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-15T18:30:03.000Z"
+  },
   {
    "id": 3547729059,
    "guid": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. The eight-time grand prix winner launched his GR63 Karting Academy on Thursday with it open to boys and girls aged eight to nine, based at the kart track in Silverstone.",
    "link": "https://www.motorsport.com/f1/news/george-russell-launches-karting-academy/10874105/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-12T12:18:46.000Z"
-  },
-  {
-   "id": 4209235059,
-   "guid": "https://www.motorsport.com/f1/news/ayrton-sennas-1994-williams-f1-car-heads-to-auction-with-6million-estimate/10874089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Ayrton Senna's 1994 Williams F1 car heads to auction with $6million estimate",
-   "summary": "A Williams FW16 driven by three-time Formula 1 champion Ayrton Senna in his final season in the series is going under the hammer in New York. RM Sotheby's is offering chassis FW16B-01 in Sotheby's 'The Now & Contemporary Evening Auction', with an estimate of $4million to $6million (£2.95million to £4.45million). It is the first time the car has been put up for public sale.",
-   "link": "https://www.motorsport.com/f1/news/ayrton-sennas-1994-williams-f1-car-heads-to-auction-with-6million-estimate/10874089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-12T11:43:09.000Z"
   }
  ]
 }
