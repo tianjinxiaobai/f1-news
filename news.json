@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-15T20:47:16.810Z",
+ "updated_at": "2026-11-15T22:47:32.261Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3500372352,
+   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Lewis Hamilton criticises ex-F1 drivers for \"talking smack\" about young stars",
+   "summary": "Seven-time Formula 1 champion Lewis Hamilton has criticised former drivers for \"talking smack\" about the young stars of the series, saying he has always been determined not to become \"that type of driver\". The Briton was asked at Interlagos whether Kimi Antonelli's title success had made him reflect on his own career.",
+   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-15T22:11:44.000Z"
+  },
   {
    "id": 937965401,
    "guid": "https://www.motorsport.com/f1/news/horner-explains-why-max-verstappens-abnormal-driving-style-destroys-his-teammates/10874636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Ferrari team principal Fred Vasseur has shut down speculation of ongoing friction between Lewis Hamilton and Charles Leclerc, confirming the two drivers resolved their issues during a private sit-down discussion ahead of the São Paulo Grand Prix.",
    "link": "https://www.motorsport.com/f1/news/fred-vasseur-lewis-hamilton-and-charles-leclerc-left-my-room-joking-together/10874079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-12T13:15:29.000Z"
-  },
-  {
-   "id": 1195946420,
-   "guid": "https://www.motorsport.com/f1/news/the-impressive-stats-underpinning-liam-lawsons-career-saving-f1-season/10874116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "The impressive stats underpinning Liam Lawson's career-saving F1 season",
-   "summary": "Racing Bulls has finally announced Liam Lawson and Arvid Lindblad will stay put for the 2027 season, ending a long-running saga as the team and the wider Red Bull company weighed up keeping Lawson on board for another year or promoting the next prospect in the pipeline, F2 frontrunner Nikola Tsolov.",
-   "link": "https://www.motorsport.com/f1/news/the-impressive-stats-underpinning-liam-lawsons-career-saving-f1-season/10874116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-12T12:42:31.000Z"
   }
  ]
 }
