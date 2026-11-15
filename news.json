@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-15T14:51:35.893Z",
+ "updated_at": "2026-11-15T16:49:55.739Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3547729059,
+   "guid": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Christian Horner blames Red Bull leadership structure for missing F1’s future stars",
+   "summary": "For years, Red Bull Racing's dual-leadership structure between team principal Christian Horner and motorsport advisor Dr. Helmut Marko was praised as a ruthless but highly effective system. But Horner is now pointing to that exact management style as the primary reason the Milton Keynes squad lost out on Lando Norris, George Russell, and Oscar Piastri.",
+   "link": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-15T16:01:16.000Z"
+  },
   {
    "id": 2732580976,
    "guid": "https://www.motorsport.com/f1/news/mercedes-pit-wall-admits-floundering-ferraris-relieved-all-title-pressure-in-sao-paulo/10874440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "A Williams FW16 driven by three-time Formula 1 champion Ayrton Senna in his final season in the series is going under the hammer in New York. RM Sotheby's is offering chassis FW16B-01 in Sotheby's 'The Now & Contemporary Evening Auction', with an estimate of $4million to $6million (£2.95million to £4.45million). It is the first time the car has been put up for public sale.",
    "link": "https://www.motorsport.com/f1/news/ayrton-sennas-1994-williams-f1-car-heads-to-auction-with-6million-estimate/10874089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-12T11:43:09.000Z"
-  },
-  {
-   "id": 2358637856,
-   "guid": "https://www.motorsport.com/f1/news/liam-lawson-retained-by-racing-bulls-for-2027-alongside-arvid-lindblad/10874061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Liam Lawson retained by Racing Bulls for 2027 alongside Arvid Lindblad",
-   "summary": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 season, partnering Arvid Lindblad for a second year. Lawson and Lindblad formed a formidable duo this year as they propelled Racing Bulls to fifth in the constructors' championship, which is set to be the Anglo-Italian team's best-ever result.",
-   "link": "https://www.motorsport.com/f1/news/liam-lawson-retained-by-racing-bulls-for-2027-alongside-arvid-lindblad/10874061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-12T11:05:10.000Z"
   }
  ]
 }
