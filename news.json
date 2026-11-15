@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-15T08:57:23.805Z",
+ "updated_at": "2026-11-15T10:52:10.132Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3911305693,
+   "guid": "https://www.motorsport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "How Istanbul is revamping its F1 circuit to clinch long-term future",
+   "summary": "Finding the right balance is often a challenge in modern Formula 1. That applies to the technical regulations: striking a balance between satisfying drivers and purists on the one hand, and delivering the spectacle F1 wants to offer younger fans on the other, with a constant stream of overtaking moves for, let’s say, the TikTok generation.",
+   "link": "https://www.motorsport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-15T09:39:16.000Z"
+  },
+  {
+   "id": 2801407812,
+   "guid": "https://www.motorsport.com/f1/news/mercedes-technical-director-details-the-brutal-psychological-toll-of-f1-underperformance/10874429/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Mercedes technical director details the psychological toll of F1 underperformance",
+   "summary": "In Formula 1, PR-trained executives routinely frame losing seasons as \"learning opportunities\" and promise that the team will quickly bounce back. But Mercedes technical director James Allison recently stripped away that polished narrative to reveal the psychological reality of a championship drought.",
+   "link": "https://www.motorsport.com/f1/news/mercedes-technical-director-details-the-brutal-psychological-toll-of-f1-underperformance/10874429/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-15T09:33:19.000Z"
+  },
   {
    "id": 1902845677,
    "guid": "https://www.motorsport.com/f1/news/james-allison-admits-flawed-update-18-made-the-mercedes-w17-a-handful/10874437/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to change that. Russell officially announced the launch of the GR63 Academy, a grassroots karting initiative created in partnership with Silverstone and the British Racing Drivers' Club.",
    "link": "https://www.motorsport.com/f1/news/george-russell-launches-fully-funded-gr63-karting-academy-at-silverstone/10874038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-12T10:35:02.000Z"
-  },
-  {
-   "id": 55220090,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-ferrari-clash-i-would-never-sign-two-number-one-drivers/10873588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen on Ferrari clashes: \"I would never sign two number-one drivers\"",
-   "summary": "Although Ferrari Formula 1 team principal Frederic Vasseur spoke to Lewis Hamilton and Charles Leclerc on Thursday evening in Sao Paulo to clear the air, an extraordinary amount had already been said and written about the Ferrari clash in Mexico.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-ferrari-clash-i-would-never-sign-two-number-one-drivers/10873588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-12T09:05:37.000Z"
-  },
-  {
-   "id": 1098232296,
-   "guid": "https://www.motorsport.com/f1/news/final-mercedes-benz-slr-mclaren-stirling-moss-heads-to-auction-for-over-6million/10873978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Final Mercedes-Benz SLR McLaren Stirling Moss heads to auction for over $6million",
-   "summary": "The final Mercedes-Benz SLR McLaren Stirling Moss to leave the factory is back on the market, with RM Sotheby's valuing the roofless speedster at more than $6million (£4.5million). The car, chassis number 75, is in the auction house's online Sealed December sale, with bidding open from 25 November until 2 December.",
-   "link": "https://www.motorsport.com/f1/news/final-mercedes-benz-slr-mclaren-stirling-moss-heads-to-auction-for-over-6million/10873978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-12T00:31:56.000Z"
   }
  ]
 }
