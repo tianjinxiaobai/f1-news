@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-15T13:00:16.736Z",
+ "updated_at": "2026-11-15T14:51:35.893Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2732580976,
+   "guid": "https://www.motorsport.com/f1/news/mercedes-pit-wall-admits-floundering-ferraris-relieved-all-title-pressure-in-sao-paulo/10874440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Mercedes pitwall admits floundering Ferraris relieved title pressure in São Paulo",
+   "summary": "When the rain falls at Interlagos, chaos usually follows. For Mercedes, the 2026 São Paulo Grand Prix was a turbulent affair. The Brackley-based squad arrived in Brazil needing to execute a clean race to officially wrap up the constructors' championship, but quickly found themselves battling a highly unpredictable wet-dry track.",
+   "link": "https://www.motorsport.com/f1/news/mercedes-pit-wall-admits-floundering-ferraris-relieved-all-title-pressure-in-sao-paulo/10874440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-15T13:00:02.000Z"
+  },
   {
    "id": 3911305693,
    "guid": "https://www.motorsport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 season, partnering Arvid Lindblad for a second year. Lawson and Lindblad formed a formidable duo this year as they propelled Racing Bulls to fifth in the constructors' championship, which is set to be the Anglo-Italian team's best-ever result.",
    "link": "https://www.motorsport.com/f1/news/liam-lawson-retained-by-racing-bulls-for-2027-alongside-arvid-lindblad/10874061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-12T11:05:10.000Z"
-  },
-  {
-   "id": 1796061244,
-   "guid": "https://www.motorsport.com/f1/news/george-russell-launches-fully-funded-gr63-karting-academy-at-silverstone/10874038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "George Russell launches fully-funded GR63 Karting Academy at Silverstone",
-   "summary": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to change that. Russell officially announced the launch of the GR63 Academy, a grassroots karting initiative created in partnership with Silverstone and the British Racing Drivers' Club.",
-   "link": "https://www.motorsport.com/f1/news/george-russell-launches-fully-funded-gr63-karting-academy-at-silverstone/10874038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-12T10:35:02.000Z"
   }
  ]
 }
