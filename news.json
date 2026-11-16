@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-16T15:14:26.860Z",
+ "updated_at": "2026-11-16T17:21:37.703Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1148113154,
+   "guid": "https://www.motorsport.com/f1/news/toto-wolff-says-kimi-antonelli-is-more-loved-in-italy-than-michael-schumacher-was-at-ferrari/10874809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Toto Wolff predicts Kimi Antonelli will become more popular in Italy than Michael Schumacher",
+   "summary": "Mercedes team principal Toto Wolff is no stranger to making bold statements, but his latest assessment of Kimi Antonelli's popularity might actually shock the dedicated Ferrari fanbase. Following Antonelli's historic 2026 drivers' championship victory in Mexico City, Wolff sat down for an exclusive interview with the German publication BILD.",
+   "link": "https://www.motorsport.com/f1/news/toto-wolff-says-kimi-antonelli-is-more-loved-in-italy-than-michael-schumacher-was-at-ferrari/10874809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-16T16:17:25.000Z"
+  },
+  {
+   "id": 3980521502,
+   "guid": "https://www.motorsport.com/f1/news/zak-brown-recalls-mclarens-very-toxic-environment-after-joining-team-in-2016/10874891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Zak Brown recalls McLaren's \"very toxic environment\" after joining team in 2016",
+   "summary": "McLaren Racing CEO Zak Brown has described the team he joined in 2016 as \"a very toxic environment\", blaming a revolving door of leaders for years of poor results on and off the track.",
+   "link": "https://www.motorsport.com/f1/news/zak-brown-recalls-mclarens-very-toxic-environment-after-joining-team-in-2016/10874891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-16T15:54:25.000Z"
+  },
   {
    "id": 3828232066,
    "guid": "https://www.motorsport.com/f1/news/lewis-hamilon-reportedly-house-hunting-in-la-amid-kim-kardashian-relationship/10874877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian with the time he required for introspection, allowing him to view his final years in the championship from a new angle. Those final years were a struggle.",
    "link": "https://www.motorsport.com/f1/news/i-was-getting-beat-up-how-daniel-ricciardo-burned-out-on-humiliating-f1-return/10874248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-13T17:06:56.000Z"
-  },
-  {
-   "id": 1659147323,
-   "guid": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Las Vegas GP reveals neon sign-inspired trophy design",
-   "summary": "The Las Vegas Grand Prix has unveiled a new trophy design for next weekend’s Formula 1 round, inspired by the city and its neon lights. The 3.6kg, 56cm-tall winners’ trophy took six months to develop and build and emulates the neon signs synonymous with the Las Vegas strip that the circuit is based around.",
-   "link": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-13T16:09:45.000Z"
-  },
-  {
-   "id": 2385856608,
-   "guid": "https://www.motorsport.com/f1/news/mercedes-could-only-gamble-on-kimi-antonelli-because-of-george-russell-toto-wolff-told-staff/10874338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Mercedes could only gamble on Kimi Antonelli because of George Russell, Toto Wolff told staff",
-   "summary": "Mercedes would not have been able to take the risk of promoting Kimi Antonelli without already having George Russell, according to a message Toto Wolff sent to the entire team. Antonelli joined Mercedes in 2025 after seven-time Formula 1 champion Lewis Hamilton moved to Ferrari.",
-   "link": "https://www.motorsport.com/f1/news/mercedes-could-only-gamble-on-kimi-antonelli-because-of-george-russell-toto-wolff-told-staff/10874338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-13T15:30:07.000Z"
   }
  ]
 }
