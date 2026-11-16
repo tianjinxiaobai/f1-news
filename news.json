@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-15T22:47:32.261Z",
+ "updated_at": "2026-11-16T01:31:59.307Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1598052760,
+   "guid": "https://www.motorsport.com/f1/news/horner-admits-red-bull-broken-pierre-gasly-and-promoted-drivers-too-soon/10874627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Christian Horner admits Red Bull prospects were thrown in against Max Verstappen too soon",
+   "summary": "The second seat at Red Bull Racing has long been viewed as one of the most high-pressure environments in Formula 1. While the Milton Keynes operation frequently cycled through highly rated prospects trying to find a match for Max Verstappen, former team principal Christian Horner is now openly questioning the logic of that ruthless driver pipeline.",
+   "link": "https://www.motorsport.com/f1/news/horner-admits-red-bull-broken-pierre-gasly-and-promoted-drivers-too-soon/10874627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-15T23:30:04.000Z"
+  },
+  {
+   "id": 2036562775,
+   "guid": "https://www.motorsport.com/f1/news/topps-reveals-gem-mint-10-lando-norris-card-with-coca-cola-suit-patch/10874731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Topps reveals Gem Mint 10 Lando Norris card with Coca-Cola suit patch",
+   "summary": "Topps has shared one of its rarest Lando Norris cards: a signed 2024 Dynasty Formula 1 card with two pieces of race suit, one of them cut from the Coca-Cola logo on the sleeve of his McLaren race suit.",
+   "link": "https://www.motorsport.com/f1/news/topps-reveals-gem-mint-10-lando-norris-card-with-coca-cola-suit-patch/10874731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-15T22:47:39.000Z"
+  },
   {
    "id": 3500372352,
    "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work. The Briton, who races for Campos Racing as part of Red Bull's junior programme, clinched the 2026 F1 Academy title in Austin, with one round still to run in the all-female racing series.",
    "link": "https://www.motorsport.com/f1/news/f1-academy-champion-alisha-palmowski-reveals-key-lesson-from-max-verstappen/10874174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-12T16:35:22.000Z"
-  },
-  {
-   "id": 2047758233,
-   "guid": "https://www.motorsport.com/f1/news/tsolov-named-red-bull-racing-bulls-reserve-driver-after-missing-out-on-2027-f1-race-seat/10874147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Tsolov named Red Bull, Racing Bulls reserve driver after missing out on 2027 F1 race seat",
-   "summary": "Nikola Tsolov has been named as reserve driver for both Red Bull and Racing Bulls for the 2027 Formula 1 season having missed out on a full-time drive.",
-   "link": "https://www.motorsport.com/f1/news/tsolov-named-red-bull-racing-bulls-reserve-driver-after-missing-out-on-2027-f1-race-seat/10874147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-12T15:19:49.000Z"
-  },
-  {
-   "id": 1990488853,
-   "guid": "https://www.motorsport.com/f1/news/fred-vasseur-lewis-hamilton-and-charles-leclerc-left-my-room-joking-together/10874079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Fred Vasseur: Lewis Hamilton and Charles Leclerc “left my room joking together”",
-   "summary": "Ferrari team principal Fred Vasseur has shut down speculation of ongoing friction between Lewis Hamilton and Charles Leclerc, confirming the two drivers resolved their issues during a private sit-down discussion ahead of the São Paulo Grand Prix.",
-   "link": "https://www.motorsport.com/f1/news/fred-vasseur-lewis-hamilton-and-charles-leclerc-left-my-room-joking-together/10874079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-12T13:15:29.000Z"
   }
  ]
 }
