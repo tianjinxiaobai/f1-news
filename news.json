@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-17T14:59:46.363Z",
+ "updated_at": "2026-11-17T17:12:31.623Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2260849469,
+   "guid": "https://www.motorsport.com/f1/news/alan-permane-liam-lawson-has-been-a-revelation-as-he-earned-2027-racing-bulls-f1-deal/10875104/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Liam Lawson has been a \"revelation\" as he earned 2027 Racing Bulls F1 deal - Alan Permane",
+   "summary": "Racing Bulls Formula 1 chief Alan Permane says Liam Lawson's improved 2026 form has been a \"revelation\", and addressed suggestions of a difference in vision within Red Bull.",
+   "link": "https://www.motorsport.com/f1/news/alan-permane-liam-lawson-has-been-a-revelation-as-he-earned-2027-racing-bulls-f1-deal/10875104/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-17T17:02:37.000Z"
+  },
   {
    "id": 1395393037,
    "guid": "https://www.motorsport.com/f1/news/toto-wolff-is-not-afraid-of-losing-kimi-antonelli-to-ferrari/10875044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix. Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both collections are available now through adidas.com, and the pieces listed on the brand's US store range in price from $30 to $200. The most expensive items are the outerwear.",
    "link": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-14T11:32:50.000Z"
-  },
-  {
-   "id": 4196144328,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-signs-ambassador-deal-with-dutch-technical-group-vdk/10874486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen signs ambassador deal with Dutch technical group VDK",
-   "summary": "Four-time Formula 1 champion Max Verstappen has become the new ambassador of the VDK Group, a Dutch group of installation and technical companies that is expanding across Europe. The Dutchman will play a prominent role in the company's international branding over the coming years and will feature in its communications and marketing campaigns.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-signs-ambassador-deal-with-dutch-technical-group-vdk/10874486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-14T11:03:24.000Z"
   }
  ]
 }
