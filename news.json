@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-17T11:10:47.305Z",
+ "updated_at": "2026-11-17T13:18:08.361Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1395393037,
+   "guid": "https://www.motorsport.com/f1/news/toto-wolff-is-not-afraid-of-losing-kimi-antonelli-to-ferrari/10875044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Toto Wolff is not afraid of losing Kimi Antonelli to Ferrari",
+   "summary": "Mercedes team principal Toto Wolff is “0.0%” afraid that Kimi Antonelli could switch to Ferrari in Formula 1. Many Italians would love to see the new world champion in a red cockpit one day, but according to Wolff, that will not happen in the foreseeable future.",
+   "link": "https://www.motorsport.com/f1/news/toto-wolff-is-not-afraid-of-losing-kimi-antonelli-to-ferrari/10875044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-17T11:45:10.000Z"
+  },
   {
    "id": 4199424490,
    "guid": "https://www.motorsport.com/dakar/news/fernando-alonso-to-return-to-dakar-rally-with-aston-martin-in-2027/10874907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Four-time Formula 1 champion Max Verstappen has become the new ambassador of the VDK Group, a Dutch group of installation and technical companies that is expanding across Europe. The Dutchman will play a prominent role in the company's international branding over the coming years and will feature in its communications and marketing campaigns.",
    "link": "https://www.motorsport.com/f1/news/max-verstappen-signs-ambassador-deal-with-dutch-technical-group-vdk/10874486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-14T11:03:24.000Z"
-  },
-  {
-   "id": 2154620403,
-   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli meets Italian president Sergio Mattarella",
-   "summary": "\"To President Mattarella, with great admiration,\" signed Kimi Antonelli. The new Formula 1 world champion is in the middle of a whirlwind of meetings, events and celebrations for the world title he won two weeks ago at the Mexico Grand Prix, with which he ended a title drought for an Italian driver to win the world championship dating back to 1953.",
-   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-14T10:37:42.000Z"
   }
  ]
 }
