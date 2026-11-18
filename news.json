@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-18T09:13:22.655Z",
+ "updated_at": "2026-11-18T11:12:29.128Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2105486137,
+   "guid": "https://www.motorsport.com/f1/news/the-kimi-antonelli-you-dont-know-told-by-those-closest-to-him/10875085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "The Kimi Antonelli you don't know, told by those closest to him",
+   "summary": "There is one thing that physiotherapist Sergi Avila took a little while to understand. When Kimi Antonelli finally found himself with a free weekend, after weeks being spent between circuits, airports and training, the most logical choice would have been to stay at home: sleep a few extra hours, meet friends and switch off.",
+   "link": "https://www.motorsport.com/f1/news/the-kimi-antonelli-you-dont-know-told-by-those-closest-to-him/10875085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-18T09:14:20.000Z"
+  },
   {
    "id": 1753731642,
    "guid": "https://www.motorsport.com/f1/news/oscar-piastri-set-for-grid-penalty-at-f1-las-vegas-gp/10875180/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Mercedes stormed out of the gates in 2026, quickly establishing a dominant lead that ultimately secured both the drivers' and constructors' championships. But as the season nears its conclusion, the performance gap between the W17 and the rest of the grid has visibly shrunk.",
    "link": "https://www.motorsport.com/f1/news/james-allison-admits-flawed-update-18-made-the-mercedes-w17-a-handful/10874437/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-14T23:12:53.000Z"
-  },
-  {
-   "id": 738415329,
-   "guid": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
-   "summary": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit. The Australian driver has endured a difficult campaign after fighting for the title last year. He has two podiums in Japan and Miami, and sits seventh in the drivers' standings with three races to go.",
-   "link": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-14T17:39:40.000Z"
   }
  ]
 }
