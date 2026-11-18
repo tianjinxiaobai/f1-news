@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-18T17:15:22.230Z",
+ "updated_at": "2026-11-18T19:04:04.279Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3697270738,
+   "guid": "https://www.motorsport.com/f1/news/f1-to-showcase-driver-health-data-as-it-partners-with-whoop/10875341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 to showcase driver health data as it partners with WHOOP",
+   "summary": "Formula 1 has signed a deal with wearables company WHOOP which will see a number of drivers wear the company's health trackers and showcase their data on the TV broadcasts in 2027. WHOOP will become an Official Partner of F1 in a deal that will see an increasing number of drivers start wearing tech bracelets provided by the company while inside the car.",
+   "link": "https://www.motorsport.com/f1/news/f1-to-showcase-driver-health-data-as-it-partners-with-whoop/10875341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-18T17:37:23.000Z"
+  },
   {
    "id": 1329045903,
    "guid": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-las-vegas-gp/10875316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "For years, Red Bull Racing's dual-leadership structure between team principal Christian Horner and motorsport advisor Dr. Helmut Marko was praised as a ruthless but highly effective system. But Horner is now pointing to that exact management style as the primary reason the Milton Keynes squad lost out on Lando Norris, George Russell, and Oscar Piastri.",
    "link": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-15T16:01:16.000Z"
-  },
-  {
-   "id": 2732580976,
-   "guid": "https://www.motorsport.com/f1/news/mercedes-pit-wall-admits-floundering-ferraris-relieved-all-title-pressure-in-sao-paulo/10874440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Mercedes pitwall admits floundering Ferraris relieved title pressure in São Paulo",
-   "summary": "When the rain falls at Interlagos, chaos usually follows. For Mercedes, the 2026 São Paulo Grand Prix was a turbulent affair. The Brackley-based squad arrived in Brazil needing to execute a clean race to officially wrap up the constructors' championship, but quickly found themselves battling a highly unpredictable wet-dry track.",
-   "link": "https://www.motorsport.com/f1/news/mercedes-pit-wall-admits-floundering-ferraris-relieved-all-title-pressure-in-sao-paulo/10874440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-15T13:00:02.000Z"
   }
  ]
 }
