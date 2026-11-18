@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-18T19:04:04.279Z",
+ "updated_at": "2026-11-18T21:01:32.127Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1297736495,
+   "guid": "https://www.motorsport.com/f1/news/what-valtteri-bottas-contract-renewal-says-about-cadillacs-f1-future/10875333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "What the Valtteri Bottas contract renewal says about Cadillac's F1 future",
+   "summary": "The longest-running contract saga of the Formula 1 season is now at an end. Not that it has been blockbuster material, since it revolves around a team struggling to lift itself from the back of the grid.",
+   "link": "https://www.motorsport.com/f1/news/what-valtteri-bottas-contract-renewal-says-about-cadillacs-f1-future/10875333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-18T20:01:25.000Z"
+  },
+  {
+   "id": 3448641414,
+   "guid": "https://www.motorsport.com/f1/news/valtteri-bottas-retains-cadillac-f1-seat-for-2027-ahead-of-colton-herta/10875159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Valtteri Bottas beats Colton Herta to 2027 Cadillac F1 seat",
+   "summary": "Incumbent Valtteri Bottas will remain with the Cadillac Formula 1 team through 2027 after the US-owned team decided against fast-tracking American test driver Colton Herta to a race seat. Bottas will stay on board with Cadillac alongside Sergio Perez as initially planned, with both race-winning veterans having signed a multi-year deal when they initially joined F1's 11th team.",
+   "link": "https://www.motorsport.com/f1/news/valtteri-bottas-retains-cadillac-f1-seat-for-2027-ahead-of-colton-herta/10875159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-18T20:00:46.000Z"
+  },
   {
    "id": 3697270738,
    "guid": "https://www.motorsport.com/f1/news/f1-to-showcase-driver-health-data-as-it-partners-with-whoop/10875341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "The narrative surrounding Red Bull Racing over the last half-decade has consistently featured a rotating cast of drivers struggling - and often failing - to survive alongside Max Verstappen. Former team principal Christian Horner recently provided a technical explanation for the phenomenon.",
    "link": "https://www.motorsport.com/f1/news/horner-explains-why-max-verstappens-abnormal-driving-style-destroys-his-teammates/10874636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-15T19:00:02.000Z"
-  },
-  {
-   "id": 3019038503,
-   "guid": "https://www.motorsport.com/f1/news/retaining-liam-lawson-isnt-enough-red-bull-must-stop-treating-him-like-a-failure/10874659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Retaining Liam Lawson isn't enough – Red Bull must stop treating him like a failure",
-   "summary": "Liam Lawson never failed at Red Bull Racing in 2025. It was Red Bull that failed Liam Lawson. Retaining his services for another year isn't just a logical decision, but perhaps the first sign that the organisation is changing the habits it developed under Helmut Marko. Yet there may be one more step it needs to take to avoid failing Lawson again.",
-   "link": "https://www.motorsport.com/f1/news/retaining-liam-lawson-isnt-enough-red-bull-must-stop-treating-him-like-a-failure/10874659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-15T18:30:03.000Z"
-  },
-  {
-   "id": 3547729059,
-   "guid": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Christian Horner blames Red Bull leadership structure for missing F1’s future stars",
-   "summary": "For years, Red Bull Racing's dual-leadership structure between team principal Christian Horner and motorsport advisor Dr. Helmut Marko was praised as a ruthless but highly effective system. But Horner is now pointing to that exact management style as the primary reason the Milton Keynes squad lost out on Lando Norris, George Russell, and Oscar Piastri.",
-   "link": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-15T16:01:16.000Z"
   }
  ]
 }
