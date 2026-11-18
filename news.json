@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-18T15:05:44.445Z",
+ "updated_at": "2026-11-18T17:15:22.230Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1329045903,
+   "guid": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-las-vegas-gp/10875316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Five things to watch out for at the F1 Las Vegas GP",
+   "summary": "Formula 1 kickstarts its final triple-header of the 2026 campaign with this weekend’s Las Vegas Grand Prix. The American venue serves as race 21 of the 23-round calendar with grands prix in Qatar and Abu Dhabi to follow Vegas and round out the year.",
+   "link": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-las-vegas-gp/10875316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-18T16:30:40.000Z"
+  },
   {
    "id": 4109280776,
    "guid": "https://www.motorsport.com/f1/news/future-imperfect-whats-behind-the-abortive-2030-f1-rules-announcement/10875283/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "When the rain falls at Interlagos, chaos usually follows. For Mercedes, the 2026 São Paulo Grand Prix was a turbulent affair. The Brackley-based squad arrived in Brazil needing to execute a clean race to officially wrap up the constructors' championship, but quickly found themselves battling a highly unpredictable wet-dry track.",
    "link": "https://www.motorsport.com/f1/news/mercedes-pit-wall-admits-floundering-ferraris-relieved-all-title-pressure-in-sao-paulo/10874440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-15T13:00:02.000Z"
-  },
-  {
-   "id": 3911305693,
-   "guid": "https://www.motorsport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "How Istanbul is revamping its F1 circuit to clinch long-term future",
-   "summary": "Finding the right balance is often a challenge in modern Formula 1. That applies to the technical regulations: striking a balance between satisfying drivers and purists on the one hand, and delivering the spectacle F1 wants to offer younger fans on the other, with a constant stream of overtaking moves for, let’s say, the TikTok generation.",
-   "link": "https://www.motorsport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-15T09:39:16.000Z"
   }
  ]
 }
