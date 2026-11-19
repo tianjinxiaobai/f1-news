@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-19T21:00:02.988Z",
+ "updated_at": "2026-11-19T22:56:31.147Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1807404192,
+   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-v8-return-hits-out-at-engines-dying-on-straights/10875488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Lewis Hamilton backs V8 return, hits out at 2026 engines “dying” on straights",
+   "summary": "Lewis Hamilton has raced through every season of Formula 1's V6 turbo-hybrid era, and he is not shy about what the latest rules are getting wrong. Speaking on Las Vegas Grand Prix media day, the seven-time world champion welcomed the FIA's push to bring back V8 engines - while taking a blunt jab at how the current 2026 power units fade down the straights.",
+   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-v8-return-hits-out-at-engines-dying-on-straights/10875488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-19T22:50:25.000Z"
+  },
   {
    "id": 2920512048,
    "guid": "https://www.motorsport.com/f1/news/oscar-piastri-addresses-management-plans-after-mark-webber-split/10875654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Formula 1 kickstarts its final triple-header of the 2026 campaign with this weekend’s Las Vegas Grand Prix. The American venue serves as race 21 of the 23-round calendar with grands prix in Qatar and Abu Dhabi to follow Vegas and round out the year.",
    "link": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-las-vegas-gp/10875316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-18T16:30:40.000Z"
-  },
-  {
-   "id": 4109280776,
-   "guid": "https://www.motorsport.com/f1/news/future-imperfect-whats-behind-the-abortive-2030-f1-rules-announcement/10875283/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Future imperfect: What's behind the abortive 2030 F1 rules announcement?",
-   "summary": "Famously, when the papal conclave gathers to elect a new pope, a successful vote is communicated to the huddled masses via smoke from the Sistine Chapel chimney as the chemically impregnated ballot papers are burned: white smoke signifies a decision, black means yet another round of voting.",
-   "link": "https://www.motorsport.com/f1/news/future-imperfect-whats-behind-the-abortive-2030-f1-rules-announcement/10875283/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-18T14:04:19.000Z"
   }
  ]
 }
