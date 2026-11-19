@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-19T09:14:42.157Z",
+ "updated_at": "2026-11-19T11:08:37.863Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1443494411,
+   "guid": "https://www.motorsport.com/f1/news/charles-leclerc-on-journalist-ban-i-was-surprised-by-the-choice-of-words/10875509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Charles Leclerc on journalist ban: “I was surprised by the choice of words”",
+   "summary": "Charles Leclerc had no hand in getting a veteran Formula 1 reporter barred from the paddock, and he isn't interested in policing the press - even when the headlines get a little personal.",
+   "link": "https://www.motorsport.com/f1/news/charles-leclerc-on-journalist-ban-i-was-surprised-by-the-choice-of-words/10875509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-19T10:41:53.000Z"
+  },
+  {
+   "id": 941338221,
+   "guid": "https://www.motorsport.com/f1/news/rafael-camara-could-finish-the-2026-season-in-both-f1-and-f2/10875556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Rafael Camara torn between his F2 title bid and more F1 races with Haas",
+   "summary": "Rafael Camara is torn between completing his title-contending Formula 2 campaign and seeing out the 2026 season at Haas in Formula 1. The Ferrari protege is the reigning F3 champion and leads the F2 standings as a rookie with Invicta Racing, courtesy of a starring campaign in which he has taken five pole positions and seven feature race podiums including three victories.",
+   "link": "https://www.motorsport.com/f1/news/rafael-camara-could-finish-the-2026-season-in-both-f1-and-f2/10875556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-19T09:53:44.000Z"
+  },
   {
    "id": 1874933092,
    "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-you-cant-be-the-only-one-pushing-for-change-in-f1/10875497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Mercedes officially completed its return to the top of Formula 1 at the chaotic 2026 São Paulo Grand Prix, successfully locking down the constructors' world championship one week after Kimi Antonelli secured the drivers' title. But for team principal and CEO Toto Wolff, the historic milestone was not met with an explosive nightclub celebration in Brazil.",
    "link": "https://www.motorsport.com/f1/news/toto-wolff-celebrated-mercedes-title-with-a-vodka-shot-on-the-plane-with-hamilton-and-russell/10874816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-18T00:00:22.000Z"
-  },
-  {
-   "id": 4180512800,
-   "guid": "https://www.motorsport.com/f1/news/toto-wolff-explains-why-george-russell-is-being-denied-mercedes-new-turbo-in-las-vegas/10875150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Toto Wolff explains why George Russell won't get Mercedes’ new turbo in Las Vegas",
-   "summary": "Having officially wrapped up both the 2026 constructors' and drivers' world championships in Brazil, Mercedes arrives at the Las Vegas Grand Prix with a dual mandate: test development parts for 2027 and secure the runner-up spot in the drivers' standings for George Russell.",
-   "link": "https://www.motorsport.com/f1/news/toto-wolff-explains-why-george-russell-is-being-denied-mercedes-new-turbo-in-las-vegas/10875150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-17T23:30:27.000Z"
-  },
-  {
-   "id": 2260849469,
-   "guid": "https://www.motorsport.com/f1/news/alan-permane-liam-lawson-has-been-a-revelation-as-he-earned-2027-racing-bulls-f1-deal/10875104/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "“He’s beaten Alpine on his own” - Racing Bulls on why it kept Liam Lawson",
-   "summary": "Racing Bulls Formula 1 chief Alan Permane says Liam Lawson's improved 2026 form has been a \"revelation\", and addressed suggestions of a difference in vision within Red Bull.",
-   "link": "https://www.motorsport.com/f1/news/alan-permane-liam-lawson-has-been-a-revelation-as-he-earned-2027-racing-bulls-f1-deal/10875104/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-17T17:02:37.000Z"
   }
  ]
 }
