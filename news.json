@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-20T07:27:08.005Z",
+ "updated_at": "2026-11-20T09:12:12.277Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 457449455,
+   "guid": "https://www.motorsport.com/f1/news/pirelli-introduces-stint-limit-for-f1-qatar-gp-but-increases-total-from-2025/10875950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
+   "summary": "Formula 1 teams will again have to follow a prescribed stint limit for each car at the Qatar Grand Prix to protect the Pirelli tyres around the high-degradation track. Drivers must complete no more than 27 laps per stint at Lusail International Circuit, meaning teams will likely opt for a two-stop strategy in the 57-lap race.",
+   "link": "https://www.motorsport.com/f1/news/pirelli-introduces-stint-limit-for-f1-qatar-gp-but-increases-total-from-2025/10875950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-20T08:21:28.000Z"
+  },
+  {
+   "id": 3042184765,
+   "guid": "https://www.motorsport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-max-verstappens-complaints/10875939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "\"Same as Brazil\" – Red Bull \"trying to understand\" the root cause of Max Verstappen's complaints",
+   "summary": "After Thursday's practice sessions in Las Vegas, Red Bull – like all Formula 1 teams – has been left with very few answers. Isack Hadjar eventually finished fourth on the timesheets, but that means very little given that no more rain is forecast for the remainder of the weekend.",
+   "link": "https://www.motorsport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-max-verstappens-complaints/10875939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-20T07:50:43.000Z"
+  },
   {
    "id": 1668117502,
    "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-plans-gta-vi-session-after-vegas-fp2-im-like-a-big-kid/10875895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Red Bull fans in Las Vegas this weekend can ride home on a piece of Max Verstappen's 2025 season, with the team's official e-bike going on sale at a pop-up shop on the Strip. Californian electric bike brand SUPER73 is selling its limited-edition Oracle Red Bull Racing models at the Podium Collective, a free pop-up hosted by Julien Solomita's Bad Year Racing at the Bellagio.",
    "link": "https://www.motorsport.com/f1/news/red-bull-f1-e-bike-in-max-verstappens-suzuka-livery-hits-the-las-vegas-strip/10875470/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-19T06:19:26.000Z"
-  },
-  {
-   "id": 2968862997,
-   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-yo-yo-racing-to-return-at-f1-las-vegas-gp/10875460/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli: Yo-yo racing to return at F1 Las Vegas GP",
-   "summary": "Formula 1 world champion Kimi Antonelli has predicted the return of “yo-yo” racing at this weekend’s Las Vegas Grand Prix thanks to its low-downforce characteristics. The new-for-2026 regulations, which feature a more electrical power unit, have caused a radically different style of racing at certain circuits with it being labelled as ‘yo-yo’.",
-   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-yo-yo-racing-to-return-at-f1-las-vegas-gp/10875460/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-19T06:04:49.000Z"
-  },
-  {
-   "id": 1974196265,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-if-they-let-me-write-the-rules-f1-wouldnt-be-allowed-in-certain-places/10875445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen: \"If they let me write the rules, F1 wouldn’t be allowed in certain places\"",
-   "summary": "Although the FIA's announcement was only online for five minutes, there is no doubt in the paddock that V8 engines will return to Formula 1. An agreement in principle has been reached on a 2.1-litre turbocharged V8 with a smaller electrical component, which is set to be introduced in 2030 rather than 2031.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-if-they-let-me-write-the-rules-f1-wouldnt-be-allowed-in-certain-places/10875445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-19T05:49:22.000Z"
   }
  ]
 }
