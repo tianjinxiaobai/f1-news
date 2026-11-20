@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-20T01:16:15.512Z",
+ "updated_at": "2026-11-20T02:56:12.668Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 402672821,
+   "guid": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-rain-washes-out-fp1/10875778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 Las Vegas GP: Rain ruins FP1 running",
+   "summary": "\"If we're on a track like Vegas and it rains, honestly, I think we're in trouble,\" Racing Bulls driver Liam Lawson predicted after sampling this year's rain tyres in Brazil.",
+   "link": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-rain-washes-out-fp1/10875778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-20T01:46:06.000Z"
+  },
+  {
+   "id": 123736223,
+   "guid": "https://www.motorsport.com/f1/news/lando-norris-confident-f1-would-not-put-us-at-risk-in-the-middle-east/10875771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Lando Norris confident F1 would not \"put us at risk\" in the Middle East",
+   "summary": "2025 Formula 1 champion Lando Norris says he has no concerns about the final two races of the season in the Middle East, insisting the championship would not put its drivers and teams at risk. After this weekend's race in Las Vegas, the championship heads to Qatar from 27-29 November and then Abu Dhabi from 4-6 December.",
+   "link": "https://www.motorsport.com/f1/news/lando-norris-confident-f1-would-not-put-us-at-risk-in-the-middle-east/10875771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-20T01:19:15.000Z"
+  },
   {
    "id": 1540054963,
    "guid": "https://www.motorsport.com/f1/news/nike-joins-f1-as-apparel-partner/10875754/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "The longest-running contract saga of the Formula 1 season is now at an end. Not that it has been blockbuster material, since it revolves around a team struggling to lift itself from the back of the grid.",
    "link": "https://www.motorsport.com/f1/news/what-valtteri-bottas-contract-renewal-says-about-cadillacs-f1-future/10875333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-18T20:01:25.000Z"
-  },
-  {
-   "id": 3448641414,
-   "guid": "https://www.motorsport.com/f1/news/valtteri-bottas-retains-cadillac-f1-seat-for-2027-ahead-of-colton-herta/10875159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Valtteri Bottas beats Colton Herta to 2027 Cadillac F1 seat",
-   "summary": "Incumbent Valtteri Bottas will remain with the Cadillac Formula 1 team through 2027 after the US-owned team decided against fast-tracking American test driver Colton Herta to a race seat. Bottas will stay on board with Cadillac alongside Sergio Perez as initially planned, with both race-winning veterans having signed a multi-year deal when they initially joined F1's 11th team.",
-   "link": "https://www.motorsport.com/f1/news/valtteri-bottas-retains-cadillac-f1-seat-for-2027-ahead-of-colton-herta/10875159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-18T20:00:46.000Z"
-  },
-  {
-   "id": 3697270738,
-   "guid": "https://www.motorsport.com/f1/news/f1-to-showcase-driver-health-data-as-it-partners-with-whoop/10875341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "F1 to showcase driver health data as it partners with WHOOP",
-   "summary": "Formula 1 has signed a deal with wearables company WHOOP which will see a number of drivers wear the company's health trackers and showcase their data on the TV broadcasts in 2027. WHOOP will become an Official Partner of F1 in a deal that will see an increasing number of drivers start wearing tech bracelets provided by the company while inside the car.",
-   "link": "https://www.motorsport.com/f1/news/f1-to-showcase-driver-health-data-as-it-partners-with-whoop/10875341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-18T17:37:23.000Z"
   }
  ]
 }
