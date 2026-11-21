@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-21T01:20:29.408Z",
+ "updated_at": "2026-11-21T02:55:21.916Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 2599681921,
+   "guid": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-george-russell-tops-final-practice-after-max-verstappen-collision/10876181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 Las Vegas GP: George Russell tops final practice after Max Verstappen collision",
+   "summary": "George Russell collided with Max Verstappen in a tense third practice session at the Las Vegas Grand Prix as the Mercedes Formula 1 driver topped the timesheets. After both of Thursday's practice sessions had been derailed by rain, the Las Vegas Strip was buzzing with activity at dusk on Friday.",
+   "link": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-george-russell-tops-final-practice-after-max-verstappen-collision/10876181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-21T01:44:36.000Z"
+  },
   {
    "id": 708287334,
    "guid": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Lewis Hamilton says he had hoped others in Formula 1 would follow his lead in speaking out on issues around the world, but admitted that \"so far that's not the case\". The seven-time world champion has used his platform for causes including diversity in motorsport and, more recently, the humanitarian crisis in Gaza.",
    "link": "https://www.motorsport.com/f1/news/lewis-hamilton-you-cant-be-the-only-one-pushing-for-change-in-f1/10875497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-19T08:05:02.000Z"
-  },
-  {
-   "id": 1050185756,
-   "guid": "https://www.motorsport.com/f1/news/honda-reveals-key-f1-power-unit-change-for-2027/10875520/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Honda reveals key F1 power unit change for 2027",
-   "summary": "Immediately after the Sao Paulo Grand Prix, Honda was still unable to fully explain Lance Stroll's DNF. The Canadian was forced to retire for the 14th time, equalling the all-time record for the most retirements in a single Formula 1 season.",
-   "link": "https://www.motorsport.com/f1/news/honda-reveals-key-f1-power-unit-change-for-2027/10875520/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-19T07:59:48.000Z"
   }
  ]
 }
