@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-21T10:55:00.874Z",
+ "updated_at": "2026-11-21T13:04:04.974Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 14772607,
+   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-and-george-russell-to-discuss-traffic-woes-in-las-vegas-gp-qualifying/10876431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Kimi Antonelli and George Russell set for Mercedes talks over Las Vegas GP qualifying woes",
+   "summary": "George Russell and Kimi Antonelli will discuss the fallout from Formula 1’s Las Vegas Grand Prix qualifying “offline” following confusion over team orders and track position. Traffic played a significant role in qualifying on Friday night with drivers reluctant to go first, considering the advantage of a tow is huge around the low-downforce street circuit.",
+   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-and-george-russell-to-discuss-traffic-woes-in-las-vegas-gp-qualifying/10876431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-21T11:02:55.000Z"
+  },
   {
    "id": 942233257,
    "guid": "https://www.motorsport.com/f1/news/max-verstappen-shares-theory-on-ferraris-lack-of-top-speed-in-f1-2026/10876424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Lewis Hamilton finished sixth in a slippery second practice for the Las Vegas Grand Prix, before what he had promised fans would be an early night at his hotel with the newly released Grand Theft Auto VI. The seven-time world champion was speaking on stage at PUMA's Under the Lights fan event at its Las Vegas store on Tuesday night, two days before the game's release.",
    "link": "https://www.motorsport.com/f1/news/lewis-hamilton-plans-gta-vi-session-after-vegas-fp2-im-like-a-big-kid/10875895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-20T06:37:05.000Z"
-  },
-  {
-   "id": 1597780968,
-   "guid": "https://www.motorsport.com/f1/news/lewis-hamiltons-44-launches-alien-themed-area-44-collection-for-las-vegas-gp/10875890/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lewis Hamilton launches alien-themed Area 44 collection for Las Vegas GP",
-   "summary": "Seven-time Formula 1 champion Lewis Hamilton's fashion label +44 has returned to Las Vegas with Area 44, an alien-themed collection released ahead of this weekend's grand prix. The range is on sale through the +44 website and at a pop-up on the Encore Esplanade at Wynn Las Vegas, which runs until Sunday. The Briton showed it off to his followers on Instagram.",
-   "link": "https://www.motorsport.com/f1/news/lewis-hamiltons-44-launches-alien-themed-area-44-collection-for-las-vegas-gp/10875890/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-20T06:35:38.000Z"
   }
  ]
 }
