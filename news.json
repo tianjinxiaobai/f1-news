@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-22T10:54:18.535Z",
+ "updated_at": "2026-11-22T13:02:18.997Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 4086143893,
+   "guid": "https://www.motorsport.com/f1/news/the-one-aspect-of-max-verstappen-outsmarting-mercedes-that-left-red-bull-speechless/10876912/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "The one aspect of Max Verstappen \"outsmarting\" Mercedes that left Red Bull speechless",
+   "summary": "Max Verstappen claimed his fourth victory in the last six Formula 1 Grands Prix. This time, the Dutchman won at what is known as an energy-poor circuit, which is noteworthy given that Red Bull Ford Powertrains was still struggling at such venues at the start of this year.",
+   "link": "https://www.motorsport.com/f1/news/the-one-aspect-of-max-verstappen-outsmarting-mercedes-that-left-red-bull-speechless/10876912/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-22T11:58:03.000Z"
+  },
+  {
+   "id": 1554793660,
+   "guid": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Lewis Hamilton: ‘Charles Leclerc’s frame of mind cost us a lot of points today’",
+   "summary": "Lewis Hamilton subtly implied Charles Leclerc’s “frame of mind” was to blame for their collision in Formula 1’s Las Vegas Grand Prix. Hamilton and Leclerc were sixth and seventh on lap 37 of the Nevadan race, only some two seconds adrift of race leader Max Verstappen, when the Monegasque dived down the inside in Turn 7.",
+   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-22T11:26:45.000Z"
+  },
   {
    "id": 3429452,
    "guid": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotically-extraordinary-las-vegas/10876889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Isack Hadjar has admitted that Red Bull \"looked a bit stupid\" in what became a tow battle at the end of Las Vegas Grand Prix qualifying. He says it \"doesn't really matter\" where he starts on Saturday night. Hadjar set the fifth-fastest time in Q3, 0.699s behind Kimi Antonelli, while team-mate Max Verstappen took pole after the Italian's five-place grid penalty.",
    "link": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-21T06:36:25.000Z"
-  },
-  {
-   "id": 1866018145,
-   "guid": "https://www.motorsport.com/f1/news/george-russell-las-vegas-qualifying-tow-was-too-difficult-to-orchestrate/10876314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "George Russell: Las Vegas qualifying tow was \"too difficult to orchestrate\"",
-   "summary": "Mercedes Formula 1 driver George Russell claimed that getting the perfect tow in Las Vegas qualifying was \"too difficult to orchestrate\" after he missed out on pole position. Russell set the third-fastest time in Q3, 0.331 seconds behind team-mate Kimi Antonelli and 0.073s off Red Bull's Max Verstappen.",
-   "link": "https://www.motorsport.com/f1/news/george-russell-las-vegas-qualifying-tow-was-too-difficult-to-orchestrate/10876314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-21T06:31:04.000Z"
-  },
-  {
-   "id": 2518769272,
-   "guid": "https://www.motorsport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "George Russell slams Max Verstappen after Las Vegas clash: ‘He walks around like he’s bigger and better than everyone’",
-   "summary": "George Russell has hit out at Max Verstappen after they collided in Free Practice 3 at Formula 1’s Las Vegas Grand Prix. Verstappen overtook the Mercedes ahead of Turn 14 in a quest for free air, but Russell moved to get back ahead, with the Dutchman unsuccessfully closing the door.",
-   "link": "https://www.motorsport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-21T06:26:51.000Z"
   }
  ]
 }
