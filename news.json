@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-22T16:55:05.618Z",
+ "updated_at": "2026-11-22T18:57:19.486Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1604772055,
+   "guid": "https://www.motorsport.com/f1/news/rafael-camara-gives-up-f2-title-chance-to-finish-2026-f1-season-with-haas/10877028/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Haas keeps Rafael Camara in F1, ending his 2026 F2 title bid",
+   "summary": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge. Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027, and was fast-tracked into the seat after Ocon's relationship with the US-owned team deteriorated.",
+   "link": "https://www.motorsport.com/f1/news/rafael-camara-gives-up-f2-title-chance-to-finish-2026-f1-season-with-haas/10877028/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-22T18:28:04.000Z"
+  },
   {
    "id": 4086143893,
    "guid": "https://www.motorsport.com/f1/news/the-one-aspect-of-max-verstappen-outsmarting-mercedes-that-left-red-bull-speechless/10876912/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Lewis Hamilton put Ferrari's Q2 exit in qualifying for the Las Vegas Grand Prix down to energy deployment and floor damage, as the seven-time champion felt he'd rallied from difficulties with overall tyre grip.",
    "link": "https://www.motorsport.com/f1/news/floor-damage-deployment-down-to-hamiltons-las-vegas-q2-exit/10876295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-21T06:47:51.000Z"
-  },
-  {
-   "id": 3519390758,
-   "guid": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Isack Hadjar: Red Bull \"looked a bit stupid\" in Vegas qualifying tow game",
-   "summary": "Isack Hadjar has admitted that Red Bull \"looked a bit stupid\" in what became a tow battle at the end of Las Vegas Grand Prix qualifying. He says it \"doesn't really matter\" where he starts on Saturday night. Hadjar set the fifth-fastest time in Q3, 0.699s behind Kimi Antonelli, while team-mate Max Verstappen took pole after the Italian's five-place grid penalty.",
-   "link": "https://www.motorsport.com/f1/news/isack-hadjar-red-bull-looked-a-bit-stupid-in-vegas-qualifying-tow-game/10876319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-21T06:36:25.000Z"
   }
  ]
 }
