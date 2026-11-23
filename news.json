@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-23T19:11:04.710Z",
+ "updated_at": "2026-11-23T20:59:54.191Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1940848345,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
+   "summary": "Four-time Formula 1 champion Max Verstappen says the last time he won a race like the Las Vegas Grand Prix was when he was playing Mario Kart. The Red Bull driver converted pole position into his 75th grand prix win, and his third in Las Vegas, in a race that featured 352 overtakes and 35 lead changes.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-23T20:00:03.000Z"
+  },
+  {
+   "id": 1637915954,
+   "guid": "https://www.motorsport.com/f1/news/laurent-mekies-keeping-his-emotions-in-check-is-giving-isack-hadjar-lap-time/10877211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Laurent Mekies: Keeping his emotions in check is giving Isack Hadjar “lap time”",
+   "summary": "Isack Hadjar left the 2026 Las Vegas Grand Prix empty-handed after a Lap 26 front wing failure and a post-race 10-second safety car penalty relegated him to 15th, yet Red Bull team principal Laurent Mekies saw something far more encouraging on the Strip.",
+   "link": "https://www.motorsport.com/f1/news/laurent-mekies-keeping-his-emotions-in-check-is-giving-isack-hadjar-lap-time/10877211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-23T19:30:02.000Z"
+  },
   {
    "id": 3558499344,
    "guid": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "George Russell could have played it safe and walked away from the 2026 Las Vegas Grand Prix with a podium. Instead, the Mercedes driver gambled on a late lunge for second - and watched both his shot at victory and his championship cushion slide into the Turn 5 barrier.",
    "link": "https://www.motorsport.com/f1/news/russell-i-dont-regret-it-after-hitting-las-vegas-wall-in-late-lunge-for-second/10876720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-22T06:46:08.000Z"
-  },
-  {
-   "id": 1318456904,
-   "guid": "https://www.motorsport.com/f1/news/george-russell-explains-late-race-crash-in-las-vegas-f1-victory-bid/10876718/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "George Russell explains late-race crash in Las Vegas F1 victory bid",
-   "summary": "George Russell has admitted to making “a high-risk move” after crashing with three laps remaining in Formula 1’s Las Vegas Grand Prix in an attempt to clinch victory.",
-   "link": "https://www.motorsport.com/f1/news/george-russell-explains-late-race-crash-in-las-vegas-f1-victory-bid/10876718/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-22T06:37:21.000Z"
-  },
-  {
-   "id": 1983032608,
-   "guid": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Five quick takeaways from Las Vegas GP",
-   "summary": "Las Vegas gets the pack race it craved In America's artificial entertainment capital, F1 put the most artificial and entertaining spectacle. How fitting. The yo-yo racing from the early days of the 2026 season was back on full display, with the lack of electric energy available on the Strip's mile long straight bring back battery driven overtaking.",
-   "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-22T05:47:45.000Z"
   }
  ]
 }
