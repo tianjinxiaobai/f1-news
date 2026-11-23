@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-23T11:14:57.680Z",
+ "updated_at": "2026-11-23T13:29:38.398Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3710487532,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-would-rather-stay-home-but-trusts-f1s-safety-guarantees-for-middle-east-races/10876730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen \"would rather stay home\" but trusts F1's safety guarantees for Middle East races",
+   "summary": "After Formula 1 informed Imola that it would not be needed as a plan B, F1 is now fully committed to concluding the 2026 season in the Middle East. Although F1 has always maintained that it would do \"the right thing\" if the security situation deteriorated, it views the MotoGP weekend in Qatar as an example of how the final two Grands Prix can go ahead as planned.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-would-rather-stay-home-but-trusts-f1s-safety-guarantees-for-middle-east-races/10876730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-23T12:47:24.000Z"
+  },
+  {
+   "id": 35405980,
+   "guid": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10877167/10877167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Who slept best last night: Max Verstappen",
+   "summary": "There were 35 overtakes for the lead, they say, in the 2026 Las Vegas Grand Prix. Which sounds believable, but isn't even worth checking. Everyone who watched it knows there were a lot. Apparently, 17 of those involved Max Verstappen reclaiming the lead. And the vast majority were against George Russell.",
+   "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10877167/10877167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-23T11:23:51.000Z"
+  },
   {
    "id": 2985992915,
    "guid": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-charles-leclerc-10877136/10877136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "Fernando Alonso says Honda’s power deficit is so dire that other cars are taking extra margin around the Aston Martins at Formula 1’s Las Vegas Grand Prix. The Nevadan street circuit was expected to expose the Japanese power unit’s deficiencies, with a near-2km full-throttle portion.",
    "link": "https://www.motorsport.com/f1/news/fernando-alonso-honda-lacks-so-much-power-that-rivals-take-extra-margin-behind-us/10876414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-21T09:43:39.000Z"
-  },
-  {
-   "id": 2881541274,
-   "guid": "https://www.motorsport.com/f1/news/max-verstappen-reveals-mysterious-red-bull-issue-that-cannot-be-fixed-in-las-vegas/10876399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Max Verstappen reveals mysterious Red Bull issue that cannot be fixed in Las Vegas",
-   "summary": "Thanks to Kimi Antonelli's grid penalty, Max Verstappen will start Formula 1's Las Vegas Grand Prix from pole position, but that is not necessarily a reason for the Dutchman to be satisfied.",
-   "link": "https://www.motorsport.com/f1/news/max-verstappen-reveals-mysterious-red-bull-issue-that-cannot-be-fixed-in-las-vegas/10876399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-21T08:52:06.000Z"
-  },
-  {
-   "id": 216796136,
-   "guid": "https://www.motorsport.com/f1/news/lando-norris-frustrated-by-mclarens-shocking-top-speed-at-las-vegas-gp-qualifying/10876362/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Lando Norris frustrated by McLaren's \"shocking\" top speed at Las Vegas GP qualifying",
-   "summary": "Lando Norris lamented McLaren’s “shocking” straightline speed after missing out on pole at the Formula 1 Las Vegas Grand Prix. The 2025 world champion was fourth fastest on Friday night in Nevada and 0.351s off pacesetter Kimi Antonelli, with Max Verstappen and George Russell also quicker.",
-   "link": "https://www.motorsport.com/f1/news/lando-norris-frustrated-by-mclarens-shocking-top-speed-at-las-vegas-gp-qualifying/10876362/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-21T08:28:44.000Z"
   }
  ]
 }
