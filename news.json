@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-24T15:12:20.536Z",
+ "updated_at": "2026-11-24T17:11:59.948Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3998457987,
+   "guid": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "The issue that cost Pierre Gasly a potential \"win\" at F1's Las Vegas GP",
+   "summary": "Pierre Gasly reckons he potentially had the pace to win the Las Vegas Grand Prix, had a cooling issue not affected his Alpine Formula 1 car in the closing stages. The Frenchman finished fifth from eighth on the grid, but after 31 of the scheduled 50 laps, Gasly was third behind Red Bull’s eventual winner Max Verstappen and Mercedes’ George Russell.",
+   "link": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-24T15:38:33.000Z"
+  },
   {
    "id": 274160770,
    "guid": "https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Kimi Antonelli has explained the quirky “mistake” that cost him a shot at Formula 1 victory in the Las Vegas Grand Prix. The fastest driver in qualifying, Antonelli was sixth on the grid owing to a five-place drop for an engine change and was the only top-10 starter on mediums rather than softs, which contributed to a further two-position drop on lap one.",
    "link": "https://www.motorsport.com/f1/news/my-mistake-was-to-lift-why-kimi-antonelli-lost-power-in-las-vegas-f1-victory-battle/10876764/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-22T07:21:34.000Z"
-  },
-  {
-   "id": 1201266269,
-   "guid": "https://www.motorsport.com/f1/news/antonelli-explains-the-mistake-that-left-him-smoked-by-the-two-mclarens-in-las-vegas/10876732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Kimi Antonelli explains mistake that left him “smoked by the two McLarens” in Vegas",
-   "summary": "Kimi Antonelli looked primed to cap a charge from sixth on the grid with a dramatic last-lap victory at the 2026 Las Vegas Grand Prix. Instead, one split-second pedal adjustment drained his battery dry - handing Max Verstappen breathing room and dropping the Mercedes driver off the podium entirely.",
-   "link": "https://www.motorsport.com/f1/news/antonelli-explains-the-mistake-that-left-him-smoked-by-the-two-mclarens-in-las-vegas/10876732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-22T07:11:39.000Z"
   }
  ]
 }
