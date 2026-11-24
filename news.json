@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-24T17:11:59.948Z",
+ "updated_at": "2026-11-24T19:08:39.979Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 3168418627,
+   "guid": "https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Decision time looms for Colton Herta after 2027 Cadillac F1 snub",
+   "summary": "Cadillac's decision to stick with veteran incumbent Valtteri Bottas to partner Sergio Perez is a choice for continuity and stability after a debut campaign plagued with issues for Formula 1's 11th team in 2026. It also raises key questions over what's next for Colton Herta.",
+   "link": "https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-24T17:57:03.000Z"
+  },
   {
    "id": 3998457987,
    "guid": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Ferrari left the 2026 Las Vegas Grand Prix with seven points, two 10-second time penalties, and a fresh intra-team mess to untangle. Starting 10th and 11th after a painful double Q2 elimination, Charles Leclerc and Lewis Hamilton spent much of Saturday night fighting over the same stretch of road - until their battle boiled over on Lap 38 at the Turns 7–8 chicane.",
    "link": "https://www.motorsport.com/f1/news/charles-leclerc-admits-feeling-embarrassed-for-the-team-after-costly-las-vegas-clash-with-hamilton/10876758/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-22T07:32:07.000Z"
-  },
-  {
-   "id": 1955883033,
-   "guid": "https://www.motorsport.com/f1/news/my-mistake-was-to-lift-why-kimi-antonelli-lost-power-in-las-vegas-f1-victory-battle/10876764/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "“My mistake was to lift” – Why Kimi Antonelli lost power in Las Vegas F1 victory battle",
-   "summary": "Kimi Antonelli has explained the quirky “mistake” that cost him a shot at Formula 1 victory in the Las Vegas Grand Prix. The fastest driver in qualifying, Antonelli was sixth on the grid owing to a five-place drop for an engine change and was the only top-10 starter on mediums rather than softs, which contributed to a further two-position drop on lap one.",
-   "link": "https://www.motorsport.com/f1/news/my-mistake-was-to-lift-why-kimi-antonelli-lost-power-in-las-vegas-f1-victory-battle/10876764/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-22T07:21:34.000Z"
   }
  ]
 }
