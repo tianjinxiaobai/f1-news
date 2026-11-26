@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-26T07:31:14.450Z",
+ "updated_at": "2026-11-26T09:18:14.475Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 965118357,
+   "guid": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
+   "summary": "Oliver Bearman will officially stay at Haas for the 2027 F1 season after he and the team finally put pen to paper on a new deal. On Thursday Haas announced Bearman would stay put for next year, partnering Brazilian rookie Rafael Camara at the squad.",
+   "link": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-26T09:00:41.000Z"
+  },
   {
    "id": 3009273827,
    "guid": "https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -234,14 +242,6 @@
    "summary": "Frederic Vasseur suggested on Saturday evening (Sunday morning in Europe) that, following the Las Vegas Grand Prix, he could essentially deliver the very same dressing-down he had already given his drivers after Mexico. Because Charles Leclerc and Lewis Hamilton had done it again. And, once again, the roles were exactly the same.",
    "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-charles-leclerc-10877136/10877136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-23T10:00:42.000Z"
-  },
-  {
-   "id": 1457811323,
-   "guid": "https://www.motorsport.com/fia-f2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Colton Herta replaced at Hitech to end poor F2 season early",
-   "summary": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech. The nine-time IndyCar race winner made the transition to European single-seaters this year as part of his bid to gain an FIA Superlicence that is required to compete in Formula 1.",
-   "link": "https://www.motorsport.com/fia-f2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-23T09:38:18.000Z"
   }
  ]
 }
