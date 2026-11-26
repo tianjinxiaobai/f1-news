@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-26T19:09:09.506Z",
+ "updated_at": "2026-11-26T21:03:17.722Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1424280462,
+   "guid": "https://www.motorsport.com/f1/news/kimi-antonelli-teases-nordschleife-race-with-max-verstappen-but-there-is-one-condition/10878047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Kimi Antonelli teases Nordschleife race with Max Verstappen, but there is one condition",
+   "summary": "2026 Formula 1 champion Kimi Antonelli says he would love to race alongside four-time champion Max Verstappen at the Nordschleife, but admits he would first have to win the support of Mercedes team principal Toto Wolff. Verstappen has made no secret of his love of endurance racing, and has raced GT3 cars at the Nurburgring alongside his F1 commitments.",
+   "link": "https://www.motorsport.com/f1/news/kimi-antonelli-teases-nordschleife-race-with-max-verstappen-but-there-is-one-condition/10878047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-26T20:56:51.000Z"
+  },
+  {
+   "id": 3861150189,
+   "guid": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
+   "summary": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of this Formula 1 season, primarily to allow Tom Hart to settle into the role ahead of his expected permanent appointment while Lambiase is still with the team.",
+   "link": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-26T19:55:34.000Z"
+  },
   {
    "id": 1691802963,
    "guid": "https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,22 +242,6 @@
    "summary": "After Charles Leclerc and Lewis Hamilton collided for the second time in three races during the 2026 Las Vegas Grand Prix, the paddock debate quickly moved past who misjudged Turn 7 and onto a harder question: how can Ferrari actually stop it from happening again?",
    "link": "https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-24T13:00:03.000Z"
-  },
-  {
-   "id": 1666348883,
-   "guid": "https://www.motorsport.com/f1/news/juan-pablo-montoya-explains-how-red-bulls-deployment-trap-outsmarted-mercedes-in-las-vegas/10877399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Juan Pablo Montoya explains how Red Bull outsmarted Mercedes at F1 Las Vegas GP",
-   "summary": "Mercedes brought the fastest single-lap package to the Las Vegas Strip - newly crowned 2026 world champion Kimi Antonelli topped qualifying before a five-place engine penalty dropped him to sixth, while George Russell lined up alongside polesitter Max Verstappen.",
-   "link": "https://www.motorsport.com/f1/news/juan-pablo-montoya-explains-how-red-bulls-deployment-trap-outsmarted-mercedes-in-las-vegas/10877399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-24T12:28:59.000Z"
-  },
-  {
-   "id": 1904159646,
-   "guid": "https://www.motorsport.com/f1/news/isack-hadjar-frustrated-what-really-happened-on-red-bulls-team-radio-in-las-vegas/10877375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Isack Hadjar frustrated – What really happened on Red Bull's team radio in Las Vegas",
-   "summary": "Isack Hadjar started Formula 1’s Las Vegas Grand Prix from fourth on the grid, and by lap four he had already found himself running second, right behind Red Bull team-mate Max Verstappen.",
-   "link": "https://www.motorsport.com/f1/news/isack-hadjar-frustrated-what-really-happened-on-red-bulls-team-radio-in-las-vegas/10877375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-24T10:04:17.000Z"
   }
  ]
 }
