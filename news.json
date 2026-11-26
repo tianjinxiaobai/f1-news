@@ -1,8 +1,16 @@
 {
- "updated_at": "2026-11-26T11:05:29.989Z",
+ "updated_at": "2026-11-26T13:30:20.268Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 1606609804,
+   "guid": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "F1 2027 grid: Who will be racing and where? The full line-up",
+   "summary": "The 2027 Formula 1 grid is now complete following the announcement from Haas that it has retained star youngster Oliver Bearman. But the American squad is also the only team that is altering its driver pairing for next season, as many potentially enthralling storylines failed to materialise. So, here’s a look at the situation.",
+   "link": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-26T12:04:37.000Z"
+  },
   {
    "id": 3906132511,
    "guid": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -226,14 +234,6 @@
    "summary": "The Qatar Grand Prix starts at 4pm UK time on Sunday 29 November. Formula 1 returns to the Lusail International Circuit for the penultimate race of the 2026 season, with every session live on Sky Sports F1. The full UK schedule and viewing information are below.",
    "link": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-uk-times-schedule-how-to-watch/10877083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-23T16:00:27.000Z"
-  },
-  {
-   "id": 1606609804,
-   "guid": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "F1 2027 grid: Who will be racing and where?",
-   "summary": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama. There is only one team - Haas - that is changing its line-up for next season as many potentially enthralling storylines failed to materialise in regards to the 2027 grid. So, here’s a look at the situation.",
-   "link": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-23T15:46:47.000Z"
   },
   {
    "id": 3155705890,
