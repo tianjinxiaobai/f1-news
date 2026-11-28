@@ -1,8 +1,48 @@
 {
- "updated_at": "2026-11-28T03:53:47.610Z",
+ "updated_at": "2026-11-28T12:57:56.780Z",
  "source": "motorsport",
  "count": 30,
  "items": [
+  {
+   "id": 595433544,
+   "guid": "https://www.motorsport.com/f1/news/fia-considering-return-of-drs-alongside-push-to-pass-for-f1-in-2030/10878475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "FIA explores DRS return alongside push-to-pass system for F1’s V8 engines",
+   "summary": "Although the framework announced last week establishes the key elements of Formula 1’s next power unit regulations – a 2.1-litre turbocharged V8 with a significantly reduced electrical component – many details still need to be worked out over the coming months. One of the key remaining questions is how to facilitate overtaking.",
+   "link": "https://www.motorsport.com/f1/news/fia-considering-return-of-drs-alongside-push-to-pass-for-f1-in-2030/10878475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-28T12:04:46.000Z"
+  },
+  {
+   "id": 1399706669,
+   "guid": "https://www.motorsport.com/f1/news/why-williams-breached-the-2025-f1-cost-cap/10878544/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Why Williams breached the 2025 F1 cost cap",
+   "summary": "Williams' breach of Formula 1's cost cap regulations for the 2025 season was down to a difference in interpretation between its own finance team and the FIA adjudicators, relating to the company's restructure as the team moved assets into a new limited liability partnership.",
+   "link": "https://www.motorsport.com/f1/news/why-williams-breached-the-2025-f1-cost-cap/10878544/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-28T10:40:10.000Z"
+  },
+  {
+   "id": 457861379,
+   "guid": "https://www.motorsport.com/f1/news/george-russell-draws-pointed-contrast-between-hamiltons-grace-and-dignity-and-verstappens-style/10878293/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "George Russell says Lewis Hamilton offers a different example from Max Verstappen",
+   "summary": "In an exclusive Sky Sports F1 interview with Martin Brundle - previewed Friday ahead of its full broadcast before Sunday’s Qatar Grand Prix - George Russell addressed his reignited Las Vegas feud with the four-time world champion Max Verstappen by drawing a quiet, unmistakable contrast between two of Formula 1’s modern giants.",
+   "link": "https://www.motorsport.com/f1/news/george-russell-draws-pointed-contrast-between-hamiltons-grace-and-dignity-and-verstappens-style/10878293/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-28T09:42:58.000Z"
+  },
+  {
+   "id": 539303029,
+   "guid": "https://www.motorsport.com/f1/news/100-wear-in-15-laps-f1s-tyre-challenges-in-qatar-more-extreme-than-pirelli-expected/10878479/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "100% wear in 15 laps – F1’s tyre challenges in Qatar far more extreme than Pirelli expected",
+   "summary": "Every year, the Lusail International Circuit represents the biggest challenge on the Formula 1 calendar for its sole tyre supplier, Pirelli. It is precisely for that reason that a maximum stint length is once again in place this season, with the limit this time set at 27 laps per set of tyres.",
+   "link": "https://www.motorsport.com/f1/news/100-wear-in-15-laps-f1s-tyre-challenges-in-qatar-more-extreme-than-pirelli-expected/10878479/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-28T08:45:03.000Z"
+  },
+  {
+   "id": 1300697996,
+   "guid": "https://www.motorsport.com/f1/news/hankook-tipped-to-enter-race-for-f1-tyre-supply-contract/10878383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "title": "Hankook tipped to enter race for F1 tyre supply contract",
+   "summary": "It's another vivid demonstration of Formula 1's ever-growing global reach and popularity that another serious contender has emerged to bid for its exclusive tyre-supply contract. Pirelli took over from Bridgestone as F1's sole tyre supplier in 2011 and for much of its first decade it faced little in the way of concerted challenge when renewal time rolled around.",
+   "link": "https://www.motorsport.com/f1/news/hankook-tipped-to-enter-race-for-f1-tyre-supply-contract/10878383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "published_at": "2026-11-28T08:00:03.000Z"
+  },
   {
    "id": 931358119,
    "guid": "https://www.motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -202,46 +242,6 @@
    "summary": "The 2027 Formula 1 grid is now complete following the announcement from Haas that it has retained star youngster Oliver Bearman. But the American squad is also the only team that is altering its driver pairing for next season, as many potentially enthralling storylines failed to materialise. So, here’s a look at the situation.",
    "link": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "published_at": "2026-11-26T12:04:37.000Z"
-  },
-  {
-   "id": 3906132511,
-   "guid": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Fernando Alonso to miss Qatar F1 media day with viral illness",
-   "summary": "Fernando Alonso will be absent from Formula 1's media day ahead of the Qatar Grand Prix as he recovers from a \"viral infection\". The two-time champion will miss the traditional media obligations at the Lusail International Circuit as he aims to return to fitness for first practice on Friday.",
-   "link": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-26T10:57:58.000Z"
-  },
-  {
-   "id": 3411536005,
-   "guid": "https://www.motorsport.com/f1/news/fernando-alonso-i-will-quit-f1-when-i-feel-slow-not-at-a-specific-age/10877599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Fernando Alonso: ‘I will quit F1 when I feel slow, not at a specific age’",
-   "summary": "Fernando Alonso says he will quit Formula 1 when he feels slow and he doesn’t need to be as fit as a football player to be competitive. Alonso is the most experienced driver in F1’s history, having competed in 23 seasons from 2001 to 2026, and the two-time champion has maintained his involvement well beyond his peers’ retirement age despite his current 245-race winless streak.",
-   "link": "https://www.motorsport.com/f1/news/fernando-alonso-i-will-quit-f1-when-i-feel-slow-not-at-a-specific-age/10877599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-26T10:39:33.000Z"
-  },
-  {
-   "id": 2388376488,
-   "guid": "https://www.motorsport.com/f1/news/mclaren-flags-the-crucial-early-stop-trap-inside-qatars-raised-27-lap-tire-rule/10877828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "McLaren flags the crucial early-stop trap inside Qatar’s raised 27-lap rule",
-   "summary": "Formula 1 returns to the Losail International Circuit this weekend with a familiar strategic guardrail - and a subtly shifted trap waiting right after lights out.",
-   "link": "https://www.motorsport.com/f1/news/mclaren-flags-the-crucial-early-stop-trap-inside-qatars-raised-27-lap-tire-rule/10877828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-26T10:03:32.000Z"
-  },
-  {
-   "id": 965118357,
-   "guid": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
-   "summary": "Oliver Bearman will officially stay at Haas for the 2027 Formula 1 season after he and the team finally put pen to paper on a new deal. The American squad announced the renewal on Thursday, meaning the 21-year-old Briton will partner Brazilian rookie Rafael Camara at Haas next season.",
-   "link": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-26T09:00:41.000Z"
-  },
-  {
-   "id": 3009273827,
-   "guid": "https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "title": "Nico Rosberg rules George Russell out of 2027 F1 title fight: “Dug himself into a mental hole”",
-   "summary": "George Russell entered the 2026 Formula 1 campaign looking every bit like Mercedes’ undisputed leader. Nine months later, former Silver Arrows world champion Nico Rosberg does not even consider the 28-year-old a championship contender for next season.",
-   "link": "https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "published_at": "2026-11-26T00:30:03.000Z"
   }
  ]
 }
